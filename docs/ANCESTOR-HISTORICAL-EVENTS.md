@@ -1,0 +1,461 @@
+# Historical Events in David Knight’s American Ancestry
+
+Systematic search of the FamilySearch tree rooted at **PD5F-3GQ (David Knight)**.
+Method: crawled the full ancestry skeleton, then a place-aware traversal that fetched each
+ancestor’s event record and **stopped climbing at each immigrant generation**.
+
+- **1,446** ancestors lived in America / British Colonial America / colonial Louisiana & Acadia
+- **1087** of them carry documented events or notable markers
+
+---
+
+## Salem Witch Trials (1692) — 4
+- **Edward FitzRandolph II** (1607–1675) `K2SJ-BCM`  —  Sutton in Ashfield, Nottinghamshire, England → Piscataway Township, Middlesex, New Jersey, British Colonial America
+  - IMMIGRATION:: [1630] @Salem, Virginia, United States :: Immigration aboard the Winfield Fleet
+- **Sarah Towne** (1637–1703) `LZSS-S4L`  —  Salem, Essex, Massachusetts Bay Colony, British Colonial America → Framingham, Middlesex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Accused of Witchcraft, Salem Witch Hysteria [1692] @Salem, Essex, Massachusetts Bay Colony, British Colonial America :: Sarah Towne was accused of witchcraft during the Salem Witch Trials
+- **John Pemaquid Pride II** (1636–1730) `M198-62G`  —  St Giles without Cripplegate, Middlesex, England, United Kingdom → Beverly, Essex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1637] @Salem, Essex, Massachusetts, United States
+- **Richard Singletary** (1585–1687) `L51W-ZTP`  —  Lincolnshire, England → Haverhill, Essex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1637] @Salem, Massachusetts Bay Colony, British Colonial America
+
+## Colonial Governors & Legislators — 10
+- **Captain Thomas Carter** (1630–1700) `9HWY-ZVX`  —  Bedfordshire, England, United Kingdom → Lancaster, Virginia, British Colonial America
+  - OTHER_EVENT::Member [1677] @Lancaster, Virginia, British Colonial America :: Council of Burgess
+- **Thomas Brooke** (1660–1730) `9XHM-V2M`  —  District 4, Prince George's, Maryland, British Colonial America → Prince George's, Maryland, British Colonial America
+  - OCCUPATION:: [1720] @Maryland, British Colonial America :: Acting Governor of Maryland (due to the departure of Gov. John Hart (d. 1740) until the arrival of Gov. Charles Calvert (1688-1734)
+- **Col. John Catlett Jr.** (1658–1724) `LCZR-WSL`  —  Old Rappahannock, Virginia, British Colonial America → Essex, Virginia, British Colonial America
+  - OTHER_EVENT::Paid 600 lbs tobo for 2 wolves heads by Pitt, 7500 lbs tobo for Burgess [12 December 1693] @Old Rappahannock, Virginia, British Colonial America ::  His b-i-l Francis Taliaferro was paid 
+- **Maj. Thomas Brooke I** (1632–1676) `LKQ6-8J1`  —  Battle, Sussex, England → Calvert, Maryland, British Colonial America
+  - OCCUPATION:: [from 1663 to 1669] @Calvert, Maryland, British Colonial America :: Burgess for Calvert County
+- **Maj John Greene** (1620–1708) `LZGX-VLX`  —  Salisbury, Wiltshire, England → Warwick, Providence, Rhode Island, British Colonial America
+  - OCCUPATION:: [from 1690 to 1700] @Rhode Island, British Colonial America :: Deputy Governor of Rhode Island
+- **Jacques Jacob Bourgeois** (1621–1702) `9J7J-3GF`  —  Brie, Ariège, France → Beaubassin, Nova Scotia, Canada
+  - IMMIGRATION:: [1642] @Port-Royal, Acadia, New France :: At the age of 22 he left the port of La Rochelle, France, aboard the ship Saint-François for a better life in Acadia. He arrived in Port-Royal i
+- **Col Walter Chiles II** (1630–1671) `MCV3-FT1`  —  St Mary Redcliffe, Bristol, England → Jamestown, Virginia, British Colonial America
+  - OCCUPATION:: [from 1641 to 1653] @Darkesville, Berkeley, Virginia, United States :: Burgess
+- **John Neville** (1600–1664) `LBJN-71R`  —  Cambridgeshire, England → Port Tobacco, Charles, Maryland, British Colonial America
+  - OTHER_EVENT::Property [1650] @Poplar Hill, Talbot, Maryland, British Colonial America :: Carnoll and Nevill sell "Thomas "Peteels" land.  They sell the land to Richard Bennett, a Puritan agitator who 
+- **Colonel Lemuel Mason** (1628–1702) `LHBP-VB5`  —  Elizabeth City, Virginia, British Colonial America → Norfolk County, Virginia, British Colonial America
+  - OCCUPATION:: [from 1654 to 1686] @Norfolk County, Virginia, British Colonial America :: Burgess for Lower Norfolk 1654-63, 1671-73, 1680-82, 1684-86 (Dorman, Adventurers of Purse and Person, p. 570)
+- **Governor Caleb Carr** (1623–1695) `L6LN-RDY`  —  Maidstone, Kent, England → Newport, Newport, Rhode Island, British Colonial America
+  - OCCUPATION:: [from 1 May 1695 to 17 December 1695] @Rhode Island, British Colonial America :: Governor of Rhode Island and Providence Plantations 
+
+## Military Officers & Soldiers — 128
+- **Captain Thomas Carter** (1630–1700) `9HWY-ZVX`  —  Bedfordshire, England, United Kingdom → Lancaster, Virginia, British Colonial America
+- **Thomas Brooke** (1660–1730) `9XHM-V2M`  —  District 4, Prince George's, Maryland, British Colonial America → Prince George's, Maryland, British Colonial America
+- **Col. John Catlett Jr.** (1658–1724) `LCZR-WSL`  —  Old Rappahannock, Virginia, British Colonial America → Essex, Virginia, British Colonial America
+- **Maj. Thomas Brooke I** (1632–1676) `LKQ6-8J1`  —  Battle, Sussex, England → Calvert, Maryland, British Colonial America
+- **Lt. William Harris** (1633–1698) `LBK9-RLM`  —  England → Lorton, Fairfax County, Virginia, British Colonial America
+- **Maj John Greene** (1620–1708) `LZGX-VLX`  —  Salisbury, Wiltshire, England → Warwick, Providence, Rhode Island, British Colonial America
+- **Jacques Jacob Bourgeois** (1621–1702) `9J7J-3GF`  —  Brie, Ariège, France → Beaubassin, Nova Scotia, Canada
+- **Col Walter Chiles II** (1630–1671) `MCV3-FT1`  —  St Mary Redcliffe, Bristol, England → Jamestown, Virginia, British Colonial America
+- **Capt Joseph Adams Sr** (1626–1694) `L1W2-FV7`  —  Kingweston, Somerset, England → Braintree, Quincy, Suffolk, Massachusetts Bay Colony, British Colonial America
+- **Col John Catlett IV** (1626–1670) `LJYD-THT`  —  Kent, England → Port Royal, Caroline, Virginia, British Colonial America
+- **John Lamont Young** (1671–1783) `LDMY-5LD`  —  Scotland, United Kingdom → Augusta, Virginia, United States
+- **Joseph David Jolly** (1718–1788) `LZ6V-WY3`  —  Charleston, South Carolina, United States → Union, Union, South Carolina, United States
+- **Colonel Lemuel Mason** (1628–1702) `LHBP-VB5`  —  Elizabeth City, Virginia, British Colonial America → Norfolk County, Virginia, British Colonial America
+- **Edward FitzRandolph II** (1607–1675) `K2SJ-BCM`  —  Sutton in Ashfield, Nottinghamshire, England → Piscataway Township, Middlesex, New Jersey, British Colonial America
+- **Thomas Lindley Sr.** (1706–1781) `L69G-WSL`  —  Carlow, County Carlow, Ireland → Orange, North Carolina, United States
+- **Major Thomas Owsley I** (1658–1700) `MMRW-T5K`  —  Stogursey, Somerset, England → Fort Belvoir, Fairfax County, Virginia, British Colonial America
+- **Daniel Gaines** (1614–1684) `M851-RCD`  —  Aber-Brân, Breconshire, Wales → Old Rappahannock, Virginia, British Colonial America
+- **Major Edward Dale** (1620–1695) `LJ1G-835`  —  Merseyside, England, United Kingdom → White Chapel District, Lancaster, Virginia, United States
+- **Capt. Richard Littlepage Jr** (1662–1717) `KLBP-Q54`  —  New Kent, Virginia, British Colonial America → St. Peter's Parish, New Kent, Virginia, British Colonial America
+- **Chevalier Karl Friederich D'Arensbourg** (1694–1777) `LH6F-HHH`  —  Stettin, Randow, Pomerania, Prussia, Germany → St. Charles, Louisiana, United States
+- **Captain Thomas Owsley II** (1697–1750) `LBQV-T8P`  —  Stafford Courthouse, Stafford, Virginia, British Colonial America → Fairfax County, Virginia, British Colonial America
+- **Hugh McWhorter Sr.** (1670–1749) `L8SL-6YS`  —  County Armagh, Ireland → Pencader Hundred, New Castle, Delaware, British Colonial America
+- **Symon Miller** (1642–1684) `L63K-CND`  —  Bristol, England → Rappahannock, Essex, Virginia, British Colonial America
+- **Captain William Harrison** (1615–1712) `G574-14R`  —  Leinster, Ireland → Charles City, Charles City County, Virginia, British Colonial America
+- **Capt. John Vance** (1691–1760) `9JFL-24R`  —  Salem, Salem, New Jersey, British Colonial America → Frederick, Virginia, British Colonial America
+- **Francis Hester** (1650–1720) `L5GZ-SFC`  —  Oxford, Oxfordshire, England, United Kingdom → St. Peter's Parish, New Kent, Virginia, United States
+- **William Lea** (1654–1703) `LVYD-397`  —  Charles City, Charles City County, Virginia, British Colonial America → St. Stephens Parish, King and Queen, Virginia, British Colonial America
+- **John Heard** (1612–1689) `LT3J-BXN`  —  Chichester, Sussex, England → Dover, Strafford, New Hampshire, British Colonial America
+- **James Richard Fletcher** (1786–1862) `LXSJ-7X6`  —  Rockbridge, Virginia, United States → Lee, Virginia, United States
+- **Joshua Phipps** (1746–1835) `LDM1-CM1`  —  Uwchlan Township, Chester, Pennsylvania, British Colonial America → Green, Kentucky, United States
+- **Johann Peter Kinder** (1710–1749) `LTB4-VTX`  —  Dudweiler, Saarbrücken, Saarland, Germany → Salem, Marion, Oregon, United States
+- **Mary Bathsheba Lovett** (1645–1676) `LZ6X-BTB`  —  Virginia, British Colonial America → Virginia, British Colonial America
+- **Ambrose G Bramlett** (1664–1732) `L876-55W`  —  Warwickshire, England → Bedford City, Virginia, United States
+- **Thomas Hammond** (1668–1724) `L4JV-6P4`  —  Anne Arundel, Maryland, British Colonial America → Baltimore, Baltimore, Maryland, British Colonial America
+- **Lancaster Lovett Sr** (1609–1673) `LC2N-HKY`  —  Astwell with Falcutt, Northamptonshire, England → Lynnhaven Parish, Princess Anne, Virginia, British Colonial America
+- **James Thelaball** (1608–1693) `L7GG-68R`  —  Cantal, France → Lynnhaven Parish, Princess Anne, Virginia, British Colonial America
+- **Dr John Augustus Knight** (1881–1958) `KCSK-3DH`  —  Knight, Vernon, Louisiana, United States → DeRidder, Beauregard, Louisiana, United States
+- **John Lee Fogleman** (1895–1979) `L5L7-Y6H`  —  Cottonport, Avoyelles, Louisiana, United States → Rapides, Louisiana, United States
+- **Elias Chaffin** (1763–1837) `9WD5-LBY`  —  Chester, Pennsylvania, British Colonial America → Clinton, Illinois, United States
+- **Lt. James Edgar Gilliland** (1745–1810) `LCBW-D5H`  —  Lancaster, Pennsylvania, United States → Botetourt, Virginia, United States
+- **Benedict Hammack** (1740–1815) `LHPP-DLF`  —  Richmond County, Virginia, United States → Richmond, Virginia, United States
+- **J.  Gideon Hogg** (1722–1793) `L17H-YKV`  —  Hanover, Virginia, British Colonial America → Caswell, North Carolina, United States
+- **Edward Ned Garrett Jr.** (1733–1794) `L6GZ-KHD`  —  New Kent, Virginia, British Colonial America → Laurens, South Carolina, United States
+- **Mason Combs** (1713–1785) `LB24-516`  —  Overwharton Parish, Stafford, Virginia, British Colonial America → Dobson Township, Surry, North Carolina, United States
+- **William Ogilvie Jr** (1728–1813) `KPQ6-2X2`  —  Virginia, British Colonial America → Williamson, Tennessee, United States
+- **Thomas Jackson** (1739–1792) `LD58-CQM`  —  Virginia, British Colonial America → Prince Edward, Virginia, United States
+- **John Parks Sr** (1706–1793) `LHKP-QQW`  —  Essex, Virginia, British Colonial America → Wilkes, North Carolina, United States
+- **John Haywood II** (1684–1756) `LW19-BJ5`  —  Barbados → Edgecombe, North Carolina, United States
+- **Nicholas Gentry I** (1655–1709) `LBY4-C5N`  —  England → New Kent, Virginia, British Colonial America
+- **Capt. William Sorrell Ballard Sr.** (1682–1754) `LK2S-TTV`  —  Caret, Essex, Virginia, British Colonial America → King and Queen, Virginia, British Colonial America
+- **Col. Thomas Parke** (1684–1761) `LRXH-HQ3`  —  Old Rappahannock, Virginia, British Colonial America → Albemarle, Virginia, British Colonial America
+- **Truman Francis Shelton** (1921–2003) `L262-RS1`  —  Slaton, Lubbock, Texas, United States → Lubbock, Lubbock, Texas, United States
+- **Howard Arleigh Mahle** (1905–2000) `G8B4-KSP`  —  Texas, United States → Lubbock, Texas, United States
+- **Harold Joseph Lagroue Sr.** (1893–1976) `LTZX-SMW`  —  New Orleans, Orleans, Louisiana, United States → ?
+- **William F. Morris** (1763–1826) `LT4H-BSW`  —  Craven, North Carolina, British Colonial America → St. Tammany, Louisiana, United States
+- **Nicholas Ware Garrett** (1765–1846) `KLFD-X85`  —  Fairfax Parish, Fairfax County, Virginia, British Colonial America → Laurens, South Carolina, United States
+- **Lt William Randolph Singletary** (1755–1802) `KZC8-88Q`  —  Bladen, North Carolina, United States → Elizabethtown, Bladen, North Carolina, United States
+- **James Lindley** (1735–1779) `LY7V-XZN`  —  London Grove Township, Chester, Pennsylvania, British Colonial America → Ninety Six, Greenwood, South Carolina, United States
+- **Thomas Franklin Jones** (1745–1781) `KNY6-KK8`  —  Newberry, Newberry, South Carolina, United States → Edgefield, South Carolina, United States
+- **George Meridas Parks** (1759–1837) `LTL9-J96`  —  Amherst, Virginia, British Colonial America → Ellettsville, Richland Township, Monroe, Indiana, United States
+- **Elizabeth E Foster** (1694–1775) `LTZW-CBV`  —  Spotsylvania, Virginia, British Colonial America → Spotsylvania, Virginia, British Colonial America
+- **Colonel Samuel Prioleau** (1717–1792) `L45Q-WQ2`  —  Charleston, Charleston, South Carolina, United States → Charleston, South Carolina, United States
+- **Elizabeth Hext** (1723–1769) `L45Q-W22`  —  Charleston, Charleston, South Carolina, United States → ?
+- **James Arnold** (1723–1776) `L8SD-32X`  —  Mecklenburg, Virginia, United States → Mecklenburg, Virginia, British Colonial America
+- **Jarrett or Gerrard Menefee** (1721–1811) `M4B5-NXF`  —  Montgomery, Virginia, United States → Lincoln, Kentucky, United States
+- **Colonel Samuel Prioleau** (1690–1752) `LHFR-CXT`  —  Charleston, Charleston, South Carolina, United States → ?
+- **David Hext** (1686–1754) `L87P-XVJ`  —  Charleston, Charleston, South Carolina, United States → Charleston, Charleston, South Carolina, United States
+- **William Ogilvy** (1692–1760) `MQJ8-WZZ`  —  Banffshire, Scotland, United Kingdom → Granville, North Carolina, United States
+- **Captain Thomas Henry Sutton Jr** (1685–1729) `GFTD-V51`  —  Talbot, Maryland, British Colonial America → Baltimore, Baltimore, Maryland, British Colonial America
+- **Alexander Hamilton Shelton** (1895–1963) `LV7S-QCT`  —  Marietta, Love, Oklahoma, United States → Slaton, Lubbock, Texas, United States
+- **Walter Leonard Shelton** (1873–1944) `LHP3-XJ2`  —  Mount Vernon, Jefferson, Illinois, United States → Mountain Park, Kiowa, Oklahoma, United States
+- **Abraham Garrett** (1796–1882) `MW2B-7R4`  —  Laurens, South Carolina, United States → Gwinnett, Georgia, United States
+- **Josiah Singletary** (1763–1843) `LXW3-J9D`  —  Bladen, North Carolina, United States → ?
+- **John Johann Blume** (1742–1816) `MYTB-RXD`  —  Denmark → Blackville Township, Barnwell, South Carolina, United States
+- **Margaret Vaughan** (1721–1775) `K8HQ-6RR`  —  Virginia, British Colonial America → South Carolina, British Colonial America
+- **Lafayette Adam Free Sr** (1737–1836) `LRZ9-MQY`  —  Hilton Head Island, Beaufort, South Carolina, British Colonial America → Fairfield, South Carolina, United States
+- **Letitia Thompson** (1753–1830) `LHLP-Y7L`  —  Guilford, North Carolina, United States → Williamson, Tennessee, United States
+- **William Drumright Sr** (1748–1828) `LCLN-CNX`  —  Boydton, Mecklenburg, Virginia, British Colonial America → South Hill, Mecklenburg, Virginia, United States
+- **Edward Garrett** (1708–1751) `L6GZ-K4Q`  —  Stafford, Virginia, British Colonial America → Loudoun, Virginia, British Colonial America
+- **Captain Richard Barnes** (1680–1759) `LHDM-56D`  —  Westmoreland, Virginia, British Colonial America → Chowan, Chowan, North Carolina, British Colonial America
+- **Matthew Barnes Sr** (1670–1746) `LZ1Y-1DH`  —  Port Tobacco, Charles, Maryland, British Colonial America → Port Tobacco, Charles, Maryland, British Colonial America
+- **Captain Robert Lucy** (1641–1687) `G3HG-LH6`  —  Charles City, Charles City County, Virginia, British Colonial America → Prince George, Virginia, British Colonial America
+- **Captain John Henry Chiles Sr.** (1671–1719) `L18T-VJV`  —  Jamestown, Virginia, British Colonial America → Hanover, Virginia, British Colonial America
+- **Christopher Webb II** (1630–1694) `KN3V-B53`  —  Crediton, Devon, England → Braintree, Suffolk, Massachusetts Bay Colony, British Colonial America
+- **James Travers** (1645–1717) `LBNV-MD5`  —  Newbury, Essex, Massachusetts Bay Colony, British Colonial America → Brookfield, Worcester, Massachusetts Bay Colony, British Colonial America
+- **Gen Abraham Whinery** (1795–1866) `L7YK-SN6`  —  Orange, North Carolina, United States → Benton, Arkansas, United States
+- **Samuel Reuben Gentry Sr.** (1778–1815) `L416-BTY`  —  South Carolina, United States → Nashville, Davidson, Tennessee, United States
+- **Henry Bagley Sr.** (1732–1802) `L5B4-5KS`  —  Sussex, Virginia, British Colonial America → Chatham, North Carolina, United States
+- **Israel F Outhouse** (1759–1810) `LC2T-8TQ`  —  Haverstraw, Orange, New York, United States → Christian, Kentucky, United States
+- **Thomas Lamb** (1745–1816) `L29V-WHF`  —  Middletown Township, Bucks, Pennsylvania, United States → Williamson, Tennessee, United States
+- **Enoch B Floyd Sr** (1737–1795) `LH7P-QMB`  —  Anson, North Carolina, United States → Union, South Carolina, United States
+- **George Little** (1735–1815) `L4T4-7VR`  —  Hoddom, Dumfriesshire, Scotland → Guffie, Daviess, Kentucky, United States
+- **Samuel Ingram** (1738–1799) `LJTM-BWM`  —  Radford, Bedford, Virginia, United States → Montgomery, Montgomery, Virginia, United States
+- **Captain John Tucker Sr** (1664–1749) `LJGP-Z7S`  —  Salisbury, Essex, Massachusetts Bay Colony, British Colonial America → Gloucester, Essex, Massachusetts Bay Colony, British Colonial America
+- **Colonel John Evans Morgan** (1642–1703) `PZTD-JWC`  —  Nantmel, Radnorshire, Wales, United Kingdom → Radnor Township, Chester, Pennsylvania, United States
+- **Captain Daniel Hankins** (1720–1796) `G8PD-HW6`  —  Lunenburg, Lunenburg, Virginia, British Colonial America → Pittsylvania, Virginia, United States
+- **Jacob Davis** (1733–1794) `27CH-GNX`  —  Washington, Coventry, Kent, Rhode Island, British Colonial America → Nottoway, Virginia, United States
+- **Benjamin Singletery** (1656–1697) `LB7N-H54`  —  Haverhill, Essex, Massachusetts, United States → South Carolina, British Colonial America
+- **Captain John Ambrose Parks** (1642–1709) `GHZN-HBZ`  —  St Clement, Cornwall, England → Accomack, Virginia, United States
+- **Joseph Treat** (1662–1721) `LZKN-5WC`  —  Milford, New Haven, Connecticut Colony, British Colonial America → Milford, New Haven, Connecticut Colony, British Colonial America
+- **Leo Richard Knight** (1910–1971) `PH3V-5NL`  —  Louisiana, United States → ?
+- **William Albert Odom Sr** (1889–1936) `L2RX-CMV`  —  Louisiana, United States → Oakdale, Allen, Louisiana, United States
+- **Isaiah Fogleman** (1838–1916) `9VWN-LJZ`  —  Avoyelles, Louisiana, United States → Alexandria, Rapides, Louisiana, United States
+- **Pvt Abraham Whinery** (1764–1820) `L7GV-X32`  —  Orange, North Carolina, United States → Gravette, Benton, Arkansas, United States
+- **Isaac Odom** (1760–1795) `LKQB-LF8`  —  ? → ?
+- **James Thomas** (1770–1850) `GWSD-JWH`  —  North Carolina, British Colonial America → St. Tammany, Louisiana, United States
+- **William Jeter** (1711–1797) `L6JV-CGK`  —  Lunenburg, Virginia, British Colonial America → Edgefield, South Carolina, United States
+- **Elizabeth Sarah Cargill** (1749–1787) `LT4C-QLS`  —  North Carolina, British Colonial America → South Carolina, United States
+- **Robert Williams** (1732–Deceased) `LZLK-RJJ`  —  ? → ?
+- **Benjamin FitzRandolph II** (1699–1758) `LKYD-46R`  —  Piscataway, Middlesex, New Jersey, British Colonial America → Princeton, Mercer, New Jersey, United States
+- **Captain John Godfrey III** (1703–1756) `MCJ1-TKM`  —  Newport, Rhode Island, United States → Providence, Providence, Rhode Island, British Colonial America
+- **Nathaniel Haven** (1664–1746) `LZ4V-L38`  —  Lynn, Essex, Massachusetts Bay Colony, British Colonial America → Framingham, Middlesex, Massachusetts Bay Colony, British Colonial America
+- **William Coker Sr.** (1658–1748) `GMG7-24T`  —  Surry, Virginia, United States → Rowan, North Carolina, British Colonial America
+- **Major Robert Harris Jr.** (1664–1739) `MQ8F-XLR`  —  New Kent, Virginia, British Colonial America → Virginia, British Colonial America
+- **Capt. Richard Herbert** (1615–1664) `L8MQ-1N3`  —  Oxfordshire, England, United Kingdom → North Shore Village, Devonshire, Bermuda
+- **Captain Thomas Carter Jr** (1650–1710) `LKSG-3GW`  —  London, England, United Kingdom → Isle of Wight, Virginia, United States
+- **Mary Wynn** (1625–1690) `GDSS-3QL`  —  London, England → Isle of Wight, Isle of Wight, Virginia, United States
+- **Patrick Cain Jr.** (1737–1781) `GXDN-5J8`  —  Ballaugh, Isle of Man → Blackville, Barnwell, South Carolina, United States
+- **John Stell Sr.** (1743–1820) `LVVN-S7W`  —  Prince George, Prince George, Virginia, British Colonial America → Amelia, Virginia, United States
+- **Captain Cuthbert Harrison** (1712–1771) `LRWY-C31`  —  Virginia, British Colonial America → Prince William, Virginia, British Colonial America
+- **Capt. Thomas Harrison** (1665–1746) `PWBD-65M`  —  Stafford, Virginia, British Colonial America → Stafford, Virginia, British Colonial America
+- **Captain Thomas Backman Cooper** (1657–1705) `GXW8-J5M`  —  Hampshire, England → Rehoboth, Bristol, Massachusetts, United States
+- **James Davidson** (1710–1764) `99RW-XDQ`  —  Milford, New Haven, Connecticut, United States → Milford, New Haven, Connecticut, United States
+- **Capt Benjamin Bridges** (1664–1725) `KLW3-9VJ`  —  Topsfield, Essex, Massachusetts Bay Colony, British Colonial America → Framingham, Middlesex, Massachusetts Bay Colony, British Colonial America
+- **Lt. John Ham** (1649–1727) `LT2W-Y4Y`  —  Dover, New Hampshire, British Colonial America → Dover, New Hampshire, British Colonial America
+- **Captain William Dunn** (1705–1767) `PZXC-5QH`  —  Elizabeth City, Virginia, United States → Warwick, Worth, Georgia, United States
+- **Capt John Knight Sr** (1668–1718) `PS2Y-59Z`  —  Rodborough, Gloucestershire, England, United Kingdom → Manchester, Essex, Massachusetts, United States
+- **Captain William Litcot Barker** (1570–1655) `PWM9-D4B`  —  Oxford, Suffolk, Massachusetts Bay Colony, British Colonial America → Charles City, Charles City County, Virginia, United States
+
+## Immigrant Ancestors (ship arrivals / Great Migration) — 118
+- **Captain Thomas Carter** (1630–1700) `9HWY-ZVX`  —  Bedfordshire, England, United Kingdom → Lancaster, Virginia, British Colonial America
+  - OTHER_EVENT::Immigration [1635] @Virginia, United States
+- **Thomas Brooke** (1660–1730) `9XHM-V2M`  —  District 4, Prince George's, Maryland, British Colonial America → Prince George's, Maryland, British Colonial America
+  - OCCUPATION:: [1720] @Maryland, British Colonial America :: Acting Governor of Maryland (due to the departure of Gov. John Hart (d. 1740) until the arrival of Gov. Charles Calvert (1688-1734)
+- **Johannes Christian Lehman** (1700–1748) `LCRS-BDW`  —  Speyerdorf, Neustadt an der Weinstraße, Rhineland-Palatinate, Germany → Philadelphia, Philadelphia, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Fact 1 [29 August 1730] @Philadelphia, Philadelphia, Pennsylvania, British Colonial America :: immigration records
+- **Maj. Thomas Brooke I** (1632–1676) `LKQ6-8J1`  —  Battle, Sussex, England → Calvert, Maryland, British Colonial America
+  - IMMIGRATION:: [30 June 1650] @Calvert, Maryland, British Colonial America :: Arrived in Maryland with his father, Gov. Robert Brooke, Sr. (1602-1655).
+- **Johannes Van Gelder** (1635–1697) `LZS9-GST`  —  Haarlem, North Holland, Netherlands → New York City, New York County, New York, United States
+  - OTHER_EVENT::Arrival [1662] @New Netherland
+- **Lt. William Harris** (1633–1698) `LBK9-RLM`  —  England → Lorton, Fairfax County, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1643] @Virginia, United States
+- **Maj John Greene** (1620–1708) `LZGX-VLX`  —  Salisbury, Wiltshire, England → Warwick, Providence, Rhode Island, British Colonial America
+  - IMMIGRATION:: [3 June 1635] @Providence, Providence, Rhode Island, British Colonial America :: He may have immigrated on the ship "James of London", leaving Southampton, Hampshire, England on 6 April 
+- **Jacques Jacob Bourgeois** (1621–1702) `9J7J-3GF`  —  Brie, Ariège, France → Beaubassin, Nova Scotia, Canada
+  - OTHER_EVENT::Immigration [1642] @Port-Royal, Acadia, New France
+- **Col Walter Chiles II** (1630–1671) `MCV3-FT1`  —  St Mary Redcliffe, Bristol, England → Jamestown, Virginia, British Colonial America
+  - OTHER_EVENT::immigration [1638] @Virginia, United States :: England to VA
+- **Capt Joseph Adams Sr** (1626–1694) `L1W2-FV7`  —  Kingweston, Somerset, England → Braintree, Quincy, Suffolk, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Immigration [1638] @Massachusetts Bay Colony, British Colonial America :: Braintree, Norfolk, Massachusetts Bay Colony,  From England to Mount Wollaston,Massachusetts
+- **William McGehee** (1677–1748) `LX39-ZC9`  —  St. Peter's Parish, New Kent, Virginia, British Colonial America → Caroline, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1653] @Virginia, United States
+- **Col John Catlett IV** (1626–1670) `LJYD-THT`  —  Kent, England → Port Royal, Caroline, Virginia, British Colonial America
+  - OTHER_EVENT::immigrated [1650] @Virginia, British Colonial America
+- **Jean Pierre Mallott or Merlet Hugenuot** (1658–1703) `LDB1-JFN`  —  Mannheim, Baden-Württemberg, Germany → Piscataway, Middlesex, New Jersey, United States
+  - OTHER_EVENT::Arrival [1662] @New Amsterdam, New Netherland
+- **John Lamont Young** (1671–1783) `LDMY-5LD`  —  Scotland, United Kingdom → Augusta, Virginia, United States
+  - OTHER_EVENT::Arrival [1710] @New York County, New York Colony, British Colonial America :: This date has no sources.
+- **John Neville** (1600–1664) `LBJN-71R`  —  Cambridgeshire, England → Port Tobacco, Charles, Maryland, British Colonial America
+  - IMMIGRATION:: [1634] @Maryland, British Colonial America :: From Eng. In the “Ark” and “Dove” expdn. To Md., 1634
+- **Anne Françoise Roland** (1702–1758) `LZ68-L3R`  —  Paris, France → New Roads, Pointe Coupee, Louisiana, United States
+  - OTHER_EVENT::Arrival [1719] @Louisiana, New France
+- **Josephus Johann Brunner** (1678–1753) `LYFC-R9P`  —  Ludwigshafen, Rhineland-Palatinate, Germany → Frederick, Frederick, Maryland, British Colonial America
+  - OTHER_EVENT::Immigration [1729] @Philadelphia, Philadelphia, Pennsylvania, British Colonial America :: Ship; "ALLEN"
+- **Jean Chevalier** (1662–Deceased) `LHWG-2YG`  —  Saint-Lô, Manche, France → New York City, New York, United States
+  - OTHER_EVENT::Arrival [1695] @New York City, New York, United States
+- **Marin Janot Lachapelle** (–1664) `L24W-NM2`  —  France → Fleuve Saint-Laurent, Canada, New France
+  - OTHER_EVENT::Immigration [16 November 1653] @Montreal, Canada, New France :: France to New France
+- **Thomas McGeehee** (1645–1727) `LVPS-64D`  —  Stirlingshire, Scotland, United Kingdom → King William, Virginia, British Colonial America
+  - OTHER_EVENT::Immigration [before 14 April 1652] @York, Virginia, British Colonial America :: arrival from Brittan
+- **Edward FitzRandolph II** (1607–1675) `K2SJ-BCM`  —  Sutton in Ashfield, Nottinghamshire, England → Piscataway Township, Middlesex, New Jersey, British Colonial America
+  - IMMIGRATION:: [1630] @Salem, Virginia, United States :: Immigration aboard the Winfield Fleet
+- **Governor Caleb Carr** (1623–1695) `L6LN-RDY`  —  Maidstone, Kent, England → Newport, Newport, Rhode Island, British Colonial America
+  - IMMIGRATION:: [9 May 1635] @Bristol, Rhode Island, British Colonial America :: Aboard the Elizabeth Ann 
+- **Thomas Lindley Sr.** (1706–1781) `L69G-WSL`  —  Carlow, County Carlow, Ireland → Orange, North Carolina, United States
+  - OTHER_EVENT::Arrival [1713] @Philadelphia, Philadelphia, Pennsylvania, British Colonial America
+- **James Lindley Jr** (1681–1726) `LBJR-TQV`  —  Ballinaclash, Ballykine, County Wicklow, Ireland → New Garden, New Garden Township, Chester, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Arrival [1713] @Pennsylvania, British Colonial America :: Arrival at Pennsylvania
+- **Harman Skelderman** (1630–1684) `LHVB-1HR`  —  ? → Old Rappahannock, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1673] @Virginia, United States
+- **Major Thomas Owsley I** (1658–1700) `MMRW-T5K`  —  Stogursey, Somerset, England → Fort Belvoir, Fairfax County, Virginia, British Colonial America
+  - OTHER_EVENT::immigration [before September 1677] @Virginia, United States
+- **Daniel Gaines** (1614–1684) `M851-RCD`  —  Aber-Brân, Breconshire, Wales → Old Rappahannock, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1650] @Virginia, British Colonial America
+- **John Stockbridge** (1608–1657) `LT5R-K32`  —  Rayleigh, Essex, England → Boston, Suffolk, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::immigration: from London, England to Massachusetts Bay Colony [27 June 1635] @Boston, Massachusetts Bay Colony, British Colonial America :: Ship "Blessing": U.S. and Canada, Passenger and
+- **Major Edward Dale** (1620–1695) `LJ1G-835`  —  Merseyside, England, United Kingdom → White Chapel District, Lancaster, Virginia, United States
+  - OTHER_EVENT::Arrival [1642]
+- **Jean Therault** (1601–Deceased) `LVNC-WSJ`  —  France → Port-Royal, Acadia, New France
+  - OTHER_EVENT::Immigration [1636] @Port-Royal, Acadia, New France
+- **Laurent Gignard** (1636–1702) `LYDM-LL1`  —  La Rochelle, Aunis, France → Portneuf, Quebec, Canada
+  - IMMIGRATION:: [about 1657] @Québec, Canada, New France
+- **William O Hamick Sr.** (1623–1700) `LKKN-QFN`  —  Ermington, Devon, England → North Farnham Parish, Richmond County, Virginia, British Colonial America
+  - OTHER_EVENT::Immigration [1656] @Northampton, Virginia, British Colonial America
+- **John Garrett II** (1635–1728) `LT8G-CZP`  —  Leicestershire, England, United Kingdom → Stafford Courthouse, Stafford, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1636] @Virginia, British Colonial America
+- **Isaac Robinson** (1610–1704) `LCJM-K4K`  —  Leiden, Holland, Netherlands → Barnstable, Barnstable, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1631] @British Colonial America
+- **Mary Hunt** (1620–1685) `LZFW-WKG`  —  Gretton, Northamptonshire, England → Isle of Wight, Virginia, British Colonial America
+  - OTHER_EVENT::Immigration :: 1635
+- **Nicholas Outhouse** (1726–1804) `LCWK-21J`  —  Queens, New York City, New York, United States → Charlotteville, Norfolk, Ontario, Canada
+  - OTHER_EVENT::Arrival [1797] @Canada
+- **Captain William Harrison** (1615–1712) `G574-14R`  —  Leinster, Ireland → Charles City, Charles City County, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1638] @Virginia, United States
+- **Robert Lamont Young** (1711–1755) `LRRR-C6G`  —  County Antrim, Northern Ireland, United Kingdom → Staunton, Augusta, Virginia, United States
+  - OTHER_EVENT::Arrival [22 May 1740] @Augusta, Virginia, United States
+- **Joseph Phipps I** (1640–1716) `LVC1-SGD`  —  Reading, Berkshire, England → Abington, Montgomery Township, Philadelphia, Pennsylvania, British Colonial America
+  - IMMIGRATION:: [1682] @Pennsylvania, British Colonial America
+- **Daniel Le Blanc** (1626–1696) `KXBR-FD6`  —  Martaizé, Anjou, France → Port-Royal, Acadia, New France
+  - IMMIGRATION:: [from 1645 to 1650] @Acadia, New France :: arrival
+- **Diana Skipwith** (1621–1695) `LZ6B-F79`  —  Prestwold, Leicestershire, England, United Kingdom → Lancaster, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1655] @Virginia, British Colonial America
+- **John Heard** (1612–1689) `LT3J-BXN`  —  Chichester, Sussex, England → Dover, Strafford, New Hampshire, British Colonial America
+  - IMMIGRATION:: [1634] @Kittery, York, Massachusetts Bay Colony, British Colonial America :: Plantation of Piscataqua( Kittery, Maine Settlement)
+- **Bridget Thorsley** (1612–1644) `MH4D-LDK`  —  England, United Kingdom → Maryland, British Colonial America
+  - IMMIGRATION:: [1638] @Maryland, United States
+- **Joh Lawrence Fruh "Free"** (1714–1771) `G1P6-S89`  —  Herxheim am Berg, Neustadt an der Haardt, Bavaria, Germany → Fairfield, South Carolina, United States
+  - OTHER_EVENT::Arrival [16 September 1736] @Delaware Township, Philadelphia, Pennsylvania, United States
+- **Agnes Crockett** (1714–1770) `LB7N-J3Q`  —  County Antrim, Northern Ireland, United Kingdom → Laurens, South Carolina, United States
+  - OTHER_EVENT::Immigration [1740] @Virginia, United States
+- **Frances Courtenay** (1682–1766) `LYMT-27H`  —  Devon, England → York, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1703] @Virginia, United States
+- **Simon Hadley** (1675–1756) `MJ7D-PJ6`  —  Moate, Kilcleagh, County Westmeath, Ireland → Chester, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Immigration [1712] @Chester, Pennsylvania, British Colonial America
+- **Catherine Lorion** (1636–1720) `L6ZN-Q1T`  —  Sainte-Soule, Aunis, France → Montreal, Montreal, Canada, New France
+  - IMMIGRATION:: [22 September 1653] @Québec, Canada, New France
+- **John Ladd** (1631–1680) `KL4H-RWP`  —  Swingfield, Kent, England → Henrico, Virginia, British Colonial America
+  - IMMIGRATION:: [before 1653] @British Colonial America :: Immigrated to British Colonial America, Virginia from England 
+- **Thomas Andrews** (1663–1732) `L2ZY-BLV`  —  England → Virginia, United States
+  - OTHER_EVENT::Immigration [27 January 1685] @Virginia, United States :: Ship Richard and Elizabeth, Captain Williams Commander
+- **Robert Longshore** (1655–1694) `LX9M-4NN`  —  Wigan, Lancashire, England → Philadelphia, Philadelphia, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Immigration [before 1681] @Pennsylvania, British Colonial America
+- **Thomas Whicker Sr.** (1652–1704) `LCRW-4XM`  —  England → Westmoreland, Virginia, British Colonial America
+  - IMMIGRATION:: [1685] @Virginia, British Colonial America :: Indenture for 4 years in exchange for passage to Virginia
+- **Ambrose G Bramlett** (1664–1732) `L876-55W`  —  Warwickshire, England → Bedford City, Virginia, United States
+  - OTHER_EVENT::ARRIVAL [21 April 1690] @Charles City, Charles City County, Virginia, United States :: England To America
+- **John J Lovett Jr** (1636–1727) `LZFT-1R3`  —  Aylesbury, Buckinghamshire, England → Beverly, Essex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Emigration [1637] :: Ship 'True Love'
+- **Owen Griffith** (1624–1698) `LVHF-KTP`  —  Penllech, Caernarfonshire, Wales → Isle of Wight, Virginia, British Colonial America
+  - IMMIGRATION:: [1666] @Virginia, British Colonial America
+- **Elizabeth Philbrick** (1621–1677) `9HJC-Z1K`  —  Bures, Suffolk, England → Hampton, Rockingham, New Hampshire, British Colonial America
+  - IMMIGRATION:: [1630] :: Destination was Hampton, Norfolk, Massachusetts Bay, British Colonial America
+- **Ruth Hadley** (1711–1785) `KNH8-47K`  —  Moate, Kilcleagh, County Westmeath, Ireland → Spring MM, Orange, North Carolina, British Colonial America
+  - OTHER_EVENT::immigration :: Immigrated 1712, moved to Orange Co., North Carolina in 1751
+- **Anna Weissin** (1695–1769) `L2CC-H4R`  —  Thürnen, Basel, Switzerland → Rowan, North Carolina, United States
+  - OTHER_EVENT::Arrival [1736] @South Carolina, United States :: Arrival to America
+- **Eleanor Elizabeth Parke** (1684–1748) `LR1W-8TL`  —  Ballyredmond, Moyacomb, County Carlow, Ireland → Chester, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Immigration [1713] @Chester, Pennsylvania, British Colonial America :: James Lindley
+- **Ruth Miller** (1677–1751) `LBVH-PTK`  —  Moate, Kilcleagh, County Westmeath, Ireland → New Garden Township, Chester, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Arrival [1712] @New Castle, Delaware, British Colonial America
+- **Pierre Desautels** (1631–1708) `987L-548`  —  Anjou, France → Montreal, Montreal, Canada, New France
+  - OTHER_EVENT::Arrival [1653] @Montreal, Montreal, Canada, New France
+- **Nicholas Gentry I** (1655–1709) `LBY4-C5N`  —  England → New Kent, Virginia, British Colonial America
+  - IMMIGRATION:: [about 1675] @Virginia, British Colonial America ::  Nicholas followed older brother Samuel to Virginia Colony as indentured servant by 1677
+- **Daniel Malone II** (1643–1688) `MK8P-TZG`  —  Killucan, Killucan, County Westmeath, Ireland → Prince George, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1715] @Virginia, United States
+- **Mathurin Lorion** (1604–1683) `LRTK-ZB8`  —  Sainte-Soule, Aunis, France → Pointe-aux-Trembles, Montreal, Canada, New France
+  - OTHER_EVENT::Arrival [1658] @Canada
+- **Thomas Ray** (1604–1654) `G9LW-LVW`  —  Lincoln, Lincolnshire, England → Charles Church of Charles Parish, York, Virginia, British Colonial America
+  - OTHER_EVENT::Immigration [1636] @Virginia, British Colonial America :: arrived Jamestown VA
+- **Nicolas de la Plaine II** (1634–1712) `LZKR-VYL`  —  Bressuire, Deux-Sèvres, France → New York City, New York County, New York Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1664] @New York City, New York, United States
+- **John Pemaquid Pride II** (1636–1730) `M198-62G`  —  St Giles without Cripplegate, Middlesex, England, United Kingdom → Beverly, Essex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1637] @Salem, Essex, Massachusetts, United States
+- **Eleanor Hatton** (1640–1725) `KGZ3-G65`  —  Cheshire, England, United Kingdom → Maryland, British Colonial America
+  - IMMIGRATION:: [1649] @Maryland, British Colonial America :: Arrived in Maryland with her widowed mother and family.
+- **John Jeter Sr.** (1686–1736) `LDMX-FQC`  —  Suffolk, England, United Kingdom → Port Royal, Caroline, Virginia, British Colonial America
+  - IMMIGRATION:: :: Beginning of 18th Century
+- **Marie Briault** (1645–1699) `LBFX-JZD`  —  Rouen, Seine-Maritime, France → Montreal, Canada, New France
+  - IMMIGRATION:: [3 July 1668] @Québec, Canada, New France :: Depart France
+- **Hugh Hext** (1650–1732) `LHG1-W6Z`  —  Dorset, England, United Kingdom → Christ Church Parish, Charleston, South Carolina, United States
+  - OTHER_EVENT::Arrival [1687] @Weymouth, Dorset, England, United Kingdom :: Immigration
+- **Marie Denault** (1612–1681) `LVF7-3FV`  —  Angoulême, Angoumois, France → Trois-Rivières, Trois-Rivières, Canada, New France
+  - OTHER_EVENT::Arrival [1647] @Quebec, Canada
+- **Elizabeth Hicks Ware** (1635–1676) `LTH2-5QC`  —  Dublin, County Dublin, Ireland → New Kent, Virginia, United States
+  - OTHER_EVENT::Arrival [1662] @Virginia, United States
+- **Margaret Bernard** (1624–1687) `LZG4-GXY`  —  Kingsthorpe, Northamptonshire, England → Old Rappahannock, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1655] @Virginia, United States
+- **Elizabeth Hull** (1627–1706) `93WR-TBF`  —  Northleigh, Devon, England → Dover, Strafford, New Hampshire, British Colonial America
+  - OTHER_EVENT::Immigration [1635] :: Eng to America
+- **Alexander Bean** (1751–1812) `93RC-7HF`  —  Aberdeen, Aberdeenshire, Scotland, United Kingdom → Edgefield, South Carolina, United States
+  - OTHER_EVENT::Arrival [from 1774 to 1775] @Georgia, United States
+- **Marguerite Metzer** (1694–1776) `L5DM-SWC`  —  Germany → Saint Charles, Lafourche, Orleans Territory, United States
+  - OTHER_EVENT::immigration [13 April 1721] @New Orleans, Orleans, Louisiana, United States
+- **John David Ross, Jr.** (1696–1759) `L2QV-T53`  —  Angus, Scotland, United Kingdom → St. Paul's Parish, Hanover, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1716] :: This date would mean that John Jr immigrated after his father died in 1709, rather than immigrating as a family.
+- **Jane Gillespie** (1690–1757) `MXB1-W2B`  —  Diocese of Armagh, Ulster, Northern Ireland, United Kingdom → Rowan, North Carolina, British Colonial America
+  - IMMIGRATION:: [1729] @New Castle, Delaware, British Colonial America
+- **John Ware Garrett III** (1675–1728) `LKGV-656`  —  New Kent, Virginia, British Colonial America → Stafford, Virginia, British Colonial America
+  - IMMIGRATION:: :: Arrived in America between 1680 and 1700
+- **Jeanne Anne Trahan** (1629–1699) `LRJ5-FWL`  —  Bourgueil, Indre-et-Loire, France → Port Royal, Annapolis, Nova Scotia, Canada
+  - IMMIGRATION:: [1 April 1636] @Acadia, New France :: Arrival Guillaume Trahan with family
+- **John Maurice Baker** (1622–1660) `LT3C-373`  —  Northamptonshire, England → Anne Arundel, Maryland, United States
+  - OTHER_EVENT::Arrival [1651] @Virginia, United States
+- **Richard Singletary** (1585–1687) `L51W-ZTP`  —  Lincolnshire, England → Haverhill, Essex, Massachusetts Bay Colony, British Colonial America
+  - OTHER_EVENT::Arrival [1637] @Salem, Massachusetts Bay Colony, British Colonial America
+- **Henry Barnes Jr.** (1653–1676) `MF72-GP7`  —  London, England → Charles, Maryland, British Colonial America
+  - OTHER_EVENT::Immigration [1653] @Charles, Maryland, British Colonial America
+- **Margaret Hanford** (1619–1649) `LYKW-HCR`  —  Devon, England → Barnstable, Plymouth Colony, British Colonial America
+  - OTHER_EVENT::Arrival [7 June 1635] @Boston, Suffolk, Massachusetts, United States :: "PLANTER" of London, Nicholas Trerice, Master.  She sailed from London about April 10, and arrived at Boston June 7
+- **Francis Andrews** (1620–1663) `KHJF-LD9`  —  Essex, England → Fairfield, Fairfield, Connecticut Colony, British Colonial America
+  - OTHER_EVENT::Immigrated [1639] @Hartford, Connecticut Colony, British Colonial America
+- **Anna Weissen Gerster** (1720–1769) `L71R-VW5`  —  Sissach, Basel-Landschaft, Switzerland → Richlands, Onslow, North Carolina, British Colonial America
+  - OTHER_EVENT::Arrival [1736] @North Carolina, British Colonial America
+- **Hans Peter Guenther** (1672–1725) `L1L8-66J`  —  Dudweiler, Saarbrücken, Saarland, Germany → Neuenkirchen, Stade, Lower Saxony, Germany
+  - OTHER_EVENT::Arrival [1738] @Pennsylvania, United States
+- **Johann Georg Stähle** (1716–1792) `G551-NM3`  —  Albershausen, Göppingen, Baden-Württemberg, Germany → Opelousas, St. Landry, Louisiana, United States
+  - OTHER_EVENT::Arrival [1730] @Louisiana, United States
+- **John James Gilliland** (1689–1727) `L6YQ-M9B`  —  Londonderry, County Londonderry, Ireland → Faggs Manor, Londonderry Township, Chester, Pennsylvania, United States
+  - IMMIGRATION:: [1724] :: Arrival in Maryland
+- **Jane Hunter** (1658–1704) `LZ6D-KYR`  —  Rathdrum, Rathdrum, County Wicklow, Ireland → Delaware Township, Northumberland, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Immigration [1717]
+- **Louis Ozanne** (1616–1661) `KFR3-DRD`  —  Saint-Romain-de-Colbosc, Normandy, France → Trois-Rivières, Quebec, Canada
+  - OTHER_EVENT::Arrival [1654] @Québec, Canada, New France
+- **Peter Webster** (1650–1724) `LCF9-X6Q`  —  Ingleton, Yorkshire, England → Bristol, Bucks, Pennsylvania, British Colonial America
+  - OTHER_FACT::Immigration :: 30 November 1695 to Middletown, Bucks, Pennsylvania
+- **Mary Knight** (1620–1701) `G44P-QLZ`  —  Southampton, Hampshire, England, United Kingdom → Woburn, Middlesex, Massachusetts Bay Colony, British Colonial America
+  - IMMIGRATION:: [1637] @Massachusetts Bay Colony, British Colonial America :: England to the Massachusetts Bay Colony
+- **Peter Bagley** (1608–1665) `K2NK-QRT`  —  Siddington, Cheshire, England, United Kingdom → Isle of Wight, Virginia, United States
+  - IMMIGRATION:: [1635] @Nansemond, Virginia, United States
+- **Captain John Ambrose Parks** (1642–1709) `GHZN-HBZ`  —  St Clement, Cornwall, England → Accomack, Virginia, United States
+  - OTHER_EVENT::Arrival [1652] @Virginia, United States
+- **Thomas Winter Barnes** (1624–1683) `PCR9-XLT`  —  Isle of Wight, Hampshire, England → Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1667] @Virginia, United States
+- **William Weeks** (1620–1689) `G494-PDY`  —  Staines, Middlesex, England → Edgartown, Dukes, Massachusetts Bay Colony, British Colonial America
+  - OCCUPATION:: :: Ship Owner, Trader and Tavern Keeper
+- **Thomas John Tinsley I** (1618–1702) `LBJ4-Z5L`  —  Tinsley, Yorkshire, England, United Kingdom → St. Peter's Parish, New Kent, Virginia, United States
+  - OTHER_EVENT::Arrival [1638]
+- **Jane M Henderson** (1843–1938) `LYR4-C9S`  —  Manchester, Lancashire, England, United Kingdom → Louisiana, United States
+  - OTHER_EVENT::Immigration [1849]
+- **Wettenhall Warner I** (1736–1819) `LT4H-1Z7`  —  Dublin, Ireland → Berkeley, South Carolina, United States
+  - NATIONAL_ID:: :: Wettenhall is of Welsh descent and lived in Ireland before immigration to Virginia.
+- **John Noblett** (1700–1748) `MTY8-DTV`  —  Dublin, Ireland → Newberry Monthly Meeting, York, Pennsylvania, United States
+  - OTHER_EVENT::Arrival [25 December 1721] @Cape May, Cape May, New Jersey, United States
+- **John Nisbet** (1705–1755) `LY1Y-YT5`  —  Edinburgh, Scotland → Mill Bridge, Rowan, North Carolina, British Colonial America
+  - OTHER_EVENT::Immigration [1731] @United States
+- **Heinrich Gerster** (1688–1758) `LRRK-T2K`  —  Basel, Basel, Switzerland → Rowan, North Carolina, British Colonial America
+  - IMMIGRATION:: [1736] @North Carolina, British Colonial America :: Immigrated from Switzerland
+- **Mary MacLeod** (1680–1752) `GHS8-K3H`  —  Ullapool, Cromartyshire, Scotland → Prince George, Prince George, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival @Nova Scotia, Canada
+- **Thomas Lamb** (1690–1752) `KCS5-KYJ`  —  Lancashire, England, United Kingdom → Bucks, Pennsylvania, United States
+  - OTHER_EVENT::Immigration [1729] @Virginia, British Colonial America
+- **Mary Christian Butcher** (1650–1696) `L5JB-G2Z`  —  Apley, Lincolnshire, England → Westmoreland, Albemarle, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1681] @Virginia, United States
+- **Robert Parke** (1650–1738) `PS9B-Q7R`  —  County Carlow, Ireland → Chester, Pennsylvania, British Colonial America
+  - OTHER_EVENT::Arrival [1724] @Rivera, Multnomah, Oregon, United States
+- **Goodman Christmas** (1616–1708) `GJCQ-YDH`  —  Leicestershire, England, United Kingdom → Stafford Courthouse, Stafford, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1637] @Virginia, British Colonial America
+- **Ann Bastrop** (1660–1724) `L5BR-C5J`  —  Staplehurst, Kent, England, United Kingdom → St. John's Parish, King and Queen, Virginia, British Colonial America
+  - OTHER_EVENT::Arrival [1679] @Virginia, British Colonial America
+- **Anna Ballard** (1666–1710) `LDTL-WJR`  —  Romsey, Hampshire, England → Gloucester, Virginia, British Colonial America
+  - OTHER_EVENT::Wife's name is speculative..... :: There is no evidence that Ambrose Bramlett traveled from England to America accompanied by a wife. estimated birthdates of children precede his arrival 
+- **Capt. Richard Herbert** (1615–1664) `L8MQ-1N3`  —  Oxfordshire, England, United Kingdom → North Shore Village, Devonshire, Bermuda
+  - IMMIGRATION:: [1651] @Virginia, United States
+- **Bathsheba Anne Johnson** (1615–1716) `LJGV-BNN`  —  Biddenden, Kent, England → Prince William, Virginia, British Colonial America
+  - IMMIGRATION:: @British Colonial America :: Emigrated from Kent, England 
+- **John Combes** (1602–1652) `LZD9-C3R`  —  Aldermanbury, London, England, United Kingdom → Sparsholt, Berkshire, England
+  - IMMIGRATION:: [20 May 1619] @Jamestown, Virginia, British Colonial America :: Immigrated from England to Jamestown, Virginia on ship Marigold
+- **William A Thomas** (1841–1922) `LYR4-4KR`  —  England → Louisiana, United States
+  - OTHER_EVENT::Immigration [1849]
+- **Elizabeth Ward** (1843–1884) `KH3C-6JG`  —  Ireland → ?
+  - OTHER_EVENT::Immigration [1861] @New Orleans, Orleans, Louisiana, United States
+- **John W Wells** (1720–1742) `L8HB-182`  —  Croydon, Surrey, England, United Kingdom → ?
+  - IMMIGRATION:: [before 1740] @South Carolina, British Colonial America :: Immigrated from England to South Carolina
+- **Jane Rosewell** (1616–1686) `L414-7W7`  —  England → Ireland
+  - OTHER_EVENT::North America Arrival [1712] @New Castle, Delaware, British Colonial America
+
+## Revolutionary War era — 38
+- **Thomas Brooke** (1660–1730) `9XHM-V2M`  —  District 4, Prince George's, Maryland, British Colonial America → Prince George's, Maryland, British Colonial America
+- **Lt. William Harris** (1633–1698) `LBK9-RLM`  —  England → Lorton, Fairfax County, Virginia, British Colonial America
+- **Joseph David Jolly** (1718–1788) `LZ6V-WY3`  —  Charleston, South Carolina, United States → Union, Union, South Carolina, United States
+- **Thomas Lindley Sr.** (1706–1781) `L69G-WSL`  —  Carlow, County Carlow, Ireland → Orange, North Carolina, United States
+- **Joshua Phipps** (1746–1835) `LDM1-CM1`  —  Uwchlan Township, Chester, Pennsylvania, British Colonial America → Green, Kentucky, United States
+- **J.  Gideon Hogg** (1722–1793) `L17H-YKV`  —  Hanover, Virginia, British Colonial America → Caswell, North Carolina, United States
+- **Edward Ned Garrett Jr.** (1733–1794) `L6GZ-KHD`  —  New Kent, Virginia, British Colonial America → Laurens, South Carolina, United States
+- **Mason Combs** (1713–1785) `LB24-516`  —  Overwharton Parish, Stafford, Virginia, British Colonial America → Dobson Township, Surry, North Carolina, United States
+- **William Ogilvie Jr** (1728–1813) `KPQ6-2X2`  —  Virginia, British Colonial America → Williamson, Tennessee, United States
+- **Thomas Jackson** (1739–1792) `LD58-CQM`  —  Virginia, British Colonial America → Prince Edward, Virginia, United States
+- **Nicholas Ware Garrett** (1765–1846) `KLFD-X85`  —  Fairfax Parish, Fairfax County, Virginia, British Colonial America → Laurens, South Carolina, United States
+- **Lt William Randolph Singletary** (1755–1802) `KZC8-88Q`  —  Bladen, North Carolina, United States → Elizabethtown, Bladen, North Carolina, United States
+- **James Lindley** (1735–1779) `LY7V-XZN`  —  London Grove Township, Chester, Pennsylvania, British Colonial America → Ninety Six, Greenwood, South Carolina, United States
+- **George Meridas Parks** (1759–1837) `LTL9-J96`  —  Amherst, Virginia, British Colonial America → Ellettsville, Richland Township, Monroe, Indiana, United States
+- **Elizabeth E Foster** (1694–1775) `LTZW-CBV`  —  Spotsylvania, Virginia, British Colonial America → Spotsylvania, Virginia, British Colonial America
+- **Jannetje Marie Jane Varleth** (1621–1674) `9KDT-6ZC`  —  Utrecht, Utrecht, Netherlands → Chesapeake City, Cecil, Maryland, United States
+- **Alexander Bean** (1751–1812) `93RC-7HF`  —  Aberdeen, Aberdeenshire, Scotland, United Kingdom → Edgefield, South Carolina, United States
+- **John Johann Blume** (1742–1816) `MYTB-RXD`  —  Denmark → Blackville Township, Barnwell, South Carolina, United States
+- **Margaret Vaughan** (1721–1775) `K8HQ-6RR`  —  Virginia, British Colonial America → South Carolina, British Colonial America
+- **Letitia Thompson** (1753–1830) `LHLP-Y7L`  —  Guilford, North Carolina, United States → Williamson, Tennessee, United States
+- **William Drumright Sr** (1748–1828) `LCLN-CNX`  —  Boydton, Mecklenburg, Virginia, British Colonial America → South Hill, Mecklenburg, Virginia, United States
+- **Matthew Barnes Sr** (1670–1746) `LZ1Y-1DH`  —  Port Tobacco, Charles, Maryland, British Colonial America → Port Tobacco, Charles, Maryland, British Colonial America
+- **Henry Bagley Sr.** (1732–1802) `L5B4-5KS`  —  Sussex, Virginia, British Colonial America → Chatham, North Carolina, United States
+- **Israel F Outhouse** (1759–1810) `LC2T-8TQ`  —  Haverstraw, Orange, New York, United States → Christian, Kentucky, United States
+- **Thomas Lamb** (1745–1816) `L29V-WHF`  —  Middletown Township, Bucks, Pennsylvania, United States → Williamson, Tennessee, United States
+- **Enoch B Floyd Sr** (1737–1795) `LH7P-QMB`  —  Anson, North Carolina, United States → Union, South Carolina, United States
+- **George Little** (1735–1815) `L4T4-7VR`  —  Hoddom, Dumfriesshire, Scotland → Guffie, Daviess, Kentucky, United States
+- **Samuel Ingram** (1738–1799) `LJTM-BWM`  —  Radford, Bedford, Virginia, United States → Montgomery, Montgomery, Virginia, United States
+- **Captain Daniel Hankins** (1720–1796) `G8PD-HW6`  —  Lunenburg, Lunenburg, Virginia, British Colonial America → Pittsylvania, Virginia, United States
+- **Jacob Davis** (1733–1794) `27CH-GNX`  —  Washington, Coventry, Kent, Rhode Island, British Colonial America → Nottoway, Virginia, United States
+- **Isaac Odom** (1760–1795) `LKQB-LF8`  —  ? → ?
+- **William Jeter** (1711–1797) `L6JV-CGK`  —  Lunenburg, Virginia, British Colonial America → Edgefield, South Carolina, United States
+- **John Ray** (1718–1784) `LTFB-4D7`  —  York, Virginia, British Colonial America → Columbia, Georgia, United States
+- **Robert Williams** (1732–Deceased) `LZLK-RJJ`  —  ? → ?
+- **William J Hankins** (1747–1824) `9N21-VL1`  —  Stafford, Virginia, British Colonial America → Charlotte Courthouse, Charlotte, Virginia, United States
+- **Nathaniel Haven** (1664–1746) `LZ4V-L38`  —  Lynn, Essex, Massachusetts Bay Colony, British Colonial America → Framingham, Middlesex, Massachusetts Bay Colony, British Colonial America
+- **John Stell Sr.** (1743–1820) `LVVN-S7W`  —  Prince George, Prince George, Virginia, British Colonial America → Amelia, Virginia, United States
+- **Thomas Wicker Sr.** (1717–1784) `L4Q8-937`  —  St. Peter's Parish, New Kent, Virginia, British Colonial America → Chatham, North Carolina, United States
+
+## King Philip’s War era (1675–76) — 9
+- **William Thornton Sr** (1622–1709) `GMRK-XLS`  —  England → Stafford, Virginia, British Colonial America
+- **Maj. Thomas Brooke I** (1632–1676) `LKQ6-8J1`  —  Battle, Sussex, England → Calvert, Maryland, British Colonial America
+- **Colonel Lemuel Mason** (1628–1702) `LHBP-VB5`  —  Elizabeth City, Virginia, British Colonial America → Norfolk County, Virginia, British Colonial America
+- **Governor Caleb Carr** (1623–1695) `L6LN-RDY`  —  Maidstone, Kent, England → Newport, Newport, Rhode Island, British Colonial America
+- **William Thornton II** (1649–1727) `LWPX-RQG`  —  York, Virginia, British Colonial America → Gloucester, Virginia, British Colonial America
+- **Nicholas Gentry I** (1655–1709) `LBY4-C5N`  —  England → New Kent, Virginia, British Colonial America
+- **Mary Carr** (1677–1759) `9S1J-6WB`  —  Wiltshire, England → Houstons Corner, Caroline, Virginia, United States
+- **James Travers** (1645–1717) `LBNV-MD5`  —  Newbury, Essex, Massachusetts Bay Colony, British Colonial America → Brookfield, Worcester, Massachusetts Bay Colony, British Colonial America
+- **Benjamin Singletery** (1656–1697) `LB7N-H54`  —  Haverhill, Essex, Massachusetts, United States → South Carolina, British Colonial America
