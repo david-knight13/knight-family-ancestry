@@ -38,16 +38,20 @@
   .btn{border:1px solid var(--line);background:var(--card);color:var(--ink);
     border-radius:9px;cursor:pointer;font-size:13px;}
   .btn:hover{background:#f3ecda;}
+  .btn:focus-visible,.tab:focus-visible,.ntab:focus-visible,.lg-item:focus-visible,
+  .nrow:focus-visible,#reportModeBtn:focus-visible,#notabTab:focus-visible,
+  #rootBar button:focus-visible,#centerHere:focus-visible,#panel .close:focus-visible,
+  input[type=range]:focus-visible{outline:2px solid var(--navy);outline-offset:2px;}
 
-  #controls{position:absolute;right:18px;bottom:18px;z-index:6;
-    display:flex;flex-direction:column;gap:7px;}
+  #controls{position:absolute;right:18px;bottom:18px;z-index:8;
+    display:flex;flex-direction:column;align-items:flex-end;gap:7px;}
   #controls .btn{width:42px;height:42px;font-size:18px;}
   #controls .btn.wide{width:auto;height:34px;padding:0 12px;font-size:11.5px;}
   #controls .btn.on{background:var(--gold);color:#332b07;border-color:var(--gold);}
 
   #legend{position:absolute;right:18px;top:78px;z-index:6;background:var(--card);
     border:1px solid var(--line);border-radius:11px;padding:12px 13px;
-    width:236px;max-height:80vh;overflow:auto;box-shadow:0 4px 14px #0001;}
+    width:236px;max-height:calc(100vh - 300px);overflow:auto;box-shadow:0 4px 14px #0001;}
   #legend h3{margin:0 0 6px;font-size:11px;text-transform:uppercase;
     letter-spacing:.07em;color:var(--muted);}
   #map{display:block;margin:2px auto 8px;cursor:pointer;}
@@ -216,6 +220,31 @@
   #pieTip .tt-k{font-family:Georgia,serif;font-size:13.5px;font-weight:700;}
   #pieTip .tt-d{font-size:11.5px;margin-top:3px;}
   #pieTip .tt-g{font-size:10.5px;color:#c9bf9f;margin-top:2px;}
+
+  /* ---- responsive / mobile ---- */
+  @media (max-width:760px){
+    header{height:54px;padding:8px 12px;}
+    header h1{font-size:15px;white-space:nowrap;overflow:hidden;
+      text-overflow:ellipsis;padding-right:158px;}
+    header .sub{display:none;}
+    #tabs{top:10px;right:10px;gap:4px;}
+    #tabs .tab{padding:5px 9px;font-size:11px;}
+    #notables{top:54px;width:min(320px,88vw);}
+    #panel{top:54px;width:min(392px,94vw);}
+    #report{top:54px;padding:18px 14px 70px;}
+    #report .rh{font-size:20px;}
+    #report .rsub{font-size:12px;}
+    #legend{top:62px;right:10px;width:min(214px,62vw);
+      max-height:calc(100vh - 150px);padding:9px 10px;}
+    #legend #map{transform:scale(.86);transform-origin:top center;}
+    #controls{right:10px;bottom:12px;}
+    #controls .btn{width:38px;height:38px;font-size:16px;}
+    #controls .btn.wide{height:30px;font-size:10.5px;}
+    #depthCtl{bottom:10px;padding:6px 10px;gap:7px;}
+    #depthCtl input[type=range]{width:120px;}
+    #rootBar{top:60px;font-size:11.5px;max-width:94vw;}
+    .pie-grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;}
+  }
 </style>
 </head>
 <body>
@@ -393,6 +422,12 @@ function render(){
     }
     el.setAttribute('class','slice');
     el.setAttribute('fill',colorOf(n));
+    el.setAttribute('role','button');
+    const aria=(n.name||'Unknown')+(n.life?', '+n.life:'');
+    el.setAttribute('aria-label',aria);
+    const stitle=document.createElementNS(SVGNS,'title');
+    stitle.textContent=aria;
+    el.appendChild(stitle);
     el.__node=n;
     gSlices.appendChild(el);
     (byId[n.id]=byId[n.id]||[]).push(el);
@@ -461,8 +496,10 @@ function buildLegend(){
   keys.forEach(k=>{
     const col=colorMode==='country'?countryColor(k==='Unknown'?'':k):stateColor(k);
     const d=document.createElement('div');d.className='lg-item';
-    d.innerHTML=`<span class="sw" style="background:${col}"></span>${k} <span style="color:#9a8f72">(${cnt[k]})</span>`;
+    d.innerHTML=`<span class="sw" style="background:${col}"></span>${esc(k)} <span style="color:#9a8f72">(${cnt[k]})</span>`;
     d.onclick=()=>toggleFilter(k);
+    d.tabIndex=0;d.setAttribute('role','button');
+    d.onkeydown=ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();d.click();}};
     if(k===filterState)d.classList.add('active');
     lg.appendChild(d);itemEls[k]=d;
   });
@@ -499,7 +536,12 @@ let scale=1,panX=0,panY=0;
 function apply(){scene.setAttribute('transform',`translate(${panX},${panY}) scale(${scale})`);updateLabels();}
 function fit(){
   const W=svg.clientWidth,H=svg.clientHeight,R=ringOuter(maxViewGen)+40;
-  scale=Math.min(W,H)/(2*R)*0.92;panX=W/2;panY=H/2+12;apply();
+  const wide=W>760;
+  const leftPanel=wide&&!notables.classList.contains('closed')?312:0;
+  const rightPanel=wide?236:0;
+  const availW=Math.max(160,W-leftPanel-rightPanel);
+  scale=Math.min(availW,H)/(2*R)*0.92;
+  panX=leftPanel+availW/2;panY=H/2+12;apply();
 }
 window.addEventListener('resize',fit);
 svg.addEventListener('wheel',e=>{
@@ -618,7 +660,7 @@ const EVLABEL={OTHER_EVENT:'Event',MILITARY_SERVICE:'Military Service',OCCUPATIO
   RESIDENCE:'Residence',RACE:'Race',RELIGIOUS_AFFILIATION:'Religion'};
 const panel=document.getElementById('panel'),pbody=document.getElementById('pbody');
 document.getElementById('pclose').onclick=()=>{panel.classList.remove('open');highlight(null);markRow(null);};
-function esc(s){return(s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function esc(s){return(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function openPanel(n){
   let h='';
   if(n.gen>0)h+=`<button id="centerHere">⌖ Center the fan chart on this person</button>`;
@@ -711,6 +753,8 @@ function renderNotables(){
       showTab('chart');
       openPanel(n);
     };
+    row.tabIndex=0;row.setAttribute('role','button');
+    row.onkeydown=ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();row.click();}};
     nlist.appendChild(row);
   });
 }
@@ -735,6 +779,7 @@ const notables=document.getElementById('notables');
 document.getElementById('notabTab').onclick=()=>{
   const closed=notables.classList.toggle('closed');
   document.getElementById('tabAr').textContent=closed?'▸':'◂';
+  fit();
 };
 
 /* ---------- summary report ---------- */
@@ -846,7 +891,7 @@ document.getElementById('report').addEventListener('mousemove',e=>{
       `<div class="tt-g">cumulative through generation ${t.dataset.g}</div>`;
     pieTip.style.display='block';
     pieTip.style.left=Math.min(e.clientX+16,innerWidth-250)+'px';
-    pieTip.style.top=(e.clientY+15)+'px';
+    pieTip.style.top=Math.min(e.clientY+15,innerHeight-90)+'px';
   }else pieTip.style.display='none';
 });
 document.getElementById('report').addEventListener('mouseleave',()=>{pieTip.style.display='none';});
@@ -883,6 +928,10 @@ depthRange.addEventListener('input',function(){
 });
 
 /* ---------- init ---------- */
+if(innerWidth<=760){
+  notables.classList.add('closed');
+  document.getElementById('tabAr').textContent='▸';
+}
 computeView();
 render();
 fit();
