@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>American Ancestry of the Knight Kids — Fan Chart</title>
 <style>
   :root{
@@ -12,11 +12,11 @@
   *{box-sizing:border-box;}
   html,body{margin:0;height:100%;overflow:hidden;color:var(--ink);
     font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-    background:var(--parchment);}
+    background:var(--parchment);touch-action:manipulation;}
   h1,h2,h3,.serif{font-family:Georgia,"Iowan Old Style","Times New Roman",serif;}
 
   #stage{position:absolute;inset:0;}
-  svg{width:100%;height:100%;display:block;cursor:grab;
+  svg{width:100%;height:100%;display:block;cursor:grab;touch-action:none;
     background:radial-gradient(circle at 50% 46%, #fbf7ec 0%, #ece2c9 78%, #e3d8ba 100%);}
   svg.dragging{cursor:grabbing;}
   .slice{stroke:#f6f0e2;stroke-width:1;transition:filter .12s,opacity .12s;cursor:pointer;}
@@ -62,7 +62,9 @@
 
   #legend{position:absolute;right:18px;top:90px;z-index:6;background:var(--card);
     border:1px solid var(--line);border-radius:11px;padding:12px 13px;
-    width:236px;max-height:calc(100vh - 300px);overflow:auto;box-shadow:0 4px 14px #0001;}
+    width:236px;max-height:calc(100vh - 300px);overflow:auto;box-shadow:0 4px 14px #0001;
+    transition:transform .26s ease;}
+  #legendTab{display:none;}   /* collapse handle — phones only (see media query) */
   #legend h3{margin:0 0 6px;font-size:11px;text-transform:uppercase;
     letter-spacing:.07em;color:var(--muted);}
   #map{display:block;margin:2px auto 8px;cursor:pointer;}
@@ -246,8 +248,16 @@
     #report{top:62px;padding:18px 14px 70px;}
     #report .rh{font-size:20px;}
     #report .rsub{font-size:12px;}
-    #legend{top:70px;right:10px;width:min(196px,54vw);
-      max-height:calc(100vh - 170px);padding:9px 10px;}
+    #legend{top:70px;right:0;width:min(208px,58vw);overflow:visible;
+      max-height:none;padding:9px 10px;border-radius:11px 0 0 11px;}
+    #legend.closed{transform:translateX(100%);}   /* slide off the right edge */
+    #legend .lg-cols{max-height:calc(100vh - 320px);overflow-y:auto;}
+    #legendTab{display:flex;position:absolute;top:6px;left:-30px;width:30px;height:128px;
+      background:var(--navy);color:#f6f0e2;border:none;cursor:pointer;
+      border-radius:10px 0 0 10px;writing-mode:vertical-rl;text-orientation:mixed;
+      font-size:11px;font-weight:700;letter-spacing:.12em;align-items:center;
+      justify-content:center;gap:7px;font-family:Georgia,serif;box-shadow:-3px 1px 8px #0002;}
+    #legendTab .ar{font-family:sans-serif;font-weight:400;}
     #legend #map{transform:scale(.8);transform-origin:top center;margin-bottom:0;}
     #legend .lg-note{display:none;}            /* hide the long help text on phones */
     #legend h3{font-size:10px;}
@@ -307,6 +317,7 @@
 </div>
 
 <div id="legend">
+  <button id="legendTab"><span class="ar" id="legAr">▸</span>MAP&nbsp;/&nbsp;KEY</button>
   <h3 id="legendTitle">State / Colony — click to isolate</h3>
   <svg id="map"></svg>
   <div class="lg-cols" id="lg-items"></div>
@@ -600,7 +611,16 @@ document.getElementById('countryToggle').onclick=()=>
 /* ---------- pan / zoom ---------- */
 const svg=document.getElementById('svg'),scene=document.getElementById('scene');
 let scale=1,panX=0,panY=0;
-function apply(){scene.setAttribute('transform',`translate(${panX},${panY}) scale(${scale})`);updateLabels();}
+/* keep the chart from being panned off into empty background ("white space") */
+function clampPan(){
+  const W=svg.clientWidth,H=svg.clientHeight;
+  const half=(ringOuter(maxViewGen)+30)*scale;   // chart half-extent on screen
+  const clamp=(p,size)=> (2*half<=size)
+    ? Math.min(size-half,Math.max(half,p))        // chart smaller than viewport → keep fully inside
+    : Math.min(half,Math.max(size-half,p));       // chart larger → keep it covering the viewport
+  panX=clamp(panX,W);panY=clamp(panY,H);
+}
+function apply(){clampPan();scene.setAttribute('transform',`translate(${panX},${panY}) scale(${scale})`);updateLabels();}
 function fit(){
   const W=svg.clientWidth,H=svg.clientHeight,R=ringOuter(maxViewGen)+40;
   const wide=W>760;
@@ -626,6 +646,44 @@ window.addEventListener('mousemove',e=>{
   panX+=dx;panY+=dy;lx=e.clientX;ly=e.clientY;apply();
 });
 window.addEventListener('mouseup',()=>{drag=false;svg.classList.remove('dragging');});
+
+/* ---------- touch: one-finger pan, two-finger pinch-zoom, tap-to-open ---------- */
+let tMode=0,tMoved=0,pinchD0=0,pinchS0=1,pinchScene={x:0,y:0};
+svg.addEventListener('touchstart',e=>{
+  if(e.touches.length===1){
+    tMode=1;tMoved=0;lx=e.touches[0].clientX;ly=e.touches[0].clientY;
+  }else if(e.touches.length>=2){
+    tMode=2;
+    const a=e.touches[0],b=e.touches[1],r=svg.getBoundingClientRect();
+    pinchD0=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY)||1;pinchS0=scale;
+    const mx=(a.clientX+b.clientX)/2-r.left,my=(a.clientY+b.clientY)/2-r.top;
+    pinchScene={x:(mx-panX)/scale,y:(my-panY)/scale};
+  }
+  e.preventDefault();
+},{passive:false});
+svg.addEventListener('touchmove',e=>{
+  if(tMode===1&&e.touches.length===1){
+    const t=e.touches[0],dx=t.clientX-lx,dy=t.clientY-ly;
+    tMoved+=Math.abs(dx)+Math.abs(dy);
+    panX+=dx;panY+=dy;lx=t.clientX;ly=t.clientY;apply();
+  }else if(tMode===2&&e.touches.length>=2){
+    const a=e.touches[0],b=e.touches[1],r=svg.getBoundingClientRect();
+    const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY)||1;
+    const mx=(a.clientX+b.clientX)/2-r.left,my=(a.clientY+b.clientY)/2-r.top;
+    scale=Math.max(.008,Math.min(60,pinchS0*(d/pinchD0)));
+    panX=mx-pinchScene.x*scale;panY=my-pinchScene.y*scale;apply();
+  }
+  e.preventDefault();
+},{passive:false});
+svg.addEventListener('touchend',e=>{
+  if(tMode===1&&tMoved<10){                       // a tap → open the slice under the finger
+    const t=e.changedTouches[0],el=document.elementFromPoint(t.clientX,t.clientY);
+    if(el&&el.__node)openPanel(el.__node);
+  }
+  if(e.touches.length===0)tMode=0;
+  else if(e.touches.length===1){tMode=1;lx=e.touches[0].clientX;ly=e.touches[0].clientY;}
+},{passive:false});
+
 function zoomBtn(f){
   const W=svg.clientWidth,H=svg.clientHeight;
   const cx=(W/2-panX)/scale,cy=(H/2-panY)/scale;
@@ -856,6 +914,11 @@ document.getElementById('notabTab').onclick=()=>{
   document.getElementById('tabAr').textContent=closed?'▸':'◂';
   fit();
 };
+const legendEl=document.getElementById('legend');
+document.getElementById('legendTab').onclick=()=>{
+  const closed=legendEl.classList.toggle('closed');
+  document.getElementById('legAr').textContent=closed?'◂':'▸';
+};
 
 /* ---------- summary report ---------- */
 let reportMode='state';                                  // 'state' | 'country'
@@ -1007,6 +1070,8 @@ depthRange.addEventListener('input',function(){
 if(innerWidth<=760){
   notables.classList.add('closed');
   document.getElementById('tabAr').textContent='▸';
+  legendEl.classList.add('closed');          // start the map/key collapsed on phones
+  document.getElementById('legAr').textContent='◂';
 }
 computeView();
 render();
