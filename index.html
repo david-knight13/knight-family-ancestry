@@ -33,10 +33,8 @@
     padding:0 20px;display:flex;flex-direction:column;justify-content:center;
     color:#fff;overflow:hidden;
     background:linear-gradient(180deg,#2c4d70 0%,#22405f 55%,#1a3350 100%);
-    border-bottom:4px solid transparent;
-    border-image:repeating-linear-gradient(90deg,
-      #b22234 0 26px,#f4f1e8 26px 52px,#3c3b6e 52px 78px) 4;}
-  /* faint star-field, fading from the left like a flag canton */
+    border-bottom:4px solid #b22234;}
+  /* faint white star-field, fading from the left like a flag canton */
   header::before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.55;
     background-image:radial-gradient(#ffffff 0.9px,transparent 1.3px);
     background-size:21px 21px;
@@ -285,7 +283,7 @@
   <div class="sub" id="hsub"></div>
   <div id="tabs">
     <button class="tab on" id="tabChart">Fan Chart</button>
-    <button class="tab" id="tabReport">Summary Report</button>
+    <button class="tab" id="tabReport">Generation Report</button>
   </div>
 </header>
 
@@ -577,10 +575,16 @@ function toggleFilter(s){
 }
 
 /* ---------- country mode toggle ---------- */
-document.getElementById('countryToggle').onclick=function(){
-  colorMode=colorMode==='country'?'state':'country';
-  this.classList.toggle('on',colorMode==='country');
-  this.textContent=colorMode==='country'?'◍ Country mode  ✓':'◍ Country mode';
+/* colour-mode (fan) and notable-scope are coupled:
+   state ⇄ American, country ⇄ Global — toggling either updates both */
+function setMode(cm){
+  colorMode=cm;
+  notableMode=cm==='country'?'global':'amer';
+  const ctBtn=document.getElementById('countryToggle');
+  ctBtn.classList.toggle('on',colorMode==='country');
+  ctBtn.textContent=colorMode==='country'?'◍ Country mode  ✓':'◍ Country mode';
+  ntabAmer.classList.toggle('on',notableMode==='amer');
+  ntabGlobal.classList.toggle('on',notableMode==='global');
   filterState=null;clearBtn.style.display='none';
   for(const k in tileEls){
     tileEls[k].setAttribute('stroke','#0003');tileEls[k].setAttribute('stroke-width','1');
@@ -588,7 +592,10 @@ document.getElementById('countryToggle').onclick=function(){
   gSlices.querySelectorAll('.slice').forEach(s=>s.setAttribute('fill',colorOf(s.__node)));
   labels.forEach(L=>L.el.setAttribute('fill',textColorFor(colorOf(L.n))));
   buildLegend();applyVisual();updateLabels();
-};
+  renderNotables();
+}
+document.getElementById('countryToggle').onclick=()=>
+  setMode(colorMode==='country'?'state':'country');
 
 /* ---------- pan / zoom ---------- */
 const svg=document.getElementById('svg'),scene=document.getElementById('scene');
@@ -636,11 +643,8 @@ function updateLabels(){
   for(const L of labels){
     const el=L.el,n=L.n;
     if(n._vg===0){
-      el.removeAttribute('display');
-      el.setAttribute('x',0);el.setAttribute('y',0);
-      el.removeAttribute('transform');
-      el.setAttribute('font-size',fontChart);
-      el.textContent=n.name||'';
+      // the centre node carries no on-chart label (its name shows in the detail panel)
+      el.setAttribute('display','none');
       continue;
     }
     const tangPx=L.tang*scale,radPx=L.rad*scale;
@@ -798,11 +802,12 @@ const rankedGlobal=allNotable.filter(n=>isForeign(n._country));
 const nlist=document.getElementById('nlist');
 let notableMode='amer';
 function renderNotables(){
-  const ranked=notableMode==='amer'?rankedAmer:rankedGlobal;
+  // scope to the generations currently shown by the depth slider
+  const ranked=(notableMode==='amer'?rankedAmer:rankedGlobal).filter(n=>n.gen<=depthLimit);
   document.getElementById('ncount').textContent=
     ranked.length+(notableMode==='amer'
-      ?' American & colonial ancestors with documented facts, ranked by notability.'
-      :' foreign-born ancestors with documented facts, ranked by notability.');
+      ?' American & colonial ancestors':' foreign-born ancestors')
+    +' through generation '+depthLimit+', ranked by notability.';
   nlist.textContent='';
   ranked.forEach((n,i)=>{
     const row=document.createElement('div');
@@ -842,14 +847,8 @@ function markRow(id){
   });
 }
 const ntabAmer=document.getElementById('ntabAmer'),ntabGlobal=document.getElementById('ntabGlobal');
-function setNotableMode(m){
-  notableMode=m;
-  ntabAmer.classList.toggle('on',m==='amer');
-  ntabGlobal.classList.toggle('on',m==='global');
-  renderNotables();
-}
-ntabAmer.onclick=()=>setNotableMode('amer');
-ntabGlobal.onclick=()=>setNotableMode('global');
+ntabAmer.onclick=()=>setMode('state');     // American ⇄ state colouring
+ntabGlobal.onclick=()=>setMode('country'); // Global ⇄ country colouring
 renderNotables();
 const notables=document.getElementById('notables');
 document.getElementById('notabTab').onclick=()=>{
@@ -915,7 +914,7 @@ function buildReport(){
   const allKeys=sortKeys(allCounts);
   const grouping=reportMode==='country'?'country of origin'
     :'U.S. state &amp; colony (with the foreign country for immigrant ancestors)';
-  let h=`<h2 class="rh">Ancestral Origins — Summary Report</h2>`;
+  let h=`<h2 class="rh">Ancestral Origins — Generation Report</h2>`;
   h+=`<p class="rsub">The direct ancestors of the Knight Kids, generations 1 through ${TARGET_GEN} `+
      `(the children themselves, generation 0, are excluded). Each pie is <b>cumulative</b> — generation N `+
      `shows everyone from the parents through generation N — so you can watch the family's origins `+
@@ -1001,6 +1000,7 @@ depthRange.addEventListener('input',function(){
   depthLimit=+this.value;
   depthVal.textContent=depthLimit;
   computeView();render();fit();
+  renderNotables();          // notable list tracks the slider in real time
 });
 
 /* ---------- init ---------- */
