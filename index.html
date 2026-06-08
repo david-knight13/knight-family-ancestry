@@ -500,7 +500,7 @@ function render(){
     (byId[n.id]=byId[n.id]||[]).push(el);
     const t=document.createElementNS(SVGNS,'text');
     t.setAttribute('class','lbl');
-    t.setAttribute('fill',textColorFor(colorOf(n)));
+    t.style.fill=textColorFor(colorOf(n));
     gLbls.appendChild(t);
     labels.push({el:t,n,a0,a1,r0,r1,aMid,rMid,tang:(a1-a0)*rMid,rad:(r1-r0)});
   }
@@ -601,7 +601,7 @@ function setMode(cm){
     tileEls[k].setAttribute('stroke','#0003');tileEls[k].setAttribute('stroke-width','1');
   }
   gSlices.querySelectorAll('.slice').forEach(s=>s.setAttribute('fill',colorOf(s.__node)));
-  labels.forEach(L=>L.el.setAttribute('fill',textColorFor(colorOf(L.n))));
+  labels.forEach(L=>L.el.style.fill=textColorFor(colorOf(L.n)));
   buildLegend();applyVisual();updateLabels();
   renderNotables();
 }
@@ -648,12 +648,12 @@ window.addEventListener('mousemove',e=>{
 window.addEventListener('mouseup',()=>{drag=false;svg.classList.remove('dragging');});
 
 /* ---------- touch: one-finger pan, two-finger pinch-zoom, tap-to-open ---------- */
-let tMode=0,tMoved=0,pinchD0=0,pinchS0=1,pinchScene={x:0,y:0};
+let tMode=0,tMoved=0,pinchD0=0,pinchS0=1,pinchScene={x:0,y:0},multiTouched=false;
 svg.addEventListener('touchstart',e=>{
   if(e.touches.length===1){
-    tMode=1;tMoved=0;lx=e.touches[0].clientX;ly=e.touches[0].clientY;
+    tMode=1;tMoved=0;multiTouched=false;lx=e.touches[0].clientX;ly=e.touches[0].clientY;
   }else if(e.touches.length>=2){
-    tMode=2;
+    tMode=2;multiTouched=true;
     const a=e.touches[0],b=e.touches[1],r=svg.getBoundingClientRect();
     pinchD0=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY)||1;pinchS0=scale;
     const mx=(a.clientX+b.clientX)/2-r.left,my=(a.clientY+b.clientY)/2-r.top;
@@ -676,7 +676,7 @@ svg.addEventListener('touchmove',e=>{
   e.preventDefault();
 },{passive:false});
 svg.addEventListener('touchend',e=>{
-  if(tMode===1&&tMoved<10){                       // a tap → open the slice under the finger
+  if(tMode===1&&tMoved<10&&!multiTouched){         // a tap → open the slice under the finger
     const t=e.changedTouches[0],el=document.elementFromPoint(t.clientX,t.clientY);
     if(el&&el.__node)openPanel(el.__node);
   }
