@@ -159,6 +159,7 @@
     border-radius:8px;cursor:pointer;}
   #tabs .tab:hover{background:#fff;}
   #tabs .tab.on{background:var(--gold);color:#332b07;border-color:#e8c552;font-weight:700;}
+  #tabs .tab .tshort{display:none;}
 
   /* ---- country toggle ---- */
   #controls .btn.wide.on{background:var(--navy);color:#f6f0e2;border-color:var(--navy);}
@@ -234,6 +235,79 @@
   #pieTip .tt-d{font-size:11.5px;margin-top:3px;}
   #pieTip .tt-g{font-size:10.5px;color:#c9bf9f;margin-top:2px;}
 
+  /* ---- patriotic heritage tab ---- */
+  #patriot{position:absolute;top:71px;left:0;right:0;bottom:0;z-index:15;display:none;
+    overflow-y:auto;padding:30px 38px 80px;
+    background:radial-gradient(circle at 50% 0%, #fbf7ec 0%, #ece2c9 92%);}
+  #patriot.show{display:block;}
+  #patriot .wrap{max-width:1060px;margin:0 auto;}
+  #patriot .rh{font-size:25px;margin:0 0 6px;display:flex;align-items:center;gap:11px;}
+  #patriot .rh .rb{width:7px;height:30px;border-radius:2px;
+    background:linear-gradient(#b22234 0 33%,#fff 33% 66%,#3c3b6e 66%);border:1px solid #0002;}
+  #patriot .rsub{font-size:13px;color:#6a6249;max-width:880px;line-height:1.65;margin:0 0 22px;}
+  #patriot .rsub b{color:var(--ink);}
+  #patriot h3.sec{font-family:Georgia,serif;font-size:18px;color:var(--ink);
+    margin:30px 0 13px;padding-bottom:7px;border-bottom:2px solid #d8caa4;
+    display:flex;align-items:center;gap:9px;}
+  #patriot h3.sec .ic{color:var(--red);}
+  /* big stat cards */
+  .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(186px,1fr));gap:15px;margin-bottom:8px;}
+  .stat-card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:17px 18px;box-shadow:0 3px 12px #00000010;position:relative;overflow:hidden;
+    transition:transform .13s,box-shadow .13s;}
+  .stat-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px #0000001c;}
+  .stat-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--navy);}
+  .stat-card.red::before{background:var(--red);}
+  .stat-card.gold::before{background:var(--gold);}
+  .stat-card .num{font-family:Georgia,serif;font-size:34px;font-weight:700;color:var(--ink);line-height:1;}
+  .stat-card .lab{font-size:12px;color:#5f583f;margin-top:7px;line-height:1.4;}
+  .stat-card .sub{font-size:10.8px;color:var(--muted);margin-top:5px;font-style:italic;}
+  /* fact list cards */
+  .fact-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:15px;}
+  .fact{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:15px 17px;
+    box-shadow:0 2px 10px #0000000d;}
+  .fact .ft{font-family:Georgia,serif;font-size:14.5px;font-weight:700;color:var(--ink);
+    margin:0 0 5px;display:flex;align-items:baseline;gap:8px;}
+  .fact .ft .yr{font-size:11.5px;color:var(--red);font-weight:700;font-family:Georgia,serif;}
+  .fact .fb{font-size:12.2px;color:#5a533c;line-height:1.55;}
+  .fact .fb b{color:var(--ink);}
+  /* patriot name chips */
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 6px;}
+  .chip{display:inline-flex;align-items:center;gap:7px;background:#f7f1e1;border:1px solid var(--line);
+    border-radius:20px;padding:5px 13px 5px 11px;font-size:12px;color:var(--ink);}
+  .chip .st{color:var(--red);}
+  .chip .yr{color:var(--muted);font-size:10.8px;}
+  /* knight patriline timeline */
+  .kline{list-style:none;margin:6px 0 0;padding:0;position:relative;}
+  .kline::before{content:"";position:absolute;left:11px;top:6px;bottom:30px;width:2px;background:#d8caa4;}
+  .kli{position:relative;padding:0 0 16px 38px;}
+  .kli::before{content:"";position:absolute;left:5px;top:4px;width:15px;height:15px;border-radius:50%;
+    background:var(--card);border:3px solid var(--navy);box-sizing:border-box;}
+  .kli.ok::before{border-color:#2e7d4f;}
+  .kli.weak::before{border-color:var(--gold);}
+  .kli.bad::before{border-color:var(--red);background:#fbeae9;}
+  .kli .kn{font-family:Georgia,serif;font-size:14.5px;font-weight:700;color:var(--ink);}
+  .kli .kg{font-size:10.5px;color:var(--muted);font-weight:400;margin-left:6px;}
+  .kli .kp{font-size:12px;color:#5a533c;line-height:1.5;margin-top:2px;}
+  .kli .badge{display:inline-block;font-size:9.7px;font-weight:700;letter-spacing:.04em;
+    text-transform:uppercase;padding:2px 8px;border-radius:11px;margin-top:5px;}
+  .kli.ok .badge{background:#e2f0e6;color:#256b43;border:1px solid #b6d8c2;}
+  .kli.weak .badge{background:#f7eccb;color:#8a6d1c;border:1px solid #e2cf95;}
+  .kli.bad .badge{background:#fbe0de;color:#a3271f;border:1px solid #efb9b4;}
+  .callout{background:#fbeae9;border:1px solid #efc4c0;border-left:5px solid var(--red);
+    border-radius:11px;padding:15px 18px;margin:14px 0 6px;font-size:12.5px;line-height:1.6;color:#5a4a48;}
+  .callout b{color:#8a261f;}
+  .candlist{list-style:none;margin:11px 0 4px;padding:0;}
+  .candlist li{position:relative;padding:8px 0 8px 0;border-top:1px solid #efc4c0;line-height:1.55;}
+  .candlist li:first-child{border-top:none;}
+  .cv{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;
+    padding:2px 8px;border-radius:11px;margin-right:7px;vertical-align:1px;white-space:nowrap;}
+  .cv.lead{background:#e2f0e6;color:#256b43;border:1px solid #b6d8c2;}
+  .cv.out{background:#efe2cf;color:#6a571c;border:1px solid #ddc79b;}
+  .srcnote{font-size:11px;color:var(--muted);font-style:italic;margin-top:20px;line-height:1.6;
+    border-top:1px solid #d8caa4;padding-top:14px;}
+  .srcnote a{color:var(--navy);}
+
   /* ---- responsive / mobile ---- */
   @media (max-width:760px){
     header{height:58px;padding:0 12px;}
@@ -241,13 +315,23 @@
       text-overflow:ellipsis;padding-right:150px;gap:7px;}
     header .flag-ico{width:30px;height:21px;}
     header .sub{display:none;}
-    #tabs{top:14px;right:10px;gap:4px;}
-    #tabs .tab{padding:5px 9px;font-size:11px;}
+    #tabs{top:14px;right:8px;gap:4px;}
+    #tabs .tab{padding:5px 8px;font-size:10.5px;}
+    #tabs .tab .tlong{display:none;}
+    #tabs .tab .tshort{display:inline;}
+    header h1{padding-right:210px;}
     #notables{top:62px;width:min(320px,88vw);}
     #panel{top:62px;width:min(392px,94vw);}
     #report{top:62px;padding:18px 14px 70px;}
     #report .rh{font-size:20px;}
     #report .rsub{font-size:12px;}
+    #patriot{top:62px;padding:18px 14px 74px;}
+    #patriot .rh{font-size:19px;}
+    #patriot .rsub{font-size:12px;}
+    #patriot h3.sec{font-size:16px;}
+    .stat-grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:11px;}
+    .stat-card .num{font-size:28px;}
+    .fact-grid{grid-template-columns:1fr;}
     #legend{top:70px;right:0;width:min(208px,58vw);overflow:visible;
       max-height:none;padding:9px 10px;border-radius:11px 0 0 11px;}
     #legend.closed{transform:translateX(100%);}   /* slide off the right edge */
@@ -292,8 +376,9 @@
   </h1>
   <div class="sub" id="hsub"></div>
   <div id="tabs">
-    <button class="tab on" id="tabChart">Fan Chart</button>
-    <button class="tab" id="tabReport">Generation Report</button>
+    <button class="tab on" id="tabChart"><span class="tlong">Fan Chart</span><span class="tshort">Chart</span></button>
+    <button class="tab" id="tabReport"><span class="tlong">Generation Report</span><span class="tshort">Report</span></button>
+    <button class="tab" id="tabPatriot"><span class="tlong">★ Patriotic Heritage</span><span class="tshort">★ Heritage</span></button>
   </div>
 </header>
 
@@ -335,6 +420,7 @@
   <span id="depthVal">8</span>
 </div>
 <div id="report"></div>
+<div id="patriot"></div>
 <div id="pieTip"></div>
 
 <div id="panel">
@@ -614,11 +700,15 @@ let scale=1,panX=0,panY=0;
 /* keep the chart from being panned off into empty background ("white space") */
 function clampPan(){
   const W=svg.clientWidth,H=svg.clientHeight;
+  const hdr=document.querySelector('header');
+  const top=hdr?hdr.offsetHeight:0;              // the opaque banner covers the top of the svg
   const half=(ringOuter(maxViewGen)+30)*scale;   // chart half-extent on screen
-  const clamp=(p,size)=> (2*half<=size)
-    ? Math.min(size-half,Math.max(half,p))        // chart smaller than viewport → keep fully inside
-    : Math.min(half,Math.max(size-half,p));       // chart larger → keep it covering the viewport
-  panX=clamp(panX,W);panY=clamp(panY,H);
+  // clamp one axis so the chart stays covering the visible region [lo,hi]
+  // (smaller than the region → keep fully inside it; larger → keep it covering)
+  const clamp=(p,lo,hi)=> (2*half<=(hi-lo))
+    ? Math.min(hi-half,Math.max(lo+half,p))
+    : Math.min(lo+half,Math.max(hi-half,p));
+  panX=clamp(panX,0,W);panY=clamp(panY,top,H);    // exclude the header band from the top bound
 }
 function apply(){clampPan();scene.setAttribute('transform',`translate(${panX},${panY}) scale(${scale})`);updateLabels();}
 function fit(){
@@ -964,6 +1054,158 @@ function pieSVG(counts,size,gen){
   });
   return s+'</svg>';
 }
+/* ---------- patriotic heritage tab ---------- */
+let patriotBuilt=false;
+function buildPatriot(){
+  const el=document.getElementById('patriot');
+  const C13=['Virginia','Massachusetts','New York','Pennsylvania','Maryland','Connecticut',
+    'Rhode Island','Delaware','New Hampshire','New Jersey','North Carolina','South Carolina','Georgia'];
+  const yr=s=>{const m=(s||'').match(/\d{3,4}/g);return{b:m?+m[0]:null,d:m&&m[1]?+m[1]:null};};
+  // The fan chart holds 4,674 positions but ancestors recur through multiple lines
+  // (pedigree collapse), so every statistic is counted over DISTINCT people (by id).
+  const people=new Set(),alive=new Set(),colS=new Set(),imm=new Set(),revSet=new Set(),
+    statesUS=new Set(),statesOther=new Set(),darIds=new Set();
+  const dar=[];
+  for(const n of NODES){
+    people.add(n.id);
+    const{b,d}=yr(n.life);
+    if(b&&b>=1680&&b<=1776&&(d===null||d>=1776))alive.add(n.id);
+    if((n.bp||'').includes('Colonial America')||(b&&b<1776&&C13.some(c=>(n.bp||'').includes(c))))colS.add(n.id);
+    (n.states||[]).forEach(s=>{ (s==='Acadia'||s==='Nova Scotia'?statesOther:statesUS).add(s); });
+    if((n.ev||[]).some(e=>e.t==='IMMIGRATION'))imm.add(n.id);
+    const mil=(n.ev||[]).filter(e=>e.t==='MILITARY_SERVICE');
+    if(mil.length){
+      const blob=mil.map(e=>(e.d||'')+' '+(e.desc||'')).join(' ');
+      if(/revolution|continental|177[5-9]|178[0-3]/i.test(blob)||(b&&b>=1735&&b<=1762))revSet.add(n.id);
+    }
+    const allblob=[n.sketch,n.story,...(n.ev||[]).map(e=>e.desc)].join(' ');
+    if(/\bDAR\b|Daughters of the American Revolution|Sons of the American/i.test(allblob)&&!darIds.has(n.id)){
+      darIds.add(n.id);
+      dar.push({name:n.name,life:n.life.replace(/�/g,'–')});
+    }
+  }
+  const nPeople=people.size, alive1776=alive.size, colonial=colS.size;
+  const stat=(num,lab,sub,cls)=>`<div class="stat-card ${cls||''}"><div class="num">${num}</div>`+
+    `<div class="lab">${lab}</div>${sub?`<div class="sub">${sub}</div>`:''}</div>`;
+  const darChips=dar.sort((a,b)=>a.name.localeCompare(b.name)).map(p=>
+    `<span class="chip"><span class="st">★</span>${esc(p.name)} <span class="yr">${esc(p.life)}</span></span>`).join('');
+
+  // verified paternal Knight line (curated from independent research — see source note)
+  const KLINE=[
+    {n:'David Knight',g:'present generation',cls:'',badge:'Family records',
+     p:'The youngest documented bearer of the Knight name in this tree — one of the children of John & Cara Knight for whom this chart was built.'},
+    {n:'John Richard Knight',g:'b. 1964 · Lafayette, LA',cls:'',badge:'Family records',p:''},
+    {n:'John R. Knight',g:'1941–2021 · Louisiana → Georgia',cls:'',badge:'Family records',p:''},
+    {n:'Leo Richard Knight',g:'1910–1971 · Louisiana',cls:'',badge:'Family records',p:''},
+    {n:'Dr. John Augustus Knight',g:'1881–1958',cls:'ok',badge:'Documented',
+     p:'Born in the <b>Knight community of Vernon Parish, Louisiana</b> — a settlement that carries the family name — and remembered as a country physician.'},
+    {n:'James William Knight',g:'1854–1913 · Vernon Parish, LA',cls:'ok',badge:'Documented',p:''},
+    {n:'John Carey Knight',g:'1825–1871',cls:'ok',badge:'Documented',
+     p:'Born in Georgia, died in Vernon Parish, Louisiana — the generation that carried the Knight name west from Georgia into Louisiana.'},
+    {n:'John Speir Knight',g:'1782–1844',cls:'ok',badge:'Verified · records',
+     p:'Born in <b>Tarboro, Edgecombe County, North Carolina</b>; died in Walton County, Florida. His middle name "Speir" comes from his grandmother’s family — a naming clue that independently confirms the link to the generation above.'},
+    {n:'Robert A. Knight Jr.',g:'1761–1805',cls:'ok',badge:'Verified · census, DNA',
+     p:'Born in Edgecombe County, NC; died in Jefferson, Georgia. His mother was <b>Teresa Speir</b> — the source of his son’s middle name. Appears in the 1784–87 NC state census and the 1800 federal census.'},
+    {n:'Robert A. Knight Sr.',g:'c. 1725–1762',cls:'ok',badge:'Verified · records',
+     p:'Of Edgecombe County, North Carolina. Died about the time his son Robert was born (c. 1761).'},
+    {n:'John Knight',g:'c. 1706–1770',cls:'ok',badge:'Verified · two wills',
+     p:'Born in <b>Nansemond County, Virginia</b>, settled in Edgecombe County, NC. His will names "my grandson, Robert Knight," and he is in turn named as a son in his own father’s will — two documents that lock this stretch of the line together.'},
+    {n:'William Williams Knight Sr.',g:'c. 1686–1752 · Isle of Wight, VA → Bertie Co., NC',cls:'ok',
+     badge:'Verified · will, land grant',
+     p:'Born in <b>Isle of Wight County, Virginia</b>; died in Bertie County, North Carolina. Documented by his own <b>1751 will</b> (naming sons John, William &amp; Nehemiah and wife Martha), a <b>1743 land grant</b> of 320 acres, and 1740 witness and 1757 tax records. His will naming son John confirms the link to the generation below. <b>This is the deepest firmly-documented Knight ancestor.</b>'},
+    {n:'Above William — unproven',g:'candidates listed below',cls:'bad',badge:'Unproven',
+     p:'No record proves who fathered William’s branch. The documented possibilities — and those already ruled out — are set out below.'},
+  ];
+  const kitems=KLINE.map(k=>`<li class="kli ${k.cls}"><span class="kn">${esc(k.n)}</span>`+
+    `<span class="kg">${esc(k.g)}</span>${k.p?`<div class="kp">${k.p}</div>`:''}`+
+    `<span class="badge">${esc(k.badge)}</span></li>`).join('');
+
+  el.innerHTML=`<div class="wrap">
+    <h1 class="rh"><span class="rb"></span>Patriotic Heritage of the Knight Kids</h1>
+    <p class="rsub">The Knight family’s roots reach back to the very founding of America. The tree holds
+      <b>${nPeople.toLocaleString()}</b> distinct ancestors across <b>${DATA.meta.maxGen} generations</b>
+      (filling ${NODES.length.toLocaleString()} places — many ancestors recur on more than one line), and
+      hundreds were already on American soil when the nation was born. Every figure below counts
+      <b>distinct people</b>; the historical connections are drawn from the tree as well and — as the Knight
+      line itself shows — grow less certain the further back they reach.</p>
+
+    <h3 class="sec"><span class="ic">★</span>By the numbers</h3>
+    <div class="stat-grid">
+      ${stat(alive1776.toLocaleString(),'Ancestors living when independence was declared in <b>1776</b>','born 1680–1776, still living','red')}
+      ${stat(colonial.toLocaleString(),'Born in colonial America &amp; the original 13 colonies','before 1776','')}
+      ${stat(revSet.size,'Revolutionary War–era soldiers','distinct ancestors in arms','gold')}
+      ${stat(dar.length,'Recognized Revolutionary <b>Patriots</b>','DAR / SAR–documented service','red')}
+      ${stat(imm.size,'Immigrant ancestors who crossed the Atlantic','earliest at Jamestown, 1619','')}
+      ${stat(statesUS.size,'U.S. states &amp; colonies represented','plus Acadia &amp; Nova Scotia','gold')}
+      ${stat(DATA.meta.interesting,'Historically notable ancestors','flagged across the tree','')}
+      ${stat(nPeople.toLocaleString(),'Distinct documented ancestors','in '+NODES.length.toLocaleString()+' tree positions','red')}
+    </div>
+
+    <h3 class="sec"><span class="ic">⚔</span>Service to the young republic</h3>
+    <p class="rsub">At least <b>${revSet.size}</b> direct ancestors bore arms around the Revolution, and
+      <b>${dar.length}</b> of them carry a recognized Patriot record with the Daughters or Sons of the
+      American Revolution — the gold standard of documented Revolutionary service:</p>
+    <div class="chips">${darChips}</div>
+    <p class="rsub" style="margin-top:4px">Others served in the colonial militias before independence and in the
+      <b>War of 1812</b>, as the family pushed south and west into Georgia, Florida and Louisiana.</p>
+
+    <h3 class="sec"><span class="ic">⚓</span>At the founding of America</h3>
+    <div class="fact-grid">
+      <div class="fact"><div class="ft">Among the first at Jamestown <span class="yr">1619</span></div>
+        <div class="fb">Ancestor <b>John Combes</b> (1602–1652) sailed aboard the <i>Marigold</i> and stepped
+          ashore at <b>Jamestown on 20 May 1619</b> as an indentured servant — a <b>full year before the
+          Mayflower</b> reached Plymouth. Other ancestors followed at Jamestown in 1621 and 1636.</div></div>
+      <div class="fact"><div class="ft">Survivor of the Salem Witch Trials <span class="yr">1692</span></div>
+        <div class="fb">Ancestor <b>Sarah Towne</b> (1637–1703) was accused of witchcraft during the 1692
+          hysteria — the same charge that sent her own sisters, Rebecca Nurse and Mary Esty, to the gallows.
+          Sarah escaped execution.</div></div>
+      <div class="fact"><div class="ft">Kin to the founders &amp; presidents</div>
+        <div class="fb">Through its deepest New-England branches the tree connects collaterally to
+          <b>President John Adams</b> and founding father <b>Samuel Adams</b> (via Henry Adams, 1583–1646),
+          and to Presidents <b>James Madison</b> and <b>Zachary Taylor</b>. These links sit 12+ generations
+          back — fascinating, but the least certain part of the tree.</div></div>
+      <div class="fact"><div class="ft">From thirteen colonies to the Gulf South</div>
+        <div class="fb">The family is rooted heaviest in <b>Virginia</b>, the Carolinas, and Massachusetts,
+          then migrates through Georgia and Florida into <b>Louisiana</b>. Two regions — <b>Acadia</b> and
+          <b>Nova Scotia</b> — mark the family’s Louisiana <b>Acadian (Cajun)</b> heritage.</div></div>
+    </div>
+
+    <h3 class="sec"><span class="ic">⚑</span>The Knight name — a verified paternal line</h3>
+    <p class="rsub">Surnames pass father to son, so the Knight name traces one straight path up the tree.
+      Rather than trust the online tree, each link below was checked against independent records. The line is
+      <b>solidly documented back to colonial Virginia</b> — and the popular claim that it reaches the Pilgrim
+      Knights of Massachusetts is demonstrably wrong.</p>
+    <ul class="kline">${kitems}</ul>
+    <div class="callout"><b>Where the record really ends.</b> The Knight surname is verified back eleven
+      generations to <b>William Williams Knight Sr. (c. 1686–1752)</b>, born in Isle of Wight County, Virginia
+      and proven by his own 1751 will and a 1743 land grant. Who fathered <i>his</i> branch is not settled.
+      Four candidates have been put forward; the family’s Y-DNA helps sort them:
+      <ul class="candlist">
+        <li><span class="cv lead">Leading</span> <b>The John Knights of Northampton County, Virginia</b> —
+          John Knight Sr. (c. 1645–1701) and his son John Knight Jr. (c. 1666–1709). This is the branch the
+          family’s Y-DNA group points to, and John Sr. appears in a 1667 Northampton land patent. The link
+          down to William is disputed on a chronological point and is not yet proven.</li>
+        <li><span class="cv out">Ruled out</span> <b>Peter Knight “the Merchant” of Isle of Wight &amp; Nansemond</b>
+          (land patents 1638–1643) — the earliest Knight in William’s home county, but he appears to have
+          left no surviving sons to carry the surname.</li>
+        <li><span class="cv out">Ruled out</span> <b>Capt. Peter Knight of Northumberland County</b> (d. 1705)
+          — his proven descendants carry a different Y-DNA branch than William’s line.</li>
+        <li><span class="cv out">Disproven</span> <b>The Pilgrim Knights of Newbury, Massachusetts / an English
+          “Capt. John Knight”</b> — chronologically impossible: the supposed son is recorded born in England
+          in 1668, two decades after his alleged Massachusetts-born father (1648).</li>
+      </ul>
+      The verified line stays in colonial <b>Virginia</b> and, for now, ends with William.</div>
+
+    <p class="srcnote">Counts are tallied directly from the ${nPeople.toLocaleString()} distinct ancestors in this
+      tree. The Knight-line verification draws on the 1784–1787 North Carolina state census, the 1800 U.S.
+      census, Edgecombe and Bertie County NC wills, a 1743 Bertie County land grant, a 1667 Northampton County
+      VA land patent, DAR Patriot records, the Knight surname Y-DNA project, and published Knight-of-Virginia
+      and Knight-of-Newbury family studies (WikiTree, Geni, FamilySearch), cross-checked for the chronological
+      and geographic contradictions noted above. Historical and notable-kin claims come from the compiled tree
+      and, like all deep genealogy, should be treated as increasingly tentative with each generation back.</p>
+  </div>`;
+}
+
 let reportBuilt=false;
 function buildReport(){
   const rep=document.getElementById('report');
@@ -1037,22 +1279,26 @@ document.getElementById('report').addEventListener('mouseleave',()=>{pieTip.styl
 /* ---------- view tabs ---------- */
 const tabChart=document.getElementById('tabChart'),tabReport=document.getElementById('tabReport');
 function showTab(which){
-  const rep=which==='report';
+  const rep=which==='report',pat=which==='patriot',overlay=rep||pat;
   document.getElementById('report').classList.toggle('show',rep);
-  tabChart.classList.toggle('on',!rep);
+  document.getElementById('patriot').classList.toggle('show',pat);
+  tabChart.classList.toggle('on',which==='chart');
   tabReport.classList.toggle('on',rep);
+  tabPatriot.classList.toggle('on',pat);
   ['legend','controls','notables','stage','depthCtl'].forEach(id=>{
-    document.getElementById(id).style.display=rep?'none':'';
+    document.getElementById(id).style.display=overlay?'none':'';
   });
   hideHover();
-  if(rep){
+  if(overlay){
     document.getElementById('rootBar').style.display='none';
     panel.classList.remove('open');highlight(null);markRow(null);
-    if(!reportBuilt){buildReport();reportBuilt=true;}
+    if(rep&&!reportBuilt){buildReport();reportBuilt=true;}
+    if(pat&&!patriotBuilt){buildPatriot();patriotBuilt=true;}
   }else updateRootBar();
 }
 tabChart.onclick=()=>showTab('chart');
 tabReport.onclick=()=>showTab('report');
+tabPatriot.onclick=()=>showTab('patriot');
 
 /* ---------- generation-depth slider ---------- */
 const depthRange=document.getElementById('depthRange'),depthVal=document.getElementById('depthVal');
