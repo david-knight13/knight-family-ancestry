@@ -703,7 +703,7 @@ function clampPan(){
   const hdr=document.querySelector('header');
   const top=hdr?hdr.offsetHeight:0;              // the opaque banner covers the top of the svg
   const half=(ringOuter(maxViewGen)+30)*scale;   // chart half-extent on screen
-  const M=220;                                   // extra margin: how far the chart edge can go off-screen
+  const M=400;                                   // extra margin: how far the chart edge can go off-screen
   // clamp one axis so the chart stays covering the visible region [lo,hi]
   // (smaller than the region → keep fully inside it + M slack; larger → allow M of empty space to show)
   const clamp=(p,lo,hi)=> (2*half<=(hi-lo))
