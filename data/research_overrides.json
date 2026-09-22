@@ -1,0 +1,4364 @@
+[
+  {
+    "parent_id": "KNJL-1GR",
+    "child_id": "9JCS-1VF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "life": "1773–1853",
+    "climb": true,
+    "note": "Hébert SWLR: 1 Jan 1819 Opelousas marriage of John Fogleman names parents George & Sally HOOZER. Sarah b.~1773 (the 1800 date was a later Sarah Fogleman)."
+  },
+  {
+    "parent_id": "PS2Y-59Z",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "WikiTree Knight-15237: William Knight Sr of Bertie left a 3 Dec 1751 will naming sons John, William, Nemiah and wife Martha. No record names Capt. John Knight of Newbury as his father; that graft is disproven."
+  },
+  {
+    "parent_id": "LDBB-WHL",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Named as father of John Knight in his own 3 Dec 1751 Bertie Co. NC will (probated Feb 1752). Independently verified Knight paternal line."
+  },
+  {
+    "parent_id": "K4BN-6LJ",
+    "child_id": "LK5C-SXX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "St. Landry civil marriage OGE, Eugene & WARD, Elizabeth, 15 May 1866, nine months before John’s birth 21 Feb 1867. Perrin, Southwest Louisiana (1891) names him the only son of Louis Eugene Ogé (d. yellow fever 1867) and Elizabeth Ward."
+  },
+  {
+    "parent_id": "KH3C-6JG",
+    "child_id": "LK5C-SXX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1866 civil marriage and 1891 Perrin sketch (Queen’s County, Ireland; d. Opelousas 1884). Son Patrick Ward Oge preserves her maiden name. FS dual-parent flag is the Duffy foster household at Grand Coteau, not a competing biological couple."
+  },
+  {
+    "parent_id": "LK5C-SXX",
+    "child_id": "L5L7-51V",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "St. Landry civil OGE, J.M. & PELETIR, Marie A., 9 Feb 1889. Obituaries of the Grand Coteau children name Major John M. Oge and Marie Petetin as parents of Eileen (Mrs. Lee Fogleman = Agnes Eileen Ogé)."
+  },
+  {
+    "parent_id": "LVV9-WJX",
+    "child_id": "KLZT-HS1",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Mary Ann Covington (9 May 1838–11 Sep 1890, Cothran Cemetery, Rover TN) is the mother of Judy Frances Lamb Gentry (Find A Grave 10702077 / 234575534). Dual-parent flag wrongly attaches Judith to her grandmother Naomi Cissle Covington, Willis Lamb’s legal wife."
+  },
+  {
+    "parent_id": "LY97-F53",
+    "child_id": "KLZT-HS1",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Willis Lamb headed the Rover TN household where Judith and five full Lamb siblings were born. Dual-parent flag is Willis+Naomi (Mary Ann’s mother, m. 1848) vs Willis+Mary Ann. Keep Willis as household father; compiler F. Gentry names only Mary Ann. Not independently proven as biological father."
+  },
+  {
+    "parent_id": "KLZT-HS1",
+    "child_id": "K863-YC4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Judy Frances Lamb Gentry, b. 20 Apr 1867 TN, d. 22 Jan 1931 Slaton, Lubbock Co. TX; wife of Nicholas Payne Gentry; mother of Mizzie Ann Gentry Shelton (Find A Grave 10702077)."
+  },
+  {
+    "parent_id": "MW17-77P",
+    "child_id": "LY97-F53",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "David Lamb Sr (1791–1840) m. Esther Landrum 1813 (Rutherford pioneer sketch). Willis b. 15 Jan 1817 fits. Competing David Lamb 1777–1846 (KJ8D-FFD) m. Tabitha: 1848 Rutherford estate names many heirs, no Willis."
+  },
+  {
+    "parent_id": "GZLG-37V",
+    "child_id": "LY97-F53",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Esther Landrum (c.1794–1871), documented 1813 wife of David Lamb Sr, is the correct mother of Willis. Competing mother Tabitha belongs to the other David Lamb (no Willis in that 1848 heir list)."
+  },
+  {
+    "parent_id": "GQ3F-G2G",
+    "child_id": "KNVC-7HV",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": false,
+    "note": "Lumiza Frances Arnold is consistently daughter of James Edward Arnold on compiled trees and mother of Nicholas Payne Gentry. Father is not the disputed half of the dual-parent flag. Do not climb until the mother is settled."
+  },
+  {
+    "parent_id": "GQVF-3TR",
+    "child_id": "KNVC-7HV",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Dual-parent flag is two wives of James Arnold: chart Nancy Jackson (GQVF-3TR) vs Elizabeth (Ann Warren) McGowan. No 1850 household or death-certificate parent line retrieved. Do not invent a mother; do not climb."
+  },
+  {
+    "parent_id": "M8KX-YTS",
+    "child_id": "97LB-PPL",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Absalom S. Kouns is not Phillip Spencer’s father (surname mismatch). 1850 Boone Co. IN: Philip Spencer, 14, is in John L. Kouns’s household, not Absalom’s. 1851 John L. Kouns estate lists Absalom as a living son and Philip Spencer separately as a minor heir of a different child. In-law/uncle graft."
+  },
+  {
+    "parent_id": "9SZ5-WWY",
+    "child_id": "97LB-PPL",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Elizabeth Lemon Kouns’s children (Find A Grave 65127066) do not include Phillip Spencer. She is in Iowa 1860–80 while Phillip is in Missouri with wife Louisa. Same 1851 probate split rules her out. True mother unnamed; stop climb."
+  },
+  {
+    "parent_id": "M8KX-YTS",
+    "child_id": "LYQM-TV3",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Same Kouns/Lemon couple duplicated as parents of Phillip’s wife Louisa Ann Allison — classic in-law graft. Prune; do not climb."
+  },
+  {
+    "parent_id": "9SZ5-WWY",
+    "child_id": "LYQM-TV3",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Same Kouns/Lemon in-law graft on Louisa Ann Allison. Prune; do not climb."
+  },
+  {
+    "parent_id": "97LB-PPL",
+    "child_id": "9JZ7-KBL",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1860 Nodaway MO already shows Philip+Louisa with young children; 1880 Neosho, Newton, MO lists Viola in their household. Keep Phillip as Viola’s father. Do not climb through Kouns/Lemon."
+  },
+  {
+    "parent_id": "GGRF-M9H",
+    "child_id": "K4BN-6LJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "François René Ogé of Sarthe is the chart and FS-preferred father of Louis Eugene Oge (born Château-Gontier, Mayenne). TREE-AUDIT flags only the wife’s slots (pos 58/59), not this one. Geography Sarthe↔Mayenne is coherent."
+  },
+  {
+    "parent_id": "GGRX-JGV",
+    "child_id": "K4BN-6LJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Anne Charlotte Joucheray, born Château-Gontier — same town as Louis Eugene’s birthplace. TREE-AUDIT does not replace her at gen 7 pos 57."
+  },
+  {
+    "parent_id": "GGRF-M9H",
+    "child_id": "KH3C-6JG",
+    "grade": "F",
+    "verdict": "RELINK",
+    "correct_parent": {
+      "id": "LB8K-NP5",
+      "name": "John Ward"
+    },
+    "climb": false,
+    "note": "Husband’s parents copied onto the wife. Elizabeth Ward was of Queen’s County, Ireland (Perrin 1891; d. Opelousas 1884), not a child of François René Ogé of Sarthe. FS preferred father is John Ward LB8K-NP5. Relink; do not climb the Ogé line from Elizabeth."
+  },
+  {
+    "parent_id": "GGRX-JGV",
+    "child_id": "KH3C-6JG",
+    "grade": "F",
+    "verdict": "RELINK",
+    "correct_parent": {
+      "id": "LB8K-6SZ",
+      "name": "Catharine Dempsey"
+    },
+    "climb": false,
+    "note": "Same copy-error. FS preferred mother is Catharine Dempsey LB8K-6SZ. Irish Ward/Dempsey, not Mayenne Joucheray. Relink; climb Ward/Dempsey if documented, not Ogé."
+  },
+  {
+    "parent_id": "L18C-YCN",
+    "child_id": "MNYT-DYX",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "William Patrick Cain b.1815 would be ~12 in 1827 and has 0 FS sources. WikiTree Cain-2903 lists no parents. 1850 Rapides already shows William P. Cain ~22 as head with wife Joanna, not in a Patrick household. Prune; do not invent a father."
+  },
+  {
+    "parent_id": "L18C-12Z",
+    "child_id": "MNYT-DYX",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Elizabeth Byrd b.1818 cannot be mother of William Pinckney Cain b.14 Nov 1827 (age 9). 1860 Sabine wife is Joanna Jeter (WikiTree Jeter-1081; Find A Grave 27576179). Prune; true mother undocumented."
+  },
+  {
+    "parent_id": "LRLD-MVS",
+    "child_id": "LKDH-DVZ",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "life": "1794–Deceased",
+    "note": "Placeholder: unnamed Merchant daughter (~1794 SC), hypothesized mother of James Richard Odom (WikiTree Merchant-438 / Odom-2008). Chart 1780–1842 is wrong. Given name unknown. Do not climb."
+  },
+  {
+    "parent_id": "LRLD-MVS",
+    "child_id": "L2PQ-1TV",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "In-law graft. Cinderella Beall is James Richard Odom’s wife, not Merchant’s daughter. Same-mother-of-both-spouses created a false sibling marriage."
+  },
+  {
+    "parent_id": "GK4B-GP3",
+    "child_id": "LKDH-DVZ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Richard Odom of Pike/Simpson MS (WikiTree Odom-762) is father of James Richard / “Richard” Odom of Oakdale LA (FAG 7201769). 1820 Pike household next to John Merchant."
+  },
+  {
+    "parent_id": "GK4B-GP3",
+    "child_id": "L2PQ-1TV",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Richard Odom is Cinderella Beall’s father-in-law, not her father. Do not invent Beall parents."
+  },
+  {
+    "parent_id": "G319-D4X",
+    "child_id": "LRLD-MVS",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "John Merchant (real Smith Co. MS man) would be ~10 at a 1780 birth. Adjacency to Richard Odom is only a hypothesis for the unnamed ~1794 wife. Do not climb from this placeholder."
+  },
+  {
+    "parent_id": "L8S1-4RV",
+    "child_id": "LRLD-MVS",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Nancy Mills, wife of John Merchant, same ~10-year-old-mother problem. Death in Dade MO is a Smith County MS geocode error."
+  },
+  {
+    "parent_id": "LKDH-DVZ",
+    "child_id": "K8YH-MDY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1824–1893",
+    "note": "James Addison Odom (FAG 7201765) of Oakdale is son of James Richard Odom × Cinderella Beall (born Jan 1852, before the 1853 McDowell remarriage). Grandfather of Marian Frances Odom."
+  },
+  {
+    "parent_id": "L2PQ-1TV",
+    "child_id": "K8YH-MDY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": false,
+    "note": "Cinderella Beall, first wife of James Richard Odom, died ~1852. Keep as James A’s mother. Do not climb her unknown parents."
+  },
+  {
+    "parent_id": "KHM7-YW3",
+    "child_id": "GTS1-9L4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Jeter-1081 and FAG 27575234 name Sterling/Starling Jeter of Blackville as father of Joanah Jeter Cain. Barnwell Bundle 77 pkg 4, died intestate 1840. Charles Ray administered both Sterling and Joseph Jeter."
+  },
+  {
+    "parent_id": "L627-YCY",
+    "child_id": "GTS1-9L4",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1795–1840",
+    "note": "Compiled Barnwell trees give Mary Free as Joanah’s mother. Chart 1772 made her 51 at Joanah’s birth; ~1795 removes that flag. WikiTree leaves the mother blank — not independently proven."
+  },
+  {
+    "parent_id": "GTS1-9L4",
+    "child_id": "LHKX-42W",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Joanah Jeter (WikiTree Jeter-1081; FAG 27575234) is the documented wife of William Pinckney Cain and mother of Mary Elizabeth Cain Knight."
+  },
+  {
+    "parent_id": "LDTP-VN4",
+    "child_id": "KHM7-YW3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "William Joseph Jeter (1753–1811): Charles Ray administered both Sterling Jeter (1840) and his father Joseph Jeter (Barnwell loose papers). WikiTree Jeter-1082."
+  },
+  {
+    "parent_id": "LHRQ-VQF",
+    "child_id": "KHM7-YW3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1754–1840",
+    "note": "Missing birth year caused a false F. With ~1754 (WikiTree Edmunds-1795) she is ~26 at Starling’s 1780 birth. Compiled as Joseph Jeter’s wife; no marriage bond opened."
+  },
+  {
+    "parent_id": "LK36-BW3",
+    "child_id": "LHRQ-VQF",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Sterling Edmunds of Brunswick is real (Nicholas Edmunds 1787 will). Leap that he is father of Mary L. Edmunds of Barnwell is compiled only."
+  },
+  {
+    "parent_id": "KCB8-CGN",
+    "child_id": "LHRQ-VQF",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Ermine Simmons b.1753 vs Mary Edmunds ~1754 — mother age ~1. WikiTree Edmunds-1795 has no mother. Do not invent one."
+  },
+  {
+    "parent_id": "LX7S-QQ9",
+    "child_id": "L627-YCY",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Barnwell compilers (Pierce, Greene, Reynolds) give Jacob Edmond Free as Mary Free’s father. No heir list from his 1828 probate was read. Competing Free parent-sets exist further up."
+  },
+  {
+    "parent_id": "GTJC-V5H",
+    "child_id": "L627-YCY",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Margaret Welt is a conflation (Welt vs Free; dead 1778 if Mary is ~1795; garbled duplicate of Jacob’s mother Margaret Wheeler). Compilers use Rush or Lacy Morris — neither documented enough to relink."
+  },
+  {
+    "parent_id": "L6J3-S7G",
+    "child_id": "LR3X-MT7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Jeanne Elizabeth D’Arensbourg is mother of Felix Lagroue. Brother Charles Théodule’s 1839 St. Louis marriage names Honoré Lagroue and Elisabeth Darensbourg. WeRelate First Families of LA."
+  },
+  {
+    "parent_id": "L6J3-S7G",
+    "child_id": "LR36-185",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Husband’s mother copied onto the wife. Heloise DuBreuil is Felix Lagroue’s spouse (maiden DuBreuil), not Jeanne’s daughter. Leave Heloise’s parents unknown."
+  },
+  {
+    "parent_id": "L6J3-SQ4",
+    "child_id": "LR36-185",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Honoré Lagroue is Heloise DuBreuil’s father-in-law, not her father. Same spouse-copy as Jeanne."
+  },
+  {
+    "parent_id": "M369-16M",
+    "child_id": "L6J3-S7G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Charles Frederick D’Arensbourg m. Françoise Lavergne, contract 18 Jun 1766. WeRelate children include Jeanne Elizabeth ~1775. Dual-parent flag is on Jeanne as child of a competing undocumented couple."
+  },
+  {
+    "parent_id": "MXPQ-L5G",
+    "child_id": "L6J3-S7G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Françoise Lavergne named on son Jean-Baptiste Gustave’s 1805 St. James marriage (DOBR vol. 3) and Charles Frédéric’s 1771 baptism."
+  },
+  {
+    "parent_id": "LC5P-FZN",
+    "child_id": "M1BY-SC4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert SWLR: GUILBEAUX, Marie Onesia (Jean GUILLEBAUD fils & Carmelite CASTILLE) b. 17 Dec 1826 (GC Ch. v.1 p.55). FS LC5C-FZN conflates Hilaire (bapt. 1791) with Jean fils (d. 1827); the Petetin father-in-law is Jean fils."
+  },
+  {
+    "parent_id": "L84J-BG2",
+    "child_id": "LC5P-FZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: Jean Guilbeaux native of Acadie m. Marie Jeanne Arceneaux 25 May 1788 (SM Ct.Hse. OA-vol.6 #46). Burial 4 Mar 1831 age 78 (Laf. Ch. v.2 p.106). Replaced phantom Jean 1778 G55B-KCW."
+  },
+  {
+    "parent_id": "G551-H6Q",
+    "child_id": "LC5P-FZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Marie Jeanne Arseneau, 2nd wife of Jean Guilbeaux (m. 1788), named on Jean fils’s 1821 marriage and 1827 burial. Not “Mrs. Guilbeau.”"
+  },
+  {
+    "parent_id": "9JWV-FMG",
+    "child_id": "L5D6-HRH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Jean Baptiste Aymond I m. Marianne Joffrion 5 Apr 1785 St. Louis Cathedral; she is daughter of Pierre Joffrion and Marianne Valleau. Dual-parent flag is a different infant Marie Anne (Joseph Joffrion × Rabalais, d. 1764)."
+  },
+  {
+    "parent_id": "9JWV-FMG",
+    "child_id": "L78P-QB4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Helen Aymond (bn. 22 Mar 1790) is Marianne’s daughter, sister of Jean Baptiste II — not a spouse-copy."
+  },
+  {
+    "parent_id": "LTSF-4V6",
+    "child_id": "9JWV-FMG",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DOBR 1b: Marianne Geoffrion (Pierre Geoffrion and Marianne VALLO) bn. 23 Mar 1758 bt. 2 Apr 1758 (PCP-1,185)."
+  },
+  {
+    "parent_id": "PZQ8-YTW",
+    "child_id": "9JWV-FMG",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1758 baptism; 1785 Aymond marriage repeats Pierre Joffrion and Marianne Valleau."
+  },
+  {
+    "parent_id": "LXSJ-7X6",
+    "child_id": "K2XN-5YS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1786–1827",
+    "note": "James Fletcher m. Elizabeth Stell 27 Jan 1811 Morgan Co. GA. First sheriff of Henry Co.; died of disease 1827 (Georgia Journal 22 May 1827). Chart 1862 Lee VA is a different man. Daughter Mary Ann b. 23 Sep 1826 Henry Co. (FAG 27982174)."
+  },
+  {
+    "parent_id": "LZ8W-Y11",
+    "child_id": "K2XN-5YS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Elizabeth Stell Fletcher (FAG 27982050) buried Amiable Cemetery with daughter Mary Ann Nash. Same 1811 Morgan marriage."
+  },
+  {
+    "parent_id": "LK9M-5XX",
+    "child_id": "LXSJ-7X6",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Christian B Kinder as mother of the Georgia sheriff is compiled only. Her 1806 Adair Co. KY will names Robert, John, Matthew Walkup — not James. Dual-parent flag is real. Do not invent a replacement mother."
+  },
+  {
+    "parent_id": "GL82-XKD",
+    "child_id": "LXSJ-7X6",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Robert Fletcher Sr of Augusta/Green KY is compiled as father; no will naming James. 1763 Augusta deed proves a Robert×Christian couple, not this parentage. Stop climb."
+  },
+  {
+    "parent_id": "LTB4-VTX",
+    "child_id": "LK9M-5XX",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Johann Peter Kinder died in the 1749 Roanoke flood (not Oregon). Chalkley orphans of Peter Kinder do not clearly include Christian/Christinah. Dual-parent / adoptive Casper line is the FS flag."
+  },
+  {
+    "parent_id": "L6GP-JBS",
+    "child_id": "LK9M-5XX",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Mary Magdalena Sattler died with Peter in 1749. Same orphan-list problem. Do not invent."
+  },
+  {
+    "parent_id": "KNJG-JF2",
+    "child_id": "KNJL-1GR",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "John Hoosier m. Nancy Bass 1798 Duplin NC; children 1799–1818. Age ~9 at Sally Hoozer’s 1773 birth. Later same-surname couple grafted on. Hébert 1819 names George & Sally HOOZER (m. 10 Dec 1799 Montgomery Co. VA)."
+  },
+  {
+    "parent_id": "GHX6-6KL",
+    "child_id": "KNJL-1GR",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Nancy Charity Bass b.1776, after Sarah 1773. Wave A’s 1800 date was this later couple’s daughter. True parents of Sally Hoozer 1773 unknown."
+  },
+  {
+    "parent_id": "KNJL-1GR",
+    "child_id": "9JCS-1VN",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Sarah Simmons is John B Fogleman’s 2nd wife (m. 25 Jul 1837 Avoyelles), not Sally Hoozer’s daughter. 1850 census: Sarah ~51 b. Kentucky. Wife-as-daughter graft."
+  },
+  {
+    "parent_id": "KNVC-7HV",
+    "child_id": "KNVD-TQC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Lumiza Frances Arnold (Nov 1842–4 May 1917, Rover TN) married Minos Bailey Gentry; mother of Nicholas Payne Gentry. Dual-parent flag is on her own parents, not this link."
+  },
+  {
+    "parent_id": "K4DC-K24",
+    "child_id": "PH3V-5NL",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Fortier 1914: Leo is a child of Dr John A. Knight and Susie Wellborn (m. July 1903). FAG 6994545 Susie Welborn Knight, spouse of Dr John Augusta Knight 6994528."
+  },
+  {
+    "parent_id": "LHKX-42W",
+    "child_id": "KCSK-3DH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Fortier 1914: John A. Knight son of James and Mary (Cane) Knight; mother died 1884. FAG 27575300 Mary Elizabeth Cain Knight “Wife of W.J. Knight,” child Dr John Augusta Knight."
+  },
+  {
+    "parent_id": "MNM3-7HR",
+    "child_id": "K4DC-K24",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Fortier 1914: Susie Wellborn daughter of W. B. and Loue (Lee) Wellborn of Calcasieu. Perrin 1891: William B. Welborn m. 1866 Louisa Lee, seven living children. FAG 6838543."
+  },
+  {
+    "parent_id": "LC8S-PJD",
+    "child_id": "K4DC-K24",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Fortier/Perrin bios. LA Deaths 1921: Luiser H Welborn, father Dan Lee. FAG 6839655; 1920 census in Dr John A. Knight household as mother-in-law."
+  },
+  {
+    "parent_id": "G3VT-Q8C",
+    "child_id": "PD5F-S2T",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "John R. Knight 2021 obit: preceded by parents Leo R. Knight and Marian Odom Knight. Marian 2009 obit: survivor son John R. Knight & wife Eileen Lagroue Knight; m. Leo R. Knight, Oakdale 1939."
+  },
+  {
+    "parent_id": "L2RX-CMV",
+    "child_id": "G3VT-Q8C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1920/1930 Oakdale: Marian in Albert/Katie Odom household. W.A. 1936 obit: daughter Marion. Katie 1971 obit: daughter Mrs. Leo Knight. Brother James C. Odom 2014: parents William Albert Odom & Katie Belle Nash."
+  },
+  {
+    "parent_id": "2CTY-PFK",
+    "child_id": "G3VT-Q8C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1920/1930 census. Katie Nash Odom 1971 Town Talk: daughter Mrs. Leo Knight of Lafayette. Troy J. Odom 1957 Orleans marriage names William Albert Odom & Katie Nash."
+  },
+  {
+    "parent_id": "K8YH-MDY",
+    "child_id": "L2RX-CMV",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "LA death cert 7 Feb 1936 Oakdale names William Albert Odom’s parents James Odom & Alice Dunn. 1900 Hickory Flat, Calcasieu: William A. son in James A. Odom household."
+  },
+  {
+    "parent_id": "2S22-1XX",
+    "child_id": "L2RX-CMV",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1858–1936",
+    "note": "Same 1936 death cert names mother Alice Dunn. m. James Addison Odom 27 Aug 1873 Calcasieu. 1920 Alice (mother) in William Albert’s Oakdale house. Town Talk 3 Nov 1936 widow of James Odom."
+  },
+  {
+    "parent_id": "LZP2-WGR",
+    "child_id": "2CTY-PFK",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled trees put Katie (b. 28 Nov 1891 Cheneyville) as daughter of William Abercrombie Nash × Lucinda G. Calhoun; grandson James Calhoun Odom is onomastic support. No census/death cert naming him opened. No competing father."
+  },
+  {
+    "parent_id": "2CTY-PY7",
+    "child_id": "2CTY-PFK",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled cluster as William A. Nash; Katie’s 1971 obit does not name parents. No competing mother. A 1900 widow-Lucinda household would raise this to B."
+  },
+  {
+    "parent_id": "G7FH-7SF",
+    "child_id": "PD5F-XPH",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Harold J. Lagroue Jr. funeral notice (16 Aug 1917–22 Nov 2008) names surviving daughter Eileen Knight and husband John of Atlanta. Sister Pegi Lagroue Derby 2017 names the same sister."
+  },
+  {
+    "parent_id": "LTZX-SMW",
+    "child_id": "G7FH-7SF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Harold Jr. 2008 obit: oldest son of Harold J. Lagroue Sr. and Genevieve Chisolm Lagroue. 1920/1930 NOLA census. WikiTree LaGroue-63, Orleans marriage Nov 1916."
+  },
+  {
+    "parent_id": "LTZ6-1T8",
+    "child_id": "G7FH-7SF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 2008 obit and FAG 144268363 name Genevieve Chisolm Lagroue as mother. She died 21 Feb 1932; 1920/1930 census show Harold Jr. in that household."
+  },
+  {
+    "parent_id": "LR3X-SJQ",
+    "child_id": "LTZX-SMW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1860–1894",
+    "note": "Orleans: George H. Lagroue m. Louise Henrick 22 Oct 1884; died 21 Jan 1894 age 32 (vol. 105 p. 794). Harold Sr. b. 5 Feb 1893 while George was living. Chart death 1932 was Louise’s."
+  },
+  {
+    "parent_id": "G7FZ-LV4",
+    "child_id": "LTZX-SMW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1884 marriage. FAG 141107605 Louise Jane Henrick Lagroue lists children Gertrude and Harold Joseph; Picayune 17 Mar 1932. 1900–1930 NOLA widow with those children."
+  },
+  {
+    "parent_id": "LY5X-LMX",
+    "child_id": "LTZ6-1T8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 144268363: Genevieve Chisolm Lagroue daughter of THOMAS, GENEVIEVE and CHISOLM, REUBEN M. 1900/1910 NOLA census in Reuben’s household. Parents m. 9 Jan 1894 Orleans."
+  },
+  {
+    "parent_id": "LY5X-PKC",
+    "child_id": "LTZ6-1T8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 80446452 Genevieve Thomas Chisolm (25 May 1874–29 Sep 1964) lists child Genevieve Chisolm Lagroue; LA marriage Genevieve S. Thomas to Reuben M. Chisolm 9 Jan 1894 Orleans."
+  },
+  {
+    "parent_id": "G7FH-L7H",
+    "child_id": "PD5F-XPH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Harold J. Lagroue Jr. obit: married Alice Fogleman 1941–2004; survived by daughter Eileen Knight of Atlanta. Pegi Lagroue Derby: daughter of Harold Jr. and Alice Evelyn Fogleman; sister Eileen Knight."
+  },
+  {
+    "parent_id": "L5L7-Y6H",
+    "child_id": "G7FH-L7H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "31 Jul 1920 St. Landry Clarion: infant Marie Beverly, daughter of Mr. and Mrs. J. L. Fogleman of Alexandria, buried St. Landry Church Cemetery Section 4 beside Agnes Eileen Ogé Fogleman. Alice b. 7 Feb 1920 is the surviving infant of that household."
+  },
+  {
+    "parent_id": "L5L7-51V",
+    "child_id": "G7FH-L7H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1920 cluster: J. L. Fogleman’s child buried with Agnes Eileen Ogé Fogleman (4 Jan 1895–4 Sep 1976). Grand Coteau obituaries identify Eileen as Mrs. Lee Fogleman."
+  },
+  {
+    "parent_id": "9VWN-LJZ",
+    "child_id": "L5L7-Y6H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1900 Plancheville, Avoyelles: Lee Fogleman, son age 5, in household of Isaiah and Celones. Isaiah × Celoma Aymond m. 5 Nov 1885. Isaiah 1916 death cert names father John Fogleman, mother Sarah (Simmons, wife of John B)."
+  },
+  {
+    "parent_id": "MDQV-N1R",
+    "child_id": "L5L7-Y6H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1900 census: Celones Fogleman, wife, with son Lee, 5. Celoma Aymond m. Isaiah 5 Nov 1885 Avoyelles. WikiTree Aymond-34."
+  },
+  {
+    "parent_id": "L5LL-JT7",
+    "child_id": "L5L7-51V",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "St. Landry civil OGE, J.M. & PELETIR, Marie A., 9 Feb 1889; Agnes b. 4 Jan 1895. 1939 Alida Petetin Smith obit: sister Mrs. J. M. Oge, Grand Coteau. Grand Coteau obituaries name Marie Petetin as mother of Eileen (Mrs. Lee Fogleman)."
+  },
+  {
+    "parent_id": "L262-RS1",
+    "child_id": "PM13-VV5",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Truman Francis Shelton obituary names “a son, Michael and wife Carron Shelton of Austin” and granddaughter “Cara and husband John Knight of Dunwoody, Ga.” FAG 49605139."
+  },
+  {
+    "parent_id": "LV7S-QCT",
+    "child_id": "L262-RS1",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same obituary: born to Alexander and Mizzie Shelton 16 Feb 1921 in Slaton. 1940 census: Truman F. Shelton, son of Alex and Mizzie A. Shelton, 1205 S. 9th, Slaton."
+  },
+  {
+    "parent_id": "K863-YC4",
+    "child_id": "L262-RS1",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same original obituary names Mizzie as mother; 1940 household matches. FAG 10038933 lists Truman as child."
+  },
+  {
+    "parent_id": "LHP3-XJ2",
+    "child_id": "LV7S-QCT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG of Alexander names Walter Leonard Shelton as father; Walter’s memorial lists Alexander among four children of first wife Avie. 1910 Precinct 7, Montague TX."
+  },
+  {
+    "parent_id": "G372-YT8",
+    "child_id": "LV7S-QCT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Avie Frances Barber Shelton d. 1901 Cowden, Washita OK. FAG of Alexander and Avie both list this mother–son link. Alexander b. 16 Dec 1895; Walter’s later children are with Ida after 1901."
+  },
+  {
+    "parent_id": "KNVD-TQC",
+    "child_id": "K863-YC4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG of Mizzie names Nicholas Payne Gentry and Judy Frances Lamb Gentry; same sibling set on Nick’s and Judy’s memorials. 1910 Milford, Ellis TX; 1920–40 Lubbock with Nick + Fannie."
+  },
+  {
+    "parent_id": "LBYK-PF7",
+    "child_id": "PM13-VV5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1921–Deceased",
+    "note": "Mildred Marie Wicker in Slaton/Lubbock 1930–1940; Micheal Alexander Shelton b. Lubbock 1944 (father-link already A). Timeline and place fit. No public birth index opened."
+  },
+  {
+    "parent_id": "9X2X-4P9",
+    "child_id": "LBYK-PF7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1930 Slaton census: Roy W. Wicker head with daughter Mildred and son Roy Jr.; 1940 Precinct 2 Lubbock. WeRelate: Mildred Marie Wicker b. 22 Oct 1921 Snyder, daughter of Roy Weldon Wicker and Lora M. Bean."
+  },
+  {
+    "parent_id": "LYZ1-61K",
+    "child_id": "LBYK-PF7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1902–1985",
+    "note": "Same 1930 Slaton household: Roy’s wife Lora, mother of Mildred. SSDI Lora Wicker b. 3 Jul 1902 d. Apr 1985 Texas. FS “Laura” is this woman."
+  },
+  {
+    "parent_id": "KC74-S74",
+    "child_id": "9X2X-4P9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1910 Fisher Co. TX: Roy W. Wicker age ~8 in John F./Mattie J. Wicker household. Texas Death Index: Roy Weldon Wicker 6 Jul 1955 Lubbock."
+  },
+  {
+    "parent_id": "L586-7W3",
+    "child_id": "9X2X-4P9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1910/1920 Fisher Precinct 2: Mattie J./Martha J. Wicker as mother of Roy W. Widow 1920; d. 10 Dec 1940 Neinda, Jones, TX."
+  },
+  {
+    "parent_id": "K8HL-JHJ",
+    "child_id": "LYZ1-61K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Jesse, Florence, and Lora together in Precinct 7 Kent TX 1910; Scurry 1920; Slaton 1930. Jesse Alexander Bean m. Florence 10 Jul 1877 Jasper Co.; d. 1 Nov 1944 Slaton."
+  },
+  {
+    "parent_id": "KP4Q-SXQ",
+    "child_id": "LYZ1-61K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same census cluster as Jesse and Lora. Florence Arabella Singletary, daughter of Benjamin Bryan Singletary and Frances Wood, d. Slaton 1940."
+  },
+  {
+    "parent_id": "G8B4-KSP",
+    "child_id": "PM13-VSK",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Carron Ann Shelton (Mahle) obituary: born Lubbock 22 Jan 1944, daughter of Howard Arleigh and Alice Sadie Moore Mahle. Howard FAG 37766264 m. Alice Moore 5 Oct 1927 Pratt KS."
+  },
+  {
+    "parent_id": "K8KV-FWZ",
+    "child_id": "G8B4-KSP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Howard’s FAG lists Steve Mahle as father. Brother George Olen Mahle NUMIDENT: son of STEVE MAHLE and EVIE MAHLE. 1880 Madisonville: Stephen L. age 7 in John Wesley’s house."
+  },
+  {
+    "parent_id": "LJPK-GGL",
+    "child_id": "G8B4-KSP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Eva’s FAG lists Howard Arleigh Mahle Sr as son; NUMIDENT for George O. names mother EVIE MAHLE. Eva 9 Mar 1873–18 Oct 1960, buried Bryan City Cemetery with Steve."
+  },
+  {
+    "parent_id": "KZCZ-7ND",
+    "child_id": "K8KV-FWZ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1880 Madisonville TX: John (53) with wife Margaret A. and son Stephen L. (7). John m. Margaret A. Hubbard 31 Jan 1855 Caddo LA. Not the Ohio/PA Mahles."
+  },
+  {
+    "parent_id": "KHN4-XTZ",
+    "child_id": "K8KV-FWZ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1880 Madisonville household: Margaret A. wife of John, mother of Stephen L. Marriage 31 Jan 1855 Caddo LA."
+  },
+  {
+    "parent_id": "LZJ6-51Q",
+    "child_id": "LJPK-GGL",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Eva’s FAG names father Joseph Davidson “Joel” Whinery (1840–1883 Oak Level AL). Alabama marriage 29 Aug 1864 Calhoun Co.: Joel D. Whinery to Mary F. Phipps. 1870 household with Nancy."
+  },
+  {
+    "parent_id": "LJPK-PHY",
+    "child_id": "LJPK-GGL",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Nancy Lee Phipps Whinery FAG lists child Evaline E “Eva” Whinery Mahle. 1864 marriage given name Mary F. Phipps; 1870/FAG use Nancy — same wife of Joel, not a second mother."
+  },
+  {
+    "parent_id": "G8B4-GCC",
+    "child_id": "PM13-VSK",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Carron Ann Shelton obituary: daughter of Howard Arleigh and Alice Sadie Moore Mahle, b. Lubbock 22 Jan 1944. 1950 Lubbock household matches."
+  },
+  {
+    "parent_id": "9JZ7-KYH",
+    "child_id": "G8B4-GCC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Alice Sadie Moore tracks Samuel Taylor Moore 1910 Endee NM; 1920 Crosby TX; then Lubbock with Howard. Census chain and Carron obit (Alice Sadie Moore Mahle) agree."
+  },
+  {
+    "parent_id": "9JZ7-KBL",
+    "child_id": "G8B4-GCC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1910 Endee–1920 Crosby chain as Samuel; Alice’s maiden Moore and Carron obit lock Viola as Alice’s mother. Phillip→Viola already B."
+  },
+  {
+    "parent_id": "LC3Q-F23",
+    "child_id": "9JZ7-KYH",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "1860 Hickory: Jesse 29, Calthia J.I. 19, John W. 2 — no Samuel. Samuel’s 1860 source is La Plata, Macon (~150 mi). 1872 Davis marriage is 12 years after Samuel’s birth. PRUNE."
+  },
+  {
+    "parent_id": "KF2M-LGF",
+    "child_id": "9JZ7-KYH",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Calthia J.I. is Jesse’s 1860 Hickory wife, not Samuel’s mother. Maiden Cobe is not on the census. PRUNE."
+  },
+  {
+    "parent_id": "LYQM-TV3",
+    "child_id": "9JZ7-KBL",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1860 Nodaway MO: Philip + Louisa with young children; 1880 Neosho lists Viola in that household. Kouns/Lemon as Louisa’s parents stay pruned."
+  },
+  {
+    "parent_id": "LR3X-MT7",
+    "child_id": "LR3X-SJQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 St. James / 1860 Jefferson / 1880 NOLA: George in Felix×Heloise household. Orleans m. George×Louise Henrick 22 Oct 1884; George d. 21 Jan 1894 age 32."
+  },
+  {
+    "parent_id": "LR36-185",
+    "child_id": "LR3X-SJQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same households: Heloise is Felix’s wife and George’s mother. (Her own parents were already pruned as spouse-copy.)"
+  },
+  {
+    "parent_id": "GHXC-QXS",
+    "child_id": "G7FZ-LV4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1813–1886",
+    "note": "1860–1880 Orleans: Louise in Matthew Henrick’s household. FAG 141401301; Picayune 14 Jan 1886 funeral from daughter’s Dryades St. house."
+  },
+  {
+    "parent_id": "GHXC-QX3",
+    "child_id": "G7FZ-LV4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1860 Orleans with Matthew and Louise. FAG 141107605 / 141722329 name Mary McNamara Henrick as Louise’s mother."
+  },
+  {
+    "parent_id": "LJLC-2F3",
+    "child_id": "LY5X-LMX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1880 Fort Worth: Reuben in Alexander Chisolm’s household. FAG 243760046 Reuben; 144268363 names Reuben as father of Genevieve Chisolm Lagroue."
+  },
+  {
+    "parent_id": "LJLC-2FJ",
+    "child_id": "LY5X-LMX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1880 Fort Worth household (Anna Mary with Alexander and Reuben), then 1900/1910 NOLA."
+  },
+  {
+    "parent_id": "LYR4-4KR",
+    "child_id": "LY5X-PKC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 80446452 Genevieve Thomas Chisolm lists William A. Thomas as father. Shared Metairie plot. m. Reuben Chisolm 9 Jan 1894 Orleans."
+  },
+  {
+    "parent_id": "LYR4-C9S",
+    "child_id": "LY5X-PKC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 80446452 / 80446448: Jane M. Henderson Thomas is Genevieve’s mother and William’s wife."
+  },
+  {
+    "parent_id": "L6J3-SQ4",
+    "child_id": "LR3X-MT7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Charles Théodule Lagroue 1839 St. Louis Cathedral marriage names Honoré Lagroue and Elisabeth Darensbourg. Honoré × Jeanne m. 3 Aug 1808; Felix 1810 Edgard fits."
+  },
+  {
+    "parent_id": "LTTV-MH2",
+    "child_id": "LJLC-2F3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Charleston: Octavius, Effie, Alexander. Chisolm Genealogy 1914: Octavius m. Malvina Lodge; issue includes Alexander Hext Chisolm."
+  },
+  {
+    "parent_id": "LTTV-MHG",
+    "child_id": "LJLC-2F3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1850 Charleston household and 1914 compiled issue list (Malvina Lodge)."
+  },
+  {
+    "parent_id": "LTTV-97K",
+    "child_id": "LJLC-2FJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Jacob 1860/1870 New Orleans; Anna Mary age 6/16 in those houses, then 1880 Fort Worth as Alexander’s wife."
+  },
+  {
+    "parent_id": "9JNZ-GH5",
+    "child_id": "LJLC-2FJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1860/1870 NOLA household as Jacob. TREE-AUDIT gen-8 Dick swap does not break this mother–daughter census link."
+  },
+  {
+    "parent_id": "GG5D-XQ8",
+    "child_id": "LYR4-4KR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled FS father of William A. Thomas; no English baptism opened. Chronology possible. Not census-grade."
+  },
+  {
+    "parent_id": "GG5D-BYM",
+    "child_id": "LYR4-4KR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled FS mother (Dorothy Dacre); same caveat as Richard Birchall Thomas."
+  },
+  {
+    "parent_id": "GG5D-XQ8",
+    "child_id": "LYR4-C9S",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Spouse-copy: William A. Thomas and Jane Henderson are spouses. Richard is grafted as father of both."
+  },
+  {
+    "parent_id": "GG5D-BYM",
+    "child_id": "LYR4-C9S",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Same spouse-copy: Dorothy Dacre grafted onto Jane Henderson."
+  },
+  {
+    "parent_id": "9JCS-1VF",
+    "child_id": "9VWN-LJZ",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Isaiah LA death cert 23 Oct 1916 Alexandria names father John Fogleman, mother Sarah. 1850 Avoyelles household. m. Sarah Simmons 25 Jul 1837."
+  },
+  {
+    "parent_id": "9JCS-1VN",
+    "child_id": "9VWN-LJZ",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "life": "1799–Deceased",
+    "note": "Same 1916 death cert names mother Sarah. Wife of John B (m. 1837), not child of Sarah Hoosier. 1850 Avoyelles age 51 b. Kentucky — not 1816."
+  },
+  {
+    "parent_id": "KP7J-1W5",
+    "child_id": "MDQV-N1R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1870 Rapides: Celoma 14 in Zenon×Lucinda household. Zenon × Lucinda Recoulley m. 30 Mar 1854 Marksville. Celoma × Isaiah 5 Nov 1885."
+  },
+  {
+    "parent_id": "21RG-J46",
+    "child_id": "MDQV-N1R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1870 household. Lucinda Recoulley m. Zenon 30 Mar 1854. FAG 66824337."
+  },
+  {
+    "parent_id": "MKSX-3JC",
+    "child_id": "L5LL-JT7",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: PETETIN, Marie Annette (Eugene & Oresia GUILBEAUX) b. 11 Dec 1864 (GC Ch. v.2 p.266)."
+  },
+  {
+    "parent_id": "M1BY-SC4",
+    "child_id": "L5LL-JT7",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1864 baptism. Hébert: Onezia GUILBEAUX (Jean & Carmelite CASTILLE) m. 22 Jun 1845 Eugene PETETIN (Opel. Ch. v.A #203)."
+  },
+  {
+    "parent_id": "LRT4-6L4",
+    "child_id": "9JCS-1VF",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: FOGLEMAN, John of Virginia (George & Sally HOOZER) m. 1 Jan 1819 Polly SANDEFER (Opel. Ct.Hse. Mar.#1)."
+  },
+  {
+    "parent_id": "LRT4-6L4",
+    "child_id": "9JCS-1VN",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "George is John B’s father, hence Sarah Simmons’s father-in-law. Spouse-copy."
+  },
+  {
+    "parent_id": "L5D6-HRH",
+    "child_id": "KP7J-1W5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Jean Baptiste Aymond II × Rosalie Dauzat m. 3 Apr 1811 Bayou Rouge. Compiled children include Zenon b. 10 Oct 1825."
+  },
+  {
+    "parent_id": "KVX6-R3K",
+    "child_id": "KP7J-1W5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1811 marriage; Rosalie d. before 1830 so she is mother of the 1811–1829 set including Zenon."
+  },
+  {
+    "parent_id": "21RG-DX1",
+    "child_id": "21RG-J46",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Avoyelles: Lucinda 14 in Pierre Recoulley × Ursule household. m. 12 Mar 1830 Avoyelles."
+  },
+  {
+    "parent_id": "21RG-DN4",
+    "child_id": "21RG-J46",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1850 household. 1880: Lucy Recoulley, 68, mother in Pierre Jr’s house."
+  },
+  {
+    "parent_id": "M1BY-SCX",
+    "child_id": "MKSX-3JC",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: Eugene PETETIN (Joseph & Jeanne BLANCHARD) m. 22 Jun 1845 Onezia GUILBEAUX."
+  },
+  {
+    "parent_id": "M1BY-SC2",
+    "child_id": "MKSX-3JC",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1845 Opelousas church marriage names mother Jeanne BLANCHARD."
+  },
+  {
+    "parent_id": "P9DL-SC5",
+    "child_id": "M1BY-SC4",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: GUILBEAUX, Marie Onesia (Jean GUILLEBAUD fils & Carmelite CASTILLE) b. 17 Dec 1826 (GC Ch. v.1 p.55)."
+  },
+  {
+    "parent_id": "KCBM-76R",
+    "child_id": "KZCZ-7ND",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Rush Island, Caddo: John W. Mahle 25 heads orphan household after parents died 1840s. 1840 Caddo lists John H. Mahle."
+  },
+  {
+    "parent_id": "K84D-BSP",
+    "child_id": "KZCZ-7ND",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled: John Henry married a Bagley. No original record names Nancy as mother (src=0; dead before 1850)."
+  },
+  {
+    "parent_id": "KNCY-T51",
+    "child_id": "KHN4-XTZ",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Margaret m. John W. Mahle 31 Jan 1855 Caddo. Stephen V. Hubbard is in MS 1840–50; she was not found in his 1850 household. Compiled pending census page."
+  },
+  {
+    "parent_id": "KFLB-7Q4",
+    "child_id": "KHN4-XTZ",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "src=1; died 1844 when daughter ~5. Compiled as Stephen’s wife. Climb only as far as Stephen’s MS residences."
+  },
+  {
+    "parent_id": "L7YK-SN6",
+    "child_id": "LZJ6-51Q",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Beatie Twp, Benton AR: A. Whinery 55, Sarah A. 32, J.D.P. 16. Joseph Davidson Patrick Whinery, younger son of Gen Abraham."
+  },
+  {
+    "parent_id": "G41F-989",
+    "child_id": "LZJ6-51Q",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1850 household: Sarah A. wife of A. Whinery; J.D.P.’s middle name Davidson matches her maiden name."
+  },
+  {
+    "parent_id": "KGSH-PQD",
+    "child_id": "LJPK-PHY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Benton AL: Jefferson Phips household includes N. Phipps female age 4. 1860 Calhoun: Marjory 13 = Nancy Lee of the 1864 Joel Whinery marriage."
+  },
+  {
+    "parent_id": "LZ69-BW9",
+    "child_id": "LJPK-PHY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1860 household: Mary A. Fips 37 GA = Mary Ann Traylor. m. Jefferson 26 May 1841 Benton Co. AL. FAG 29369519."
+  },
+  {
+    "parent_id": "KCX8-YPQ",
+    "child_id": "K84D-BSP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=1. No census or marriage naming Benjamin Joseph Bagley as Nancy’s father. Stop climb."
+  },
+  {
+    "parent_id": "K8Z6-W16",
+    "child_id": "K84D-BSP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0. Only a family note that John Henry married a Bagley whose mother was a Wheat."
+  },
+  {
+    "parent_id": "K1WZ-KCQ",
+    "child_id": "KNCY-T51",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Humphrey Hubbard is in Beaufort SC 1830–50; Stephen is in MS by 1840. No will or census tying them."
+  },
+  {
+    "parent_id": "KNCY-T5L",
+    "child_id": "KNCY-T51",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0, birthplace France. Unsourced wife of the SC Humphrey."
+  },
+  {
+    "parent_id": "G4K9-7L1",
+    "child_id": "KFLB-7Q4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0. Name-only parent."
+  },
+  {
+    "parent_id": "G4KM-PRX",
+    "child_id": "KFLB-7Q4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0. Name-only parent."
+  },
+  {
+    "parent_id": "L7GV-X32",
+    "child_id": "L7YK-SN6",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Orange NC marriage bond Abraham Whinery–Martha Campbell 17 Feb 1786. Compiled parents of Abraham Jr b. 1795 Orange."
+  },
+  {
+    "parent_id": "278Y-1KX",
+    "child_id": "L7YK-SN6",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1786 bond. Do not copy her onto Sarah Davidson."
+  },
+  {
+    "parent_id": "L7GV-X32",
+    "child_id": "G41F-989",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Spouse-copy: Pvt Abraham is father-in-law of Sarah A. Davidson, not her father. 1850 Benton: Sarah A. is wife of A. Whinery."
+  },
+  {
+    "parent_id": "278Y-1KX",
+    "child_id": "G41F-989",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "GOLD dual-parent + mother-over-50. Martha b.1766 cannot be mother of Sarah b.1818. She is Sarah’s mother-in-law."
+  },
+  {
+    "parent_id": "GW3L-RTN",
+    "child_id": "KGSH-PQD",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John Boone Phipps 1760–1850 carries an 1850 Orangeburg SC residence that does not fit Jefferson’s TN/AL cluster. Possible conflation."
+  },
+  {
+    "parent_id": "PQT6-MZC",
+    "child_id": "KGSH-PQD",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": false,
+    "note": "1860 Calhoun: Mary Phipps 95 NC in Elizabeth Heifner’s house (compiled sister of Jefferson). Likely mother of the sibling set; do not climb."
+  },
+  {
+    "parent_id": "KL1J-VHW",
+    "child_id": "LZ69-BW9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 29369519: Mary Ann daughter of Nancy Little and George Washington Traylor. GA marriage 13 Dec 1821 Jackson Co."
+  },
+  {
+    "parent_id": "GC3R-HQ1",
+    "child_id": "LC3Q-F23",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Seth R. Moore is a real 1850 Morgan Co. MO person. No record names him father of Jesse. Do not climb."
+  },
+  {
+    "parent_id": "9VMP-FTP",
+    "child_id": "KF2M-LGF",
+    "grade": "U",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Jesse Cobe src=0; no Cobe household in 1860 Hickory. Fabricated maiden-name graft."
+  },
+  {
+    "parent_id": "9VMP-FT5",
+    "child_id": "KF2M-LGF",
+    "grade": "U",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Ruth Cobe src=0, blank vitals. Same fabricated Cobe graft."
+  },
+  {
+    "parent_id": "LZYQ-LXR",
+    "child_id": "LZYQ-LJT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Turner-56180 Rutha Jane (Turner) Knight 1834–1860, wife of John Carey Knight. James William b.1854 during that marriage; she d.~1860 Rapides."
+  },
+  {
+    "parent_id": "MNYT-DYX",
+    "child_id": "LHKX-42W",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 27575300 Mary Elizabeth Cain Knight wife of W.J. Knight; Fortier 1914 John A. son of James and Mary (Cane) Knight. Pinckney × Joanah are her documented parents (Joanah already B)."
+  },
+  {
+    "parent_id": "MWCY-XJL",
+    "child_id": "MNM3-7HR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Perrin 1891: William B. Welborn’s father a SC native d.1840 (posthumous son b.1841). Mother a Louisiana woman d.1862."
+  },
+  {
+    "parent_id": "KZMP-2JW",
+    "child_id": "MNM3-7HR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: ILES, Elizabeth m. 12 Aug 1836 William B. WILBOAN (Opel. Ct.Hse. Mar.#63). WikiTree Iles-157. 1952 parish history: reared by grandfather Dempsey Iles after father died 1840."
+  },
+  {
+    "parent_id": "LTL4-82Y",
+    "child_id": "LC8S-PJD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Perrin 1891: Louisa Lee’s father English by birth, d.1870. Matches Daniel Lee 1798 England. Louisa’s 1921 death cert named Dan Lee."
+  },
+  {
+    "parent_id": "LC8P-NZT",
+    "child_id": "LC8S-PJD",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Perrin: Louisa’s mother a native of South Carolina, d.1880. Chart bp Louisiana — place conflict. Compiled only."
+  },
+  {
+    "parent_id": "MB9G-5S2",
+    "child_id": "2S22-1XX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Dunn-1510 Alice Jane Dunn b.18 Jan 1858 Amite to David Dunn × Elizabeth Hammock; m. James Addison Odom 27 Aug 1873 Calcasieu."
+  },
+  {
+    "parent_id": "MB9G-53M",
+    "child_id": "2S22-1XX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same WikiTree; Hammock-125: Elizabeth Jane m. David William Dunn 21 Dec 1852 Amite. Alice in that marriage window."
+  },
+  {
+    "parent_id": "LWLB-8VF",
+    "child_id": "LZP2-WGR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "John Calhoun Nash (1821–1902) ninth child of John Nesbitt Nash × Hannah Abercrombie (FAG cemetery note). Chart Coleville Abercrombie Nash 1821–1883 is that son (Abercrombie middle name). Death-year conflict 1883 vs 1902."
+  },
+  {
+    "parent_id": "K2XN-5YS",
+    "child_id": "LZP2-WGR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Mary Ann Fletcher (already B as James Fletcher’s daughter, Henry GA) is compiled wife of Coleville/John C. Nash and mother of William Abercrombie Nash b.1852."
+  },
+  {
+    "parent_id": "KFRW-K3S",
+    "child_id": "2CTY-PY7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "MyHeritage/FS: Lucinda G Calhoun among children of James Alexander Calhoon × Eliza Scintilla Morris (m.1853 LA). Sibling James Milton Calhoon 1856–1912 same parents."
+  },
+  {
+    "parent_id": "GHQM-RXQ",
+    "child_id": "2CTY-PY7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Morris-31878 Elizabeth Scintilla (Morris) Calhoon 1833–1913, daughter of Chesley Bostic × Martha Thomas; Lucinda listed among their children."
+  },
+  {
+    "parent_id": "LHP3-XHS",
+    "child_id": "LHP3-XJ2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geni/FAG 35091362: Walter Leonard Shelton b.14 Sep 1873 son of Pvt Leonard Chaffin Shelton × Mary Melvina Blake. Leonard d.14 Jan 1902 Washita OK."
+  },
+  {
+    "parent_id": "LHP3-X6W",
+    "child_id": "LHP3-XJ2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Geni family: Mary May Melvina wife of Leonard, mother of Walter."
+  },
+  {
+    "parent_id": "LTMT-1WT",
+    "child_id": "G372-YT8",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled only; snippet search did not retrieve a census household. Chronology fits (Avie b.1874, he 1847)."
+  },
+  {
+    "parent_id": "LTMT-1P7",
+    "child_id": "G372-YT8",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled wife of William Taylor Barber; d.1885 while Avie a child. No independent census opened."
+  },
+  {
+    "parent_id": "KL14-1M8",
+    "child_id": "KNVD-TQC",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Gentry-1242: 1870 Bedford 10th dist. Nicholas Gentry age 4 in Minos × Lumiza household; 1880 Nicholas P. son 13."
+  },
+  {
+    "parent_id": "KT4Q-BRS",
+    "child_id": "KC74-S74",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Wicker-2046: David son of Coleman Wicker × Nancy Adams. WeRelate James Coleman Wicker 1805–1885 lists son David 1828. John Franklin b.1859 KY/TX cluster."
+  },
+  {
+    "parent_id": "KT4Q-BP4",
+    "child_id": "KC74-S74",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled as David’s wife and John Franklin’s mother. Snippet search did not retrieve 1860 household."
+  },
+  {
+    "parent_id": "KL27-F73",
+    "child_id": "L586-7W3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Brandon-1169 child Martha Josephine (Brandon) Wicker 1864–1940. 1870 Swann, Calloway KY household."
+  },
+  {
+    "parent_id": "L4Q1-F3N",
+    "child_id": "L586-7W3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same WikiTree; Sarah Jane Lawrence m. Lemuel 22 Jan 1855. WeRelate lists Martha Josephine among their children."
+  },
+  {
+    "parent_id": "KN16-GDJ",
+    "child_id": "K8HL-JHJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Bean-2984: child Jessie Alexander Bean. James C. Bean son of John Egbert Bell Bean × Jane Youngblood."
+  },
+  {
+    "parent_id": "LZJJ-WM6",
+    "child_id": "K8HL-JHJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; Martha Sarah Garrett m. James 4 Sep 1850 Union AR; Jesse Alexander b.6 Jan 1858 Jasper TX."
+  },
+  {
+    "parent_id": "KZM6-V8Y",
+    "child_id": "KP4Q-SXQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate/family group: Florence Arabel Singletary daughter of Benjamin Bryan × Frances Wood m.~1848 Thomas Co. GA. 1870 TX census household."
+  },
+  {
+    "parent_id": "KHGR-X9L",
+    "child_id": "KP4Q-SXQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same couple; Frances Wood 1832–1919 Snyder TX."
+  },
+  {
+    "parent_id": "9N21-24X",
+    "child_id": "LZYQ-LCG",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Georgia marriage Speirs Knight × Nancy Cary 30 Oct 1817 Laurens. 1850 Holmes FL: Nancy in John C Knight household. John Carey b.1825 during that marriage."
+  },
+  {
+    "parent_id": "L4LV-LXN",
+    "child_id": "LZYQ-LXR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1850 Holmes FL: Ruth in James Turner × Mary household (WikiTree Turner-56180 / Fennell-553). James C. Turner 1802–1853 SC/FL militia."
+  },
+  {
+    "parent_id": "KGCW-HJ5",
+    "child_id": "LZYQ-LXR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1850 Holmes household. Mary Fennell m. James Tyner/Turner 12 Mar 1825 Early Co. GA."
+  },
+  {
+    "parent_id": "PMTC-MPJ",
+    "child_id": "MWCY-XJL",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Perrin says WB III’s grandfather-generation father was SC native d.1840 — that is the 1813 man, not a documented 1777 William Brown Welborn. src=1. Do not climb."
+  },
+  {
+    "parent_id": "L2GP-TPP",
+    "child_id": "MWCY-XJL",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Nancy White src=0. No independent record."
+  },
+  {
+    "parent_id": "KLGG-5HH",
+    "child_id": "KZMP-2JW",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: ILES, Demsey of NC (William & Elizabeth PACE) m. 25 Jul 1821 Sarah CHERRY (Opel. Ct.Hse. Mar.#37). WikiTree Iles-157: Elizabeth daughter of Dempsey × Sarah, m. William B. Wilboan 12 Aug 1836."
+  },
+  {
+    "parent_id": "KLGG-5CN",
+    "child_id": "KZMP-2JW",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Hébert 1821 marriage. WikiTree Cherry-680. Dual-parent flag is other Cherry/Iles conflations, not this Opelousas couple. GOLD cleared."
+  },
+  {
+    "parent_id": "K6SM-8PH",
+    "child_id": "MB9G-5S2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Dunn-5127: David William Dunn b.3 Apr 1835 Amite to Thomas Dunn × Anne Strange; 1850 Amite in that household."
+  },
+  {
+    "parent_id": "L7XP-LLG",
+    "child_id": "MB9G-5S2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; FAG 36167278 Anne Strange Dunn m. Thomas 1 Jul 1824 Amite."
+  },
+  {
+    "parent_id": "LRCY-2P4",
+    "child_id": "MB9G-53M",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Hammock-125 compiled: William Hammock × Judith Clark both deceased by 1840; children taken by Matthew Neal to Amite. src=1."
+  },
+  {
+    "parent_id": "KHYN-C9T",
+    "child_id": "MB9G-53M",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled orphan story. src=0. Chronology fits (Elizabeth b.1831)."
+  },
+  {
+    "parent_id": "MVRY-ZLZ",
+    "child_id": "LWLB-8VF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG: John Calhoun Nash (1821–1902) ninth of twelve children of John Nesbitt Nash × Hannah Abercrombie. Chart Coleville Abercrombie Nash is that son."
+  },
+  {
+    "parent_id": "GC4M-DQP",
+    "child_id": "LWLB-8VF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Abercrombie-632 / FAG 89671093 Hannah Harriett Abercrombie Nash m. John Nesbitt 1804 Laurens SC; 12 children. Dual-parent flag is other Abercrombie merges."
+  },
+  {
+    "parent_id": "KG37-VNV",
+    "child_id": "KFRW-K3S",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Both parents of James Alexander Calhoon surnamed Calhoun, src=0. Possible same-name graft. Do not climb."
+  },
+  {
+    "parent_id": "KG37-VLZ",
+    "child_id": "KFRW-K3S",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0. Same thin Calhoun-on-Calhoun parent pair."
+  },
+  {
+    "parent_id": "L8WR-74Y",
+    "child_id": "GHQM-RXQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Thomas-9863 / Morris-31878: Elizabeth Scintilla Morris Calhoun (1833–1913) daughter of Chesley Bostic Morris × Martha Patsy Thomas."
+  },
+  {
+    "parent_id": "GS8G-29D",
+    "child_id": "GHQM-RXQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; children list includes Elizabeth Scintilla Morris Calhoun."
+  },
+  {
+    "parent_id": "KX4G-T6H",
+    "child_id": "LHP3-XHS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 16570774 Joseph B Shelton: heirs include Leonard Chaffin who married Mary Blake. Geni: Leonard son of Joseph B × Nancy Fagan."
+  },
+  {
+    "parent_id": "K45W-8LB",
+    "child_id": "LHP3-XHS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG: Joseph m. Nancy Fagan Chaffin 15 Dec 1815 Christian Co. KY. Leonard b.1829 Jefferson IL."
+  },
+  {
+    "parent_id": "L8RJ-B6F",
+    "child_id": "LHP3-X6W",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled as father of Mary Melvina Blake. Snippet search did not retrieve a census page. src=10."
+  },
+  {
+    "parent_id": "LL4J-Y2J",
+    "child_id": "LHP3-X6W",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled mother of Mary Melvina. src=10."
+  },
+  {
+    "parent_id": "L1H6-8F4",
+    "child_id": "LTMT-1WT",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John Barber src=3, no independent hit. Do not climb."
+  },
+  {
+    "parent_id": "L1H6-2Z4",
+    "child_id": "LTMT-1WT",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Nancy Jones src=3, no independent hit."
+  },
+  {
+    "parent_id": "L1H6-LX1",
+    "child_id": "LTMT-1P7",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "William G. Watkins src=6, no census household retrieved."
+  },
+  {
+    "parent_id": "L1H6-2D8",
+    "child_id": "LTMT-1P7",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Fannie Rogers src=4, no independent hit."
+  },
+  {
+    "parent_id": "L416-RY9",
+    "child_id": "KL14-1M8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Gentry-1242 / Bailey-7880: Minos Bailey Gentry child of Samuel Reuben Gentry × Mary Agnes Bailey m.24 Jul 1834 Williamson TN."
+  },
+  {
+    "parent_id": "L416-TMV",
+    "child_id": "KL14-1M8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; Mary Agnes Bailey 12 Apr 1817–15 Nov 1904 Rover. Minos’s middle name Bailey."
+  },
+  {
+    "parent_id": "L8W1-99J",
+    "child_id": "LVV9-WJX",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Prior wave: Mary Ann Covington’s mother is this woman (grandmother Naomi was the dual-parent graft). src=13 compiled."
+  },
+  {
+    "parent_id": "LWJY-F3C",
+    "child_id": "KT4Q-BRS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Wicker-2046 David son of Coleman Wicker × Nancy Adams. WeRelate James Coleman Wicker 1805 Moore NC–1885 Calloway KY lists son David 1828."
+  },
+  {
+    "parent_id": "GBDC-SCJ",
+    "child_id": "KT4Q-BRS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate: Nancy G Daniel/Adams m. James Coleman 15 Jun 1826; son David 1828. Chart Nancy D Adams."
+  },
+  {
+    "parent_id": "LT13-C5N",
+    "child_id": "KL27-F73",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Brandon-1169 Lemuel son of John W Brandon ~1772–1850 × Frances Martha Jenkins. WeRelate m.15 Apr 1814 Logan KY; Lemuel b.12 Jul 1819. Chart 1761 is early but same man."
+  },
+  {
+    "parent_id": "LT1S-Y32",
+    "child_id": "KL27-F73",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; Frances Jenkins 1791–1851."
+  },
+  {
+    "parent_id": "L2TC-6SF",
+    "child_id": "L4Q1-F3N",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Lawrence-7721 Sarah Jane b.9 Dec 1838 to Porter F. Lawrence Jr. × Rebecca Andrews. WeRelate m.16 Jan 1834 Murray, Calloway KY."
+  },
+  {
+    "parent_id": "L2TC-67M",
+    "child_id": "L4Q1-F3N",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same couple."
+  },
+  {
+    "parent_id": "L41Y-CJH",
+    "child_id": "KN16-GDJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Bean-2984 / Geni: James Bean b.11 Feb 1825 Walton GA son of Rev. John Egbert Bell Bean × Jane Youngblood."
+  },
+  {
+    "parent_id": "K2NW-W7R",
+    "child_id": "KN16-GDJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; Jane Youngblood. Dual-parent flag is Stacy vs Youngblood wife-name dispute on John Egbert, not this mother–son link."
+  },
+  {
+    "parent_id": "MW2B-7R4",
+    "child_id": "LZJJ-WM6",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "AFN pedigree Frances Alston m. Abraham Garrett; Martha Sarah compiled as their daughter. WikiTree Bean-2984 says Martha daughter of Josiah Garrett — competing father. Leave C."
+  },
+  {
+    "parent_id": "MW2B-7RD",
+    "child_id": "LZJJ-WM6",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same competing-parent note (Abraham×Frances vs Josiah). Compiled only."
+  },
+  {
+    "parent_id": "LK9Y-6KB",
+    "child_id": "KZM6-V8Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Family group: Benjamin Bryan Singletary b.31 Dec 1824 Bladen son of Brayton × Mary Freeman (m.~1818 Bladen; FS shows a later 1836 date that is too late for an 1824 son)."
+  },
+  {
+    "parent_id": "LZJD-MVJ",
+    "child_id": "KZM6-V8Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same; Mary Freeman d.~1835/36. 1836 FS marriage date is a bad overlay on an earlier union."
+  },
+  {
+    "parent_id": "KNQ6-NB2",
+    "child_id": "KHGR-X9L",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate: Frances Wood parents Joseph Wood × Amelia Singletary. 1850 Thomas GA: Amelia Wood in Joseph Wood household. Hinds 2021 Wood family book."
+  },
+  {
+    "parent_id": "K4RL-TWW",
+    "child_id": "KHGR-X9L",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Singletary-826 Amelia (Singletary) Wood; 1850 Thomas GA census."
+  },
+  {
+    "parent_id": "MPJB-N33",
+    "child_id": "M8KX-YTS",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Absalom Kouns’s fan slot is on the pruned Spencer in-law graft. Do not climb."
+  },
+  {
+    "parent_id": "GS5H-9TX",
+    "child_id": "M8KX-YTS",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same pruned Kouns climb."
+  },
+  {
+    "parent_id": "K2WG-GW3",
+    "child_id": "9SZ5-WWY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Elizabeth Lemon’s fan slot is on the pruned Spencer in-law graft. Do not climb."
+  },
+  {
+    "parent_id": "LH74-SFM",
+    "child_id": "9SZ5-WWY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same pruned Lemon climb."
+  },
+  {
+    "parent_id": "LHGR-2DT",
+    "child_id": "27V5-MGM",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Conflated Bethany/Bethiah Merritt: WikiTree Merritt-3573 (1748–1841, FAG 172443936, 1830 Emanuel GA) is wife of Robert A. Knight / mother of Coffield; Merritt-5260 (c.1761, Thomas Merritt 1794 Halifax will) is a sister. DAR A066477 spouse Bethiah Merritt is a different John Knight of Halifax (child John × Mary Miller), not John Speir Knight."
+  },
+  {
+    "parent_id": "P4RC-PHG",
+    "child_id": "9N21-24X",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Trees only. Snippet search hit a later Jesse Carey (1817–1894 MO), not Jesse Carey Sr. 1750–1817 as father of Nancy Cary who m. Speirs Knight 1817 Laurens GA. No will/census opened."
+  },
+  {
+    "parent_id": "GQW9-72B",
+    "child_id": "L4LV-LXN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Several John Turners in SC (Marion c.1765 son of Patience; Fairfield Capt. 1750–1807; Spartanburg James 1753). No will/census names James C. Turner 1802–1853 as son of this John 1765–1847."
+  },
+  {
+    "parent_id": "MB9P-8W3",
+    "child_id": "KGCW-HJ5",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No independent hit for Clement Gaskins Fennell 1780–1819 as father of Mary Ruth Fennell. Chronology possible. Not census-grade."
+  },
+  {
+    "parent_id": "LCMD-X69",
+    "child_id": "KGCW-HJ5",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Trees + given-name echo (Rutha / Mary Ruth), Laurens GA. No marriage or estate snippet names her as mother."
+  },
+  {
+    "parent_id": "LHQH-R44",
+    "child_id": "L18C-YCN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No Barnwell snippet for Cornelius Jefferson John Cain 1764–1862 as father of William Patrick Cain. 98-year lifespan is a flag. Other Cornelius Cains (Bladen NC, VA/WV) are different men."
+  },
+  {
+    "parent_id": "LDC3-QCF",
+    "child_id": "L18C-YCN",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No marriage snippet. Darling Blume of Blackville is a local family; listed children in FS sketches do not include Sarah. Stay D; climb stopped."
+  },
+  {
+    "parent_id": "G9FK-P3V",
+    "child_id": "PMTC-MPJ",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Placeholder parent 'Wilburn Deceased' — no given name, dates, or sources. Not a climbable identity."
+  },
+  {
+    "parent_id": "LHX9-D9L",
+    "child_id": "KLGG-5HH",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert SWLR: ILES, Demsey of N. Carolina (William & Elizabeth PACE) m. 25 July 1821 Sarah CHERRY (Opel. Ct.Hse. Mar.#37). DAR A059901 / SAR P-189520 list child Dempsey/Demcy × Sarah Cherry."
+  },
+  {
+    "parent_id": "MWCY-XNQ",
+    "child_id": "KLGG-5HH",
+    "grade": "A",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Hébert Mar.#37 names Elizabeth PACE as mother of Demsey Iles. Dual-parent/D flag was other Iles/Pace conflations, not a competing couple."
+  },
+  {
+    "parent_id": "LVDY-SZS",
+    "child_id": "KLGG-5CN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Compiled Cherry/Iles accounts (Sally's Family Place; FS LVDY-SZS) name Sarah Cherry who m. Dempsey Iles 1821 as eldest of Aaron Cherry Sr. 1826 Atascosito census places Aaron in TX with a later wife; Sarah remaining in LA is consistent. Competing mother is Penelope vs Eleanor Spencer."
+  },
+  {
+    "parent_id": "LDV4-6Y4",
+    "child_id": "KLGG-5CN",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Competing mothers: Penelope Pierce (trees, claimed 1804 SC marriage) vs Eleanor Spencer, the only spouse named on the 1826 Atascosito District census of Aaron Cherry. No vital names Penelope as Sarah's mother. Climb stopped."
+  },
+  {
+    "parent_id": "LKQB-LF8",
+    "child_id": "GK4B-GP3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Elizabeth Shown Mills, 'Millie (Breland) Odom Cook’s First Husband' (2005): tradition that Millie m. Shadrack Odom is wrong (that Shadrack's 1784 widow was Sarah). WikiTree Odom-2015 / Odom-762: Richard of Pike/Simpson MS is son of Isaac Odom and Millie Breland with brothers William and Shadrack."
+  },
+  {
+    "parent_id": "L1V1-QJW",
+    "child_id": "GK4B-GP3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Mills analysis: Millie Breland took sons William, Shadrack, and Richard from Beaufort Dist. SC to Pike Co. MS, then m. Matthew Cook c.1805. Mother is agreed even when the first husband's identity was disputed."
+  },
+  {
+    "parent_id": "GS7W-CNY",
+    "child_id": "K6SM-8PH",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Placeholder maiden surname 'Rawlinson' src=0. WikiTree Dunn-5076: David Dunn Jr's first wife (mother of the SC-born children) is unknown."
+  },
+  {
+    "parent_id": "L4XX-ZKJ",
+    "child_id": "L7XP-LLG",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Compiled Dunn/Strange page lists Littleberry Strange c.1765–c.1831 × Nancy Lawton as parents of Anne Strange 1804–1868. Name collides with Littlebury of Halifax VA (1735–1814) and Little Berry of Spartanburg (1807–1888). No will opened."
+  },
+  {
+    "parent_id": "4MNZ-V7L",
+    "child_id": "L7XP-LLG",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same compiled tree; src=0. No marriage snippet for Nancy Lawton as mother of Ann Strange."
+  },
+  {
+    "parent_id": "LYKL-SCB",
+    "child_id": "K6SM-8PH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Dunn-5076: David Dunn Jr of Fairfield Dist. SC received a 27 Mar 1811 Creek-Nation passport with wife and five children, then settled Amite Co. MS. Thomas M. Dunn b. 12 Jul 1803 SC fits the pre-move children. Dual-parent D was the unnamed first wife, not a competing father."
+  },
+  {
+    "parent_id": "GHW9-YZN",
+    "child_id": "LRCY-2P4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Hammack-454 matches Benjamin Hammack c.1766–c.1801 Richmond VA (1792 marriage) but does not name William 1795. Next-gen WikiTree Hammock-87 is William Clark Hammock son of William × Judith Clark. No will opened."
+  },
+  {
+    "parent_id": "GDWX-X21",
+    "child_id": "LRCY-2P4",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Placeholder 'Patty Scutt Deceased' — no dates, no snippet as mother of William Hammock 1795."
+  },
+  {
+    "parent_id": "2Z3V-YYZ",
+    "child_id": "KHYN-C9T",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No will/census snippet for William Clark 1750–1813 as father of Judith Clark who m. William Hammock. Common name; famous explorer and other Clarks dominate search."
+  },
+  {
+    "parent_id": "2Z3V-YRJ",
+    "child_id": "KHYN-C9T",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same surname as listed husband William Clark. Trees only; possible née Clark or in-law copy. No vital."
+  },
+  {
+    "parent_id": "LC65-L95",
+    "child_id": "MVRY-ZLZ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 31563362 John Nesbitt Nash: parents John Nash & Nancy Jane Nesbitt; mother died eight days after his birth 12 Jan 1786. Compiled Neisler, Descendants of John Nesbitt Nash. Genealogy.com controversy is the grandfather line (Abner of Wales vs Edward), not this parent-child link."
+  },
+  {
+    "parent_id": "G9CR-7RW",
+    "child_id": "MVRY-ZLZ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG 31563362: Nancy Jane Nesbitt died eight days after John Nesbitt Nash's birth. Given name Nesbit/Nesbitt preserved in the son."
+  },
+  {
+    "parent_id": "L5PT-QFG",
+    "child_id": "GC4M-DQP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 175240368 / WikiTree Abercrombie-256: Colville Abercrombie Sr. m. Mary Lindley 11 Jul 1785 Laurens; ten children including Hannah Harriett who m. John Nesbitt Nash. Laurens probate Bundle 110 pkg 8 (1847) and will dated 21 Sep 1837. Dual-parent D was other Abercrombie/Lindley grafts, not a competing father."
+  },
+  {
+    "parent_id": "L51P-V7M",
+    "child_id": "GC4M-DQP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG/WikiTree; Mary Abercrombie probate Laurens Bundle 115 pkg 16 (1852). Genealogy.com: Mary Lindley is sister of Thomas Lindley (not his daughter); parents James Lindley × Mary Cox."
+  },
+  {
+    "parent_id": "LZP2-XKV",
+    "child_id": "LZ8W-Y11",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 27982050 Elizabeth 'Betsy' Stell Fletcher names father Rev. Robert Malone Stell Sr. (4 Mar 1767 Newberry–2 Sep 1814 Morgan GA). WikiTree Stell-86; compiled Johnson-family sketch. Daughter Robert Stell Fletcher preserves the surname."
+  },
+  {
+    "parent_id": "KNYX-8VM",
+    "child_id": "LZ8W-Y11",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG 27982050 names mother Elizabeth Jones of Newberry SC. Betsy m. James Richard Fletcher 27 Jan 1811 Morgan GA."
+  },
+  {
+    "parent_id": "KN13-ZLK",
+    "child_id": "KG37-VNV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Many John Calhoun/Calhoon men. No snippet ties John Calhoon 1764–1821 NC to Alexander Calhoun 1799. Same thin Calhoun-on-Calhoun pattern as gen 7."
+  },
+  {
+    "parent_id": "LQRS-ND5",
+    "child_id": "KG37-VNV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Martha Walker src=0 as mother of Alexander Calhoun. No snippet."
+  },
+  {
+    "parent_id": "KN13-ZLK",
+    "child_id": "KG37-VLZ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same John Calhoon 1764–1821 as father of Elizabeth Calhoun 1800. No snippet. Climb false."
+  },
+  {
+    "parent_id": "LQRS-ND5",
+    "child_id": "KG37-VLZ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Martha Walker src=0 as mother of Elizabeth Calhoun. No snippet."
+  },
+  {
+    "parent_id": "LT4H-BSW",
+    "child_id": "L8WR-74Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Warner-4514 lists Chessley B. Morris (b. 23 Mar 1806; m. Martha Patsy Thomas) among children of William Morris × Charlotte Warner. FS LT4H-BSW family timeline includes Chesley Bostic Morris 1806–1887."
+  },
+  {
+    "parent_id": "LT4H-BGY",
+    "child_id": "L8WR-74Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same WikiTree Warner-4514: Charlotte 'Lottie' Warner of Orangeburg Dist. SC m. William Morris 1792; Chessley is child 6."
+  },
+  {
+    "parent_id": "GWSD-JWH",
+    "child_id": "GS8G-29D",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Thomas-9836: children of James Thomas and Bridget Lee include Patsey Thomas b. 1810. Warner-4514: Chessley B. Morris m. Martha 'Patsy' Thomas, daughter of James and Bridget Lee Thomas. Chart dates 1770–1850 / 1812–1864 fit the St. Tammany–Washington Parish cluster."
+  },
+  {
+    "parent_id": "KZ61-TGS",
+    "child_id": "GS8G-29D",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same WikiTree pair: Bridget Lee as mother of Patsey/Martha Patsy Thomas who m. Chesley B. Morris."
+  },
+  {
+    "parent_id": "LH8V-17S",
+    "child_id": "L6J3-SQ4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet for Charles Adrien Lagroue de la Tourelle 1752–1822 as father of Honoré 1784. Known Lagroue generation is Honoré × Jeanne D'Arensbourg (3 Aug 1808); 1839 St. Louis marriage of Charles Théodule names Honoré, not Charles Adrien."
+  },
+  {
+    "parent_id": "M83V-4SP",
+    "child_id": "L6J3-SQ4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Charlotte Rose De La Chaise 1754–1855 (101-year life) as mother of Honoré. Snippets are a different Honoré de la Chaise (1750, Jacques × Marguerite d'Arensbourg, m. Celeste Chretien 1788). Possible mix with the D'Arensbourg/de la Chaise line already in this pedigree."
+  },
+  {
+    "parent_id": "LHZD-3WY",
+    "child_id": "LTTV-MH2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Chisholm genealogy (1912) and Colonial Families of the USA: George Chisolm (19 Feb 1772–31 Oct 1835) m. Providence Hext Prioleau 21 Jan 1796; issue includes Octavius, who m. Malvina Lodge in Ireland. Charleston admin 1835 on George Chisolm the elder."
+  },
+  {
+    "parent_id": "KN3Y-YGR",
+    "child_id": "LTTV-MH2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same published genealogy. Charleston will of Providence Hext Chisolm (18 Nov 1859, Wills 48–49) lists child Octavius Chisolm. FAG 27543511."
+  },
+  {
+    "parent_id": "K4BF-TF1",
+    "child_id": "LTTV-97K",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "High FS source count (39) but no snippet names Jacob Fickeisen 1817–1874 as son of Friedrich Jacob 1776–1831. Spouse-copy already pruned Friedrich as parent of Catharina Dick. Chronology possible. Not census-grade."
+  },
+  {
+    "parent_id": "M11B-CJ3",
+    "child_id": "LTTV-97K",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same: Julianne Henrietta Grimm 1784–1828 Palatinate as mother of Jacob 1817. No baptism snippet. Climb false."
+  },
+  {
+    "parent_id": "M66Z-Q9V",
+    "child_id": "GG5D-XQ8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "William Thomas 1790–Deceased as father of Richard Birchall Thomas 1812. No snippet; death unknown. Birchall middle name not corroborated."
+  },
+  {
+    "parent_id": "M66Z-QSS",
+    "child_id": "GG5D-XQ8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Mary Ramage 1789–Deceased as mother of Richard Birchall Thomas. No snippet."
+  },
+  {
+    "parent_id": "LHFD-81X",
+    "child_id": "LRT4-6L4",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Württemberg/NC Palatine graft onto the Louisiana Fogleman line. Dr. Aaron Fogleman: Georg Vogelmann of Sanzenbach/Westheim (1699–1758) × Sannwald; son Johann Georg 1732–1785 died Orange NC. Chart George Fogleman 1775–1850 is the LA man whose son John named parents George & Sally HOOZER (Hébert 1819). Mother Nees 1760 vs child 1775 vs father 1728 is a flag."
+  },
+  {
+    "parent_id": "G94M-7Q6",
+    "child_id": "LRT4-6L4",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same Palatine/LA conflation. Margaret Marie Nees 1760 as mother of George Fogleman 1775 would be age 15; 32-year gap from listed husband 1728. Climb stopped."
+  },
+  {
+    "parent_id": "9JWV-FMK",
+    "child_id": "L5D6-HRH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Aymond-18/33: Jean Baptiste Aymond II b. ~1789 Bayou Boeuf is son of Jean Baptiste I (Alsace) × Marianne Joffrion, m. 5 Apr 1785 St. Louis Cathedral (already in overrides). Compiled Avoyelles Aymond book / FAG 187951603."
+  },
+  {
+    "parent_id": "218N-WC8",
+    "child_id": "KVX6-R3K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Dauzat-2: Antoine Doza bn/bt. 4/22 Sep 1755 Pointe Coupee (DOBR PCP); m. 30 May 1778 Angelique DESAUTELS (PCP-2). WikiTree Aymond-33: Roseline Dauzat b. 19 Mar 1794, dau. of Antoine Dauzat × Angelique Deshotels, m. Jean Baptiste Aymond II 3 Apr 1811 Bayou Rouge."
+  },
+  {
+    "parent_id": "L5PL-XFT",
+    "child_id": "KVX6-R3K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1778 Pointe Coupee marriage and 1811 Aymond–Dauzat marriage. DAR/SAR patriot Antoine François Dauzat A029961 spouse Angelique Deshautels."
+  },
+  {
+    "parent_id": "KJZF-LM2",
+    "child_id": "21RG-DX1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Claude Recouly 1762–1818 Sète, Hérault as father of Pierre Recouley 1812–1855 Avoyelles. No snippet of the parent-child. Pierre m. Ursule Fouquier 12 Mar 1830 Avoyelles (WikiTree Fouquier-1)."
+  },
+  {
+    "parent_id": "27YG-WP4",
+    "child_id": "21RG-DX1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Eloisa Dosat 1783–Deceased as mother of Pierre Recouley. May be a Dozat/Dauzat variant (Heloise Dauzat b. 1783 is Antoine's daughter) but no snippet names her as Pierre's mother."
+  },
+  {
+    "parent_id": "L6V6-Q6J",
+    "child_id": "21RG-DN4",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Charles Pierre Fouquier 1780–1855 Le Havre as father of Ursule Lucy Fouquier 1812–1902. WikiTree Fouquier-1 has Ursule m. Pierre Recoulley 1830; no snippet names Charles as her father."
+  },
+  {
+    "parent_id": "L78P-QB4",
+    "child_id": "21RG-DN4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Helen Aymond bn. 22 Mar 1790 is already accepted as daughter of Jean Baptiste Aymond I × Marianne Joffrion. Rootsweb Aymond children: Helen m. Charles Fouquier. Ursule Lucy Fouquier 1812 Avoyelles fits that marriage; 1850–1900 Avoyelles census as Ursule/Lucy Recoulley."
+  },
+  {
+    "parent_id": "G46N-JZ6",
+    "child_id": "L1H6-LX1",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Placeholder parent 'Watkins Deceased' — no given name, dates, or sources."
+  },
+  {
+    "parent_id": "G46N-LQ1",
+    "child_id": "L1H6-2D8",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Placeholder parent 'Rogers Deceased' — no given name, dates, or sources."
+  },
+  {
+    "parent_id": "GBG7-7GM",
+    "child_id": "GGRF-M9H",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0. No snippet ties François Ogé 1786–1831 of Saint-Jean-d'Assé, Sarthe to François René Ogé 1812. Different François Ogé (1762 Québec) dominates search."
+  },
+  {
+    "parent_id": "GBG7-2NY",
+    "child_id": "GGRF-M9H",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Marie Magdeleine Jacquine Suchet 1782–1825 as mother of François René Ogé. src=1, no snippet."
+  },
+  {
+    "parent_id": "GGRF-3BT",
+    "child_id": "GGRX-JGV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Jacques François Joucheroy Deceased — no dates. No snippet as father of Anne Charlotte Joucheray 1810."
+  },
+  {
+    "parent_id": "GGRX-R7N",
+    "child_id": "GGRX-JGV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Françoise Vidi Deceased — no dates. No snippet as mother of Anne Charlotte Joucheray."
+  },
+  {
+    "parent_id": "L7CX-F3L",
+    "child_id": "P9DL-SC5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert: CASTILLE, Jean Baptiste (Joseph & Dorotea LANDRY) marriage investigation 25 Jun 1797 Julie STELLY (Francois STELEY & Therese BERTELOT) SM Ch. Folio D #17. WikiTree Castille-99 lists Carmelite Castille 1805 among their children; Acadians in Gray: Jean-Baptiste m. Julie-Françoise Stelly Jul 1797 Opelousas, daughters married Castille/Estorge/Guilbeau/Labiche."
+  },
+  {
+    "parent_id": "L7C3-X94",
+    "child_id": "P9DL-SC5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1797 Opelousas/Attakapas marriage investigation. Rootsweb: Marie Carmelite Castille b. 30 Apr 1805 to Jean Baptiste Castille × Julie Stelly."
+  },
+  {
+    "parent_id": "L7GK-4T6",
+    "child_id": "KX4G-T6H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 16570774 Joseph B Shelton: son of William Shelton and Rebecca Hogg of Caswell/Pittsylvania. WikiTree Shelton-889: m. Rebecca Hogg 1783 Orange NC; moved Christian Co. KY 1803; 1850 census William age 85. Longevity to 1864 is compiled but age in 1850 fits a 1763–65 birth."
+  },
+  {
+    "parent_id": "L2LZ-WNF",
+    "child_id": "KX4G-T6H",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG/WikiTree: Rebecca Hogg, daughter of Gideon Hogg, m. William Shelton; Joseph b. 1 Mar 1793 Pittsylvania. Joseph later m. Nancy Fagan Chaffin (this pack's next generation)."
+  },
+  {
+    "parent_id": "9WD5-LBY",
+    "child_id": "K45W-8LB",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS 9WD5-LBY family timeline lists Nancy Fagan Chaffin 1791–1867 among children of Elias Chaffin × Mary Outhouse. Pension S32172 / DAR A026546 (ELLES CHAFFIN, spouse POLLY X) is the same man (Guilford NC spy, d. Clinton IL 1837). She later m. Joseph B. Shelton."
+  },
+  {
+    "parent_id": "L416-BTY",
+    "child_id": "L416-RY9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Gentry-1246/1247: Samuel Reuben Gentry I (c.1777–1816 Williamson TN) m. Frances Cannon 1803; child Samuel Reuben/Richard Gentry II b. 24 Feb 1816. Chart death 1815 vs birth 1816 is posthumous/same-year, not a break. Different from Rev. Samuel Gentry of Barren KY (will May 1816)."
+  },
+  {
+    "parent_id": "LHTR-4M7",
+    "child_id": "L416-RY9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled Gentry/Cannon 1803 marriage. Frances Euphemia Cannon (Minos Cannon line) as mother of Samuel Richard Gentry Jr of Bedford TN (already B as father of Minos Gentry)."
+  },
+  {
+    "parent_id": "L5RF-PH4",
+    "child_id": "L416-TMV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Ogilvie-433 / Bailey-7878: Henry Bailey m. Nancy Ogelvie 18 Jul 1809 Davidson Co. TN (FamilySearch county marriages FHL 1,994,214). Issue includes Mary Agnes Bailey 1817–1904 who m. Samuel Gentry."
+  },
+  {
+    "parent_id": "27SD-671",
+    "child_id": "L416-TMV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1809 Davidson marriage record. WikiTree lists Mary Agnes Bailey among six children of Henry Bailey × Nancy Ogilvie."
+  },
+  {
+    "parent_id": "GFP8-P1M",
+    "child_id": "GQ3F-G2G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Arnold-8639: Joseph A Arnold m. Frances Drumwright 24 Sep 1800 Mecklenburg VA (FS county marriage). WikiTree Drumright-13 lists James E. Arnold b. 26 Apr 1816 VA among their children; 1830/1840 census Joseph in Mecklenburg then Bedford TN."
+  },
+  {
+    "parent_id": "284H-ZWP",
+    "child_id": "GQ3F-G2G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 24 Sep 1800 Mecklenburg marriage. Dual-parent D was other Drumright/Arnold conflations, not a competing mother. James Edward Arnold 1816 is child 10 on the compiled list."
+  },
+  {
+    "parent_id": "LH8C-63S",
+    "child_id": "GQVF-3TR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Jackson-36386 / FAG 51108010: Thomas Jackson b.15 Dec 1789 Prince Edward VA d.7 Mar 1866 Crofton, Christian KY (son of Francis Jackson × Elizabeth Childress). Matches chart. Snippets do not name Nancy Jackson 1822 among children. Dates fit (father ~33)."
+  },
+  {
+    "parent_id": "LC5V-V9P",
+    "child_id": "GQVF-3TR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Hendrix-4325 / FAG 51108363: Ruth (Hendrix) Jackson 1787 SC – 12 May 1872 Christian KY, same couple. Nancy 1822 not named in snippets. Mother ~35; no competing mother."
+  },
+  {
+    "parent_id": "KCB8-87K",
+    "child_id": "MW17-77P",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "William Lamb 1769–1840 Union Twp Orangeburg SC as father of David Lamb Sr 1791. Search hit England/PA/VT Williams, not this SC man (src=1). Dates fit. Spouse Margaret Floyd WikiTree is the Union SC Lamb wife."
+  },
+  {
+    "parent_id": "L1WC-GML",
+    "child_id": "MW17-77P",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Floyd-2080: Margaret (Floyd) Lamb 1774 Spartanburg – 1795 Union SC, dau of Enoch Floyd × Margaret Milton. Medlin Quaker Families of SC & GA, Lamb family p.31; 1790 Union census. Death 1795 still allows David 1791. Child not named in snippet."
+  },
+  {
+    "parent_id": "L8QX-7YC",
+    "child_id": "GZLG-37V",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS L8QX-7YC (same id) timeline lists Esther Landrum 1794–1871 among children of Reuben Landrum × Mary Ann Ray (m. ~1770). WikiTree Landrum-243 names Esther among Reuben × Mary Ray issue. Father age 65 is late but under the 80 flag; Regulator/Chatham NC then Union SC minister."
+  },
+  {
+    "parent_id": "LC8K-RP5",
+    "child_id": "GZLG-37V",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FS timeline: Mary Ann Ray 1752–1805 as mother of Esther 1794 (age 42). WikiTree Ray-3942 compiles her ~1734 which would be over-55 — chart/FS 1752 is the workable date. Daughter of Ambrose Ray on the compiled Landrum pages."
+  },
+  {
+    "parent_id": "2Z4D-41F",
+    "child_id": "L8W1-99J",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LHJD-WTR: Larkin Anderson Covington m. Ann S Menefee 12 Mar 1817 Rutherford TN; first child listed is Naomi Cissle Covington 1817. Same-year birth after March marriage is possible. FAG 234575534 (dau Mary Ann) names Naomi Cissle Covington as her mother, later m. Willis Lamb."
+  },
+  {
+    "parent_id": "LHJD-WTR",
+    "child_id": "L8W1-99J",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 12 Mar 1817 Rutherford marriage on FS LHJD-WTR (same id). Timeline lists Naomi Cissle Covington 1817 among 16 children. Mother age ~18."
+  },
+  {
+    "parent_id": "LZ4J-64X",
+    "child_id": "LWJY-F3C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate James Wicker (3) and (12): James Coleman Wicker b.28 Nov 1805 Moore NC d.9 Nov 1885 Calloway KY, son of David Wicker 1775–1821 × Elizabeth Jane McKinney m. ~1793. Sibling set John C 1794, James A 1798, Rebecca 1802. Pedigree collapse duplicates this couple at two gen-8 slots."
+  },
+  {
+    "parent_id": "K636-TD9",
+    "child_id": "LWJY-F3C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Chart mother is given-name-only Elizabeth 1775. WeRelate identifies her as Elizabeth Jane McKinney 1775–1822, same David Wicker marriage ~1793, mother of James Coleman Wicker 1805."
+  },
+  {
+    "parent_id": "LCQ4-M96",
+    "child_id": "LT1S-Y32",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LCQ4-M96 (same id): Jesse Jenkins m. Martha House 7 Sep 1771 Richmond/Henrico VA; children include Frances Martha Jenkins 1791–1850. WikiTree Jenkins-3739: Rowan NC will 9 Dec 1802; Bowen Jenkins Family of VA and NC. Geni lists Frances Martha (Fanny) Jenkins (compiled birth 1782 vs chart 1791 — same daughter, date drift)."
+  },
+  {
+    "parent_id": "MRYL-K1Y",
+    "child_id": "LT1S-Y32",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1771 marriage. Geni Martha Jenkins (House) of Richmond Co. lists Frances Martha (Fanny) among children of Jesse M. Jenkins Sr. WikiTree House-1725 d. aft 1823 Quality, Butler KY."
+  },
+  {
+    "parent_id": "LTRG-1T9",
+    "child_id": "L2TC-6SF",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. FS flags multiple parent-sets for Porter F. Lawrence (merge/detach). Search hit the Indian Army Sir Henry Lawrence and other men, not Henry Lawrence 1777–1829 of Amherst VA. No snippet names Porter F. as his son."
+  },
+  {
+    "parent_id": "LTRP-7Q7",
+    "child_id": "L2TC-6SF",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Faulkner-4777 is a stub Violet (Faulkner) Lawrence abt 1782 Surry NC – abt 1860 AR (chart death 1830). No children listed. src=0. Do not climb while the father is dual-parent D."
+  },
+  {
+    "parent_id": "KGM4-FY2",
+    "child_id": "L2TC-67M",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Alexander \"John\" Andrews 1779–1830 Somerset, England as father of Rebecca Andrews 1812 (who m. Porter Lawrence in Calloway KY). Search hit VA/TN John Andrews × Rebecca Malone and an NSW convict, not this Somerset man. England-to-KY leap uncorroborated."
+  },
+  {
+    "parent_id": "LCCZ-5ZN",
+    "child_id": "L2TC-67M",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Rebecca Wells 1790–1871 KY as mother of Rebecca Andrews 1812. src=9; mother age 22. Search polluted by other Rebecca Wells; no competing KY mother in snippets. Climb the Kentucky side; leave the Somerset father unclimbed."
+  },
+  {
+    "parent_id": "93RC-7HF",
+    "child_id": "L41Y-CJH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS 93RC-7HF (same id) lists John Egbert Bell Bean Sr 1792–1871 among children of Alexander Bean × Christiana Cassie. SAR 328903 / DAR A007982 (juror SC 1778–79) children include John Egbert Bell. Will probated Edgefield 16 Mar 1812. Georgia Packet 1775 immigrant; Clan MacBean vol. II."
+  },
+  {
+    "parent_id": "93RC-7H5",
+    "child_id": "L41Y-CJH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Matson-532: Christiana (Matson) Bean lists John Egbert Bell Bean b.21 Jul 1792 (chart 21 Nov — month drift). Maiden name disputed Massey/Cassey/Matson; chart Cassie is one compiled form. Same DAR spouse."
+  },
+  {
+    "parent_id": "LDYP-KYB",
+    "child_id": "K2NW-W7R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Youngblood-292 / Still-223: Jane Youngblood b.17 Apr 1795 d.22 Apr 1861 listed as child of Jacob Youngblood Sr × Sarah Still of Edgefield. She m. John Egbert Bell Bean (this pack). Chart death 1827 vs WT ~1831 is compiled drift, not a break."
+  },
+  {
+    "parent_id": "GPBM-6CM",
+    "child_id": "K2NW-W7R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Dual-parent D cleared. WikiTree Still-223 names Jane Youngblood 17 Apr 1795–22 Apr 1861 among children of Sarah (Still) Youngblood × Jacob; Sarah is daughter Sarah Youngblood in John Still's will. Same Edgefield Bean/Youngblood cluster."
+  },
+  {
+    "parent_id": "KLFD-X85",
+    "child_id": "MW2B-7R4",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS KLFD-X85 (same id) lists Abraham Garrett 1796–1882 among 19 children of Nicholas Ware Garrett × Sarah Bramlett. Family Bible records the marriage (WikiTree Garrett-874). But the 1 Feb 1847 estate settlement (Bramblette Family in America) names Widow Sally plus Harmon/Miles/Elijah/Simeon/Austin/Stephen/Newton/Ambrose/Edward/William/Nancy Power/Fanny Cowan — Abraham is omitted. Couple is solid; this son is compiled-only."
+  },
+  {
+    "parent_id": "L6NB-GF2",
+    "child_id": "MW2B-7R4",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FS L6NB-GF2 timeline lists Abraham 1796. FAG 6245165 Warrior Creek, Laurens SC. Same 1847 estate omission. 1850 census has widow Sarah in son Miles's Greenville household, not with Abraham."
+  },
+  {
+    "parent_id": "KZC8-88Q",
+    "child_id": "LK9Y-6KB",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Singletary-253: Lt William Randolph Singletary m. Susannah Harrison 1783; children include Brayton Chancey 1795–1853. FAG 116358473 DAR A104453 (Capt. Thomas Haynes, Bladen militia). FS LK9Y-6KB names him as father."
+  },
+  {
+    "parent_id": "K8X3-F9K",
+    "child_id": "LK9Y-6KB",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Harrison-8482: Susannah Harrison Singletary lists Brayton Chancey 1795–1853 among children (with David, Alice, Willis, Harrison, Susan). Chart src=0 but the compiled Bladen set is consistent."
+  },
+  {
+    "parent_id": "PQZN-CMG",
+    "child_id": "LZJD-MVJ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Chart name 'John Freeman not married to Lomax' is itself a dispute flag. src=0. FS grafts a Madison KY 1802 marriage to Eleanor Nancy Lomax onto a Bladen NC man. Ancestry mixes Abraham Freeman of Bladen with the KY Lomax wife. Mary Freeman 1802 who m. Brayton Singletary belongs in Bladen; the Lomax marriage does not."
+  },
+  {
+    "parent_id": "PWB8-P1X",
+    "child_id": "LZJD-MVJ",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Nancy Freeman Deceased — no dates, src=0, bp blank. Search did not hit a mother of Mary Freeman 1802–1836. Canadian Singletary chart gives Eleanor Unknown, not Nancy."
+  },
+  {
+    "parent_id": "GP18-S25",
+    "child_id": "KNQ6-NB2",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Joseph Wood Deceased — no dates, src=0. Search hit Maine/PA/Scotland/MD Joseph Woods, none tied to Joseph Wood Jr. 1792–1854."
+  },
+  {
+    "parent_id": "GP18-8SL",
+    "child_id": "KNQ6-NB2",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Mary Deceased — no dates, src=0. No snippet as mother of Joseph Wood Jr. 1792–1854."
+  },
+  {
+    "parent_id": "LXW3-J9D",
+    "child_id": "K4RL-TWW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LXW3-J9D (same id) lists Amelia Singletary 1794–1865 among children of Josiah × Sarah Ann Harrison. FAG 100828613 (pension SW6064) names Amelia who married Joseph Wood. WikiTree Singletary-826: Amelia dau of Josiah Singletary and Sarah Harrison. Josiah WT Singletary-255 says first marriage had no known children — one compiler vs FS/FAG/Amelia WT. Two Sarah Ann Harrisons: 1759–1830 (Josiah) vs 1781–1850 (Jonathan)."
+  },
+  {
+    "parent_id": "LMWR-9GF",
+    "child_id": "K4RL-TWW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate Sarah Harrison (58) 2 Mar 1759–9 Nov 1830 m. Josiah Singletary. Same FAG/FS child list includes Amelia. Do not conflate with Sarah Ann Harrison 1781–1850 (FAG 82401308) who m. Jonathan Singletary and is in his 1850 household."
+  },
+  {
+    "parent_id": "L5B4-5KS",
+    "child_id": "KCX8-YPQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Begley-68 / Bagley-1858: Henry Bagley will/estate Chatham NC 1802–04 names son Benjamin Bagley (with Henry, Joab, Isaiah, Elisha, Bethany Rosson). Chart Benjamin Joseph Bagley 1780 vs WT Benjamin 1770–1840 is date drift on the same heir. FS L5B4-5KS."
+  },
+  {
+    "parent_id": "L2KN-8S8",
+    "child_id": "KCX8-YPQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Cook-9812: Elizabeth (Cook) Bagley children include Benjamin Bagley. Chart death 1790 fits no wife on Henry's 1800 census. DAR does not give her maiden name; Cook is compiled. Same Chatham probate cluster."
+  },
+  {
+    "parent_id": "L5FR-RZM",
+    "child_id": "K1WZ-KCQ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John Hubbard 1750–1800 as father of Humphrey Hubbard 1773. src=0, bp blank. Search hit Guilford NC Quaker, Elbert GA, Kingston NH, and other Johns; none named Humphrey as son."
+  },
+  {
+    "parent_id": "GMP8-K48",
+    "child_id": "L7GV-X32",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Whinery-24: Patrick Whinery Jr × Sarah Noblett; children include Abraham Whinery b. abt 1765 d. abt 1820 Gravette AR. WikiTree Whinery-56: Abraham son of Patrick and Sarah, m. Martha Campbell 17 Feb 1786 Orange NC (bond). Pedigree collapse duplicates this couple. Chart Pvt 1764–1820 is Abraham Sr, not the 1795 War-of-1812 Jr."
+  },
+  {
+    "parent_id": "2CNY-X6R",
+    "child_id": "L7GV-X32",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Noblett-35: Sarah (Noblett) Whinery children include Abraham. Huntington MM 1761 testimony against Sarah Noblet for marrying out. Quaker Chatham NC 1788. Same 1786 Orange marriage-bond cluster."
+  },
+  {
+    "parent_id": "GM2L-SQT",
+    "child_id": "278Y-1KX",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Chart John Campbell Jr 1725–1781 Muirkirk, Ayrshire as father of Martha Campbell 1766 who m. Abraham Whinery. WikiTree Campbell-15553 places that Martha in Orange NC and only maybe dau of John Campbell × Mary Edwards of Guilford/Brunswick — not Scotland. Dual-parent flag. Search hit unrelated PA/NJ/SC Johns."
+  },
+  {
+    "parent_id": "GM2L-3Q9",
+    "child_id": "278Y-1KX",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Martha Edwards 1730 Scotland, src=0. WT of the Whinery wife gives Mary Edwards of Brunswick VA / Guilford NC, not Martha Edwards of Scotland. Do not climb the Scottish mother while the father is dual-parent D."
+  },
+  {
+    "parent_id": "LDM1-CM1",
+    "child_id": "GW3L-RTN",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Joshua Phipps 1746 father of John Boone Phipps 1760 = age 14 (under-15). WeRelate / GenoPro children of Joshua × Hester (m. 7 Aug 1767) start Elizabeth 1765 / William 1768 — no John Boone 1760. Child is seven years before the marriage. Generation skip or wrong child. Pensioner is the 1746 man of Green KY (DAR A090909)."
+  },
+  {
+    "parent_id": "L5DP-4G3",
+    "child_id": "GW3L-RTN",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Hester Aston 1747 mother of 1760 = age 13. 1820 pension affidavit: wife then 73 (b. ~1747). Grandparent consent 1800 for granddaughter Hetty Mills — consistent with children born 1765+. Not mother of a 1760 John Boone."
+  },
+  {
+    "parent_id": "KH2Y-ZLW",
+    "child_id": "KL1J-VHW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS KH2Y-ZLW (same id) will names daughter Nancy Traylor $50. FAG 29558697 / WikiTree Little-3408: Nancy Little b. ca 1804 m. George Traylor among first-marriage children. Jackson Co. GA sheriff; War of 1812 / Creek War."
+  },
+  {
+    "parent_id": "KL1J-VFT",
+    "child_id": "KL1J-VHW",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS/Geni give first wife as Sarah Elizabeth Parks, mother of Nancy Traylor. FAG gggg-grandson: court witness Elizabeth/Betsy Little, 'Sarah was a mere speculation.' Maiden name disputed; the mother of Nancy is the first wife (Elizabeth or Parks). Chart Parks 1780–1824."
+  },
+  {
+    "parent_id": "LVDK-6VX",
+    "child_id": "MPJB-N33",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Lawrence Register / Andrew P. Kouns family Bible: Christian Kouns m. 1777 Anna Lamp; first issue John L. Kouns b. 29 May 1780 Greenbrier VA. DAR private Capt. Robert George, VA. Pedigree collapse duplicates this couple."
+  },
+  {
+    "parent_id": "LX7Q-CVH",
+    "child_id": "MPJB-N33",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Dual-parent D cleared. Same Bible/Lawrence Register: Anna Lamp mother of John L. 1780. FAG 82716440. One compiled page floats a 1789 Peter Milhorn marriage — that is the competing parent-set; Bible + 1824 Ohio death as Christian's widow outweighs it."
+  },
+  {
+    "parent_id": "L27S-4LQ",
+    "child_id": "GS5H-9TX",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS L27S-4LQ (same id) m. Ruth Bailey 25 Mar 1782; children include Eleanor Miller 1784–1848. FAG 89389494: Eleanor Kouns among children of Col. John Miller × Ruth (Devore) of Berkeley VA / Greenup KY — same Eleanor who m. John Lamp Kouns. Pedigree collapse duplicates this couple. FS warns several John Millers; this id is the Berkeley/Greenup cluster."
+  },
+  {
+    "parent_id": "L2QY-JN9",
+    "child_id": "GS5H-9TX",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Chart Ruth Bailey 1762–1825 Berkeley VA. FAG 89389494 is Ruth Devore Miller 8 Dec 1762–18 Feb 1825, mother of Eleanor Kouns. Maiden name Bailey vs Devore is unresolved; same dates/place/daughter. Climb the mother of Eleanor; leave the maiden-name fork as C."
+  },
+  {
+    "parent_id": "P46M-5VQ",
+    "child_id": "K2WG-GW3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate George Lemmon Sr 1735 Germany m. Agnes Elizabeth Young Apr 1758 Baltimore; children include Conrad Lemon b.18 Mar 1770 Frederick MD d.27 Jun 1843 Alleghany VA, m. Nancy Gilleland 14 Apr 1801. WikiTree Lemon-160: son of George Lehman × Mary Young. Chart src=0; 1805 Botetourt will does not name children."
+  },
+  {
+    "parent_id": "P469-M2F",
+    "child_id": "K2WG-GW3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same WeRelate family sheet: Agnes Elizabeth Young Est 1741, m. Apr 1758 Baltimore, mother of Conrad 1770. WikiTree calls her Mary Young. Chart bp Augusta VA. Pedigree collapse duplicates this couple."
+  },
+  {
+    "parent_id": "LCBW-D5H",
+    "child_id": "LH74-SFM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Gilliland-169 / FAG 63304226: Botetourt will 1 Mar 1810 (WB B:257, probate Apr 1811) names daughter Nancy. Family Bible (lost, compiled) Nancy 20 Mar 1779 who m. Conrad Lemon. St James Episcopal Lancaster PA marriage 13 Jun 1768 (chart 1763 is off). DAR A044935 / SAR P-166435. FS LCBW-D5H same id lists Nancy 1779–1860."
+  },
+  {
+    "parent_id": "LZ46-B4L",
+    "child_id": "LH74-SFM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1810 will and Shepherd Gilliland pension declaration: widow Susannah d.18 Jun 1842, children include Nancy. WeRelate Susannah Young (2) 1750 Augusta – 18 Jun 1842. FS LZ46-B4L same id. Chart 1763 marriage would make her 13; the 1768 church date is the one that fits. Child Nancy 1779 is age 29."
+  },
+  {
+    "parent_id": "L419-ZSZ",
+    "child_id": "LHGR-2DR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Rodovid: Treasa Spier, dau of James II Spier × Elizabeth Coker, mother of Robert Knight II 1761 Edgecombe. Knight maternal of proven LHGR-2DR; mother-link is compiled, not auto-A. src=6."
+  },
+  {
+    "parent_id": "9K9K-2VH",
+    "child_id": "LHGR-2DT",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "FS 9K9K-2VH lists two Bethanys (1748 and 1760). Chart parent born St James Clerkenwell, child Halifax NC — same conflation already flagged on Bethany at gen 8. Do not climb."
+  },
+  {
+    "parent_id": "L51L-YZJ",
+    "child_id": "LHGR-2DT",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "FS lists both Bethanys under this couple. No independent Mary Morah hit. Same England/NC conflation as Thomas Merritt. Do not climb."
+  },
+  {
+    "parent_id": "PH8N-1J4",
+    "child_id": "GQW9-72B",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted; no SC 1740–1810 snippet naming John Turner 1765 as son of Robert Turner. src=3. Dates fit only. Do not climb."
+  },
+  {
+    "parent_id": "PHDH-J3D",
+    "child_id": "MB9P-8W3",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Fennell-581: Isham Fennell abt 1753–1806 Brunswick VA/Beaufort SC m. Charity Clark; chart 1755–1850 is longevity/wrong-death. Clement Gaskins Fennell not named; Explore More has a different Clement Fennell abt 1779–1843. src=0. Do not climb."
+  },
+  {
+    "parent_id": "P4RC-PHG",
+    "child_id": "LCMD-X69",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted; GA Jesse Carey Sr 1750–1817 not found naming Rutha Carey 1794. src=3. Dates fit only. Do not climb."
+  },
+  {
+    "parent_id": "GXDN-5J8",
+    "child_id": "LHQH-R44",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Chart bp Ballaugh, Isle of Man vs VA/SC Cains. No snippet tying this Patrick to Cornelius Jefferson John Cain 1764–1862 (child longevity 98). Pedigree collapse duplicates this couple. Do not climb."
+  },
+  {
+    "parent_id": "GMXH-4ZF",
+    "child_id": "LHQH-R44",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "src=0; search polluted. Same Isle-of-Man vs SC geography problem as Patrick Cain Jr. Do not climb."
+  },
+  {
+    "parent_id": "MYTB-RXD",
+    "child_id": "LDC3-QCF",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D: FamilySearch flags multiple parent-sets (merge or detach). MyHeritage Johan Jakob m. Sarah Shipes 1769 lists Sarah among 11 children; WikiTree Blume-602 Barnwell will; FS Darling Blume lists him as father. Dual-parent unresolved. Duplicate slots via pedigree collapse."
+  },
+  {
+    "parent_id": "LTVQ-6BK",
+    "child_id": "LDC3-QCF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LTVQ-6BK timeline lists Sarah Blume 1797–1878 among children of Sarah Shipes (mother age 42). 1770 Ringkøbing Denmark marriage is a compiled oddity vs Blackville Barnwell bp. Father remains dual-parent D."
+  },
+  {
+    "parent_id": "L6JV-CGK",
+    "child_id": "LDTP-VN4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS L6JV-CGK same-id lists William Joseph Jeter 1753–1811. WikiTree Jeter-182: will 25 Nov 1793 Edgefield names son Joseph Jeter. src=23."
+  },
+  {
+    "parent_id": "K8HQ-6RR",
+    "child_id": "LDTP-VN4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Vaughan-81: Elizabeth Vaughan 1775 will names Margaret Geter. FS lists William Joseph Jeter 1753–1811 as her son. Same Edgefield Jeter couple."
+  },
+  {
+    "parent_id": "LRZ9-MQY",
+    "child_id": "LX7S-QQ9",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Geni Adam Lafayette Free 1737–1836 Fairfield lists Jacob Free son b.1757; WikiTree Free-485 Jacob Edmond Free aft.1757–1828 Barnwell. Competing FS G9Y9-F2L names George Jacob Free as father. WikiTree Free-313 death 1811 vs chart 1836. Do not climb."
+  },
+  {
+    "parent_id": "G24F-GQR",
+    "child_id": "LX7S-QQ9",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted (MA/Newfoundland/Devon Wheelers). No SC hit naming Margaret Wheeler as mother of Jacob Edmond Free. src=3. Do not climb while father has a competing parent-set."
+  },
+  {
+    "parent_id": "M9MM-G3L",
+    "child_id": "LVDY-SZS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS M9MM-G3L same-id m. Mary Rankin ~1777; children include Aaron Cherry Sr 1778–1856. A brother Aaron Cherry 1746–1856 GQV8-3B5 of Thomas × Rachel Emlen is the uncle; chart child 1778 matches the son. Gen 8 already had Aaron Cherry B. Mary Rankin remains ungraded in this pack."
+  },
+  {
+    "parent_id": "GM3B-VMC",
+    "child_id": "LHX9-D9L",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Chattanoogan Iles sketch: John Iles of Halifax NC (will 1812, d.1817) and wife Susannah had children including William, who married Elizabeth Pace and moved to Sugartown LA (d.~1850). Chart given-name-only Susannah 1745–1824 is that wife; mother age 18 at William 1763. src=1."
+  },
+  {
+    "parent_id": "JXZH-437",
+    "child_id": "MWCY-XNQ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted (later DE Patience Howell; Jamestown Paces). No snippet naming Patience Howell 1739 of Halifax as mother of Elizabeth Pace 1761. src=0. Do not climb."
+  },
+  {
+    "parent_id": "G7TM-X11",
+    "child_id": "LVDY-SZS",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D: FamilySearch flags multiple parent-sets for Mary Rankin (merge or detach). FS LVDY-SZS lists her as mother of Aaron Cherry Sr 1778 (age 20); WikiTree Rankin-3537 is William Rankin × Abigail Tassia of Frederick VA/Washington PA and does not list a Cherry child. Dual-parent/conflation unresolved. Husband John Cherry I already B."
+  },
+  {
+    "parent_id": "LCR3-Y4C",
+    "child_id": "LDV4-6Y4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LDV4-6Y4 same-id: Penelope Pierce b.3 Oct 1779 Chesterfield MA, father Jonathan A Pierce. Seven Pierce Families / Heatonbrown: Jonathan Pierce (18 Feb 1748–1807) m. Mary Litchfield 1773 Scituate; resided Chesterfield. src=5. Penelope-as-Aaron-Cherry-wife remains D at gen 8."
+  },
+  {
+    "parent_id": "LCR3-Y41",
+    "child_id": "LDV4-6Y4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Litchfield family circular: Mary b.~1749 m. Jonathan Peirce, resided Chesterfield. FS names her mother of Penelope 1779 (age 30). Same 1773 Scituate marriage."
+  },
+  {
+    "parent_id": "GHN6-9YP",
+    "child_id": "LKQB-LF8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS GHN6-9YP same-id: Dempsey Odom ~1731–1770/84 Beaufort SC, sons Isaac 1760–1795 and Shadrack with Mary Purvis. WikiTree Odom-2154 cites Elizabeth Shown Mills Millie-Breland paper for this Beaufort Dempsey (not the Gates NC Dempsey d.1807). src=10. Pedigree collapse duplicates this couple."
+  },
+  {
+    "parent_id": "L1R8-KNJ",
+    "child_id": "LKQB-LF8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LKQB-LF8 lists Mary Purvis as mother of Isaac Odom 1760–1795. Same Beaufort couple as Dempsey. Search otherwise hits English/VA Mary Purvis Oldham."
+  },
+  {
+    "parent_id": "LTLD-529",
+    "child_id": "L1V1-QJW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LTLD-529 same-id m. Jemimah Jamie Hurley 1756; children include Millie Breland 1768–1820. WikiTree Breland-293: Millie daughter of Abraham Breland (two known children Millie and William). WikiTree Breler-9 DAR A005953. ESM Historic Pathways treats Abraham as probable father. src=9."
+  },
+  {
+    "parent_id": "LZR8-KZ2",
+    "child_id": "L1V1-QJW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Hurley-1815: Jemimah wife of Abraham, 1811 GA passport as 'wife's mother' with William Thornhill (Lydia). FS lists Millie 1768 among her children (age 32). Chart 1812 death vs passport 1811 / Pike MS."
+  },
+  {
+    "parent_id": "GR74-3PS",
+    "child_id": "G319-D4X",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Parent is given-name-only John Merchant Deceased, src=0. WikiTree Merchant-936 is the child (1770 NC–1860 Smith MS) and names no parents. No snippet tying this father to this son. Pedigree collapse duplicates. Do not climb."
+  },
+  {
+    "parent_id": "GR74-XCC",
+    "child_id": "G319-D4X",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Given-name-only Christina Deceased, src=0. Child's WikiTree wife is Elizabeth, not a mother named Christina. No hit. Do not climb."
+  },
+  {
+    "parent_id": "L8S1-HHS",
+    "child_id": "L8S1-4RV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "FS L8S1-HHS lists Nancy Elizabeth Mills 1770–1855 among children of James Mills × Rebecca Hicks. Duplin will proven Sep 1795 and DAR A079923 name Frederick, Ann/Anna Tullos, James Jr, Leonard, Sarena, Thankful, Rebecca Cranford — not Nancy Elizabeth. Thomas Hicks 1775 will likewise omits her. Compiled extra child. src=8. Do not climb."
+  },
+  {
+    "parent_id": "26KF-H8P",
+    "child_id": "L8S1-4RV",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Hicks-6558: Rebecca Hicks Mills; Thankful Hicks 1784 and Thomas Hicks 1775 wills name many Mills grandchildren, not Nancy Elizabeth. Chart death 1779 vs WT ~1793. Same compiled extra-child problem as James. src=1. Do not climb."
+  },
+  {
+    "parent_id": "PZXC-677",
+    "child_id": "LYKL-SCB",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted (PA Dunnstown; Abbeville William Dunn 1780–1856 too young; Essex VA). No snippet naming David Dunn 1774–1862 as son of William Dunn Sr 1754–1850 of SC. src=0. Do not climb."
+  },
+  {
+    "parent_id": "PZXC-25C",
+    "child_id": "LYKL-SCB",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Given-name-only Olive 1756–Deceased, src=0. Search hits modern Olives only. Do not climb."
+  },
+  {
+    "parent_id": "LB7T-JWB",
+    "child_id": "GS7W-CNY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted by English antiquarian Richard Rawlinson 1690–1755. Chart child is unnamed Rawlinson 1780–1816 (already U at gen 8). src=0 Richland SC. No snippet tying this father to this child. Do not climb."
+  },
+  {
+    "parent_id": "KHVF-W3Y",
+    "child_id": "L4XX-ZKJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Strange-1949: Mitchell Strange b.11 Aug 1726 St Peters Parish New Kent, d.1788 Chester SC; children of Mitchell × Elizabeth Tucker include Littlebury Strange 1755–1832. Geni lists Littleberry Mitchell Strange son b.1758 Lunenburg. Chart 1758–1831. src=1."
+  },
+  {
+    "parent_id": "LQ5Y-CMK",
+    "child_id": "L4XX-ZKJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Tucker-15464 lists Littleberry Strange 1755–1831 among nine children of Elizabeth Tucker × Mitchel Strange m.1743. Competing Geneanet death 1748 would be child-after-mother-death; chart/WT 1770 fits mother age 31 at 1758. src=0."
+  },
+  {
+    "parent_id": "LM9Z-1JC",
+    "child_id": "4MNZ-V7L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted by RI/MA Lawtons. Chart bp Georgia, src=1, Thomas Lawton 1753–Deceased as father of Nancy Lawton 1773. No GA snippet names Nancy. Do not climb."
+  },
+  {
+    "parent_id": "LWZC-D2H",
+    "child_id": "4MNZ-V7L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Given-name-style Mary Louisa Lawton 1753–Deceased, src=0, same surname as child. No snippet naming her mother of Nancy 1773 GA. Do not climb."
+  },
+  {
+    "parent_id": "LHPP-DLF",
+    "child_id": "GHW9-YZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Hammack-454: Benjamin Hammack abt 1766–1801 Richmond VA, son of Benedict Hammack × Sarah; Hammack Cousins p.477/499. Benedict will 20 Aug 1805 (WB 9:463, proved 2 Jan 1815) names wife Sarah and sons John, Lewis, William — omits Benjamin who had already died 1801. src=4."
+  },
+  {
+    "parent_id": "LVG2-JRY",
+    "child_id": "GHW9-YZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Hammack-176: Benedict m. Sarah Mary Combs 1765 Richmond VA. Same 1805 will names loving wife Sarah Hammack. Mother of Benjamin 1766 (age 21). Overwharton Parish Stafford bp. src=5."
+  },
+  {
+    "parent_id": "G23M-PB1",
+    "child_id": "GDWX-X21",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Both Charles Scutt and child Patty Scutt are Deceased with no dates. Search polluted (Dorset/modern). src=1. Do not climb."
+  },
+  {
+    "parent_id": "K143-MG2",
+    "child_id": "2Z3V-YYZ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted (Lewis & Clark; England; MD). No snippet naming John Clark 1720–1784 of VA as father of William Clark 1750–1813. src=1. Do not climb."
+  },
+  {
+    "parent_id": "KLQZ-KC5",
+    "child_id": "2Z3V-YYZ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Rhymer-44: Rebecca Rhymer m. John Clarke 1750 Northumberland VA; d. aft 1764 North Farnham. Does not name William 1750. Chart given-name-only Rebecca Rhymer Deceased. Do not climb."
+  },
+  {
+    "parent_id": "9HN9-P3W",
+    "child_id": "2Z3V-YRJ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Thomas Clarke 1730–Deceased, src=0 VA, as father of Catherine Clark 1754–1815. No snippet names this child. Do not climb."
+  },
+  {
+    "parent_id": "9HN9-P3C",
+    "child_id": "2Z3V-YRJ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Given-name-only Elizabeth 1735–Deceased, src=1. No snippet naming her mother of Catherine Clark 1754. Do not climb."
+  },
+  {
+    "parent_id": "LX7L-CYH",
+    "child_id": "LC65-L95",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FAG 25220804 / St Paul Edenton: Col Thomas Walker Nash will proved Chowan 1769 names four children by second wife Mary Holdcroft: Elizabeth, John, Mary, Henry. Chart John Abner Nash 1760 is that John. Brother of Gov. Abner Nash. src=6."
+  },
+  {
+    "parent_id": "GKQF-ZG1",
+    "child_id": "LC65-L95",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1769 will: four children by second wife Mary Holdcroft include John. FS LC65-L95 lists Mary Acton Holdcroft as mother of John Abner Nash 1760 (age 20). Chart death 1765 vs will implying she predeceased 1769. src=1."
+  },
+  {
+    "parent_id": "LCMH-5KM",
+    "child_id": "G9CR-7RW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "NCpedia / Wikipedia: John Nisbet 1738–1817, Rowan/Iredell patriot, m. Mary Osborne; eight children James, Nancy, Sarah, Elizabeth, Alexander, John, Milus, Jane. Chart Nancy Jane Nesbitt 1764–1786 is that Nancy (WT dates drift to 1773). src=7. Mary Lloyd Osborne not in this pack."
+  },
+  {
+    "parent_id": "LCMH-52N",
+    "child_id": "G9CR-7RW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geni: Mary Lloyd Nisbet (Osborne) 1746–1788, wife of John N. Nisbet Jr., mother of Nancy Jane Nash b.1764. NCpedia/Wikipedia already listed Nancy among eight children of John × Mary Osborne. src=3. Husband already B."
+  },
+  {
+    "parent_id": "PZZX-L5V",
+    "child_id": "L5PT-QFG",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LK6N-7KG: John Abercrombie 1736–1816 m. Sarah Ann Kellett 1764; children include Colville Calvin Abercrombie 1762–1847. WikiTree Abercrombie-256: Colville son of John Abercrombie × Ann Kellett. Geni Dr John Joseph names Colville b.4 Oct 1762. Chart bp Scotland vs Laurens SC. src=0."
+  },
+  {
+    "parent_id": "PZZ6-PR2",
+    "child_id": "L5PT-QFG",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same couple. FS LRBS-BCW / Geni: Sarah Ann Kellett mother of Colville Calvin Abercrombie 1762. WikiTree Kellett-296. Chart given-name Ann Kellett Deceased. Compiled marriage 1764 vs child 1762 is date drift."
+  },
+  {
+    "parent_id": "LY7V-XZN",
+    "child_id": "L51P-V7M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LY7V-XZN same-id m. Mary Cox 5 May 1753; children include Mary Ruth Lindley 1764–1852 (chart child id). WikiTree Lindley-45 lists Mary Ruth L51P-V7M. NCpedia: Loyalist Capt. James Lindley hanged Ninety-Six Apr 1779. src=23."
+  },
+  {
+    "parent_id": "MMQX-514",
+    "child_id": "L51P-V7M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS MMQX-514 same-id: Mary Cox b.22 Sep 1735 Hockessin, children include Mary Ruth Lindley 1764–1852. WikiTree Cox-1960 same list. NCpedia: widow Mary living Orange NC 1790. src=20."
+  },
+  {
+    "parent_id": "PMMH-BFF",
+    "child_id": "GL82-XKD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Fletcher-3768: John Fletcher 1717–1758 Birmingham Chester PA m. Eleanor Hindman 1735. Geni/Genealogy.com/WeRelate: son Robert Fletcher b.1738 Chester, d.16 Aug 1797 Greenup/Green KY, DAR A040893. src=1."
+  },
+  {
+    "parent_id": "L416-77M",
+    "child_id": "GL82-XKD",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D: FamilySearch flags multiple parent-sets for Eleanor Hindman (merge or detach). WikiTree Hindman-95 / Chalkley depositions 1749: sister of Rev. John Hindman, wife of John Fletcher Sr., mother of Robert 1738. Dual-parent unresolved. Husband already B."
+  },
+  {
+    "parent_id": "LVVN-S7W",
+    "child_id": "LZP2-XKV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Genealogy.com: children of John Stell × Susannah Malone include Robert Malone Stell b.4 Mar 1767 Newberry SC d.2 Sep 1814 Morgan GA. WikiTree Stell-85 DAR A108453 lists Robert Malone among children. src=2."
+  },
+  {
+    "parent_id": "9HJ1-QZP",
+    "child_id": "LZP2-XKV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same couple m.~1764 Amelia/Northampton. Johnson family genealogy and DAR child list name Robert Malone Stell. src=6 Stepney Parish Somerset MD bp."
+  },
+  {
+    "parent_id": "KNY6-KK8",
+    "child_id": "KNYX-8VM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS KNY6-KK8 same-id: Thomas Franklin Jones 1745–1781 Newberry/Edgefield, children with Catherine Littleton include Elizabeth Jones 1770–1814. src=7."
+  },
+  {
+    "parent_id": "GWHD-T4V",
+    "child_id": "KNYX-8VM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FS timeline: Catherine Littleton mother of Elizabeth Jones 1770 (age 24). WikiTree Littleton-621 is a stub with date drift 1751–1790 vs chart 1746–1792. src=3."
+  },
+  {
+    "parent_id": "P8SQ-8R5",
+    "child_id": "KN13-ZLK",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Parent is given-name-only J Calhoon Deceased, src=0. Search polluted (KY congressman; Cumberland PA Calhoons). No snippet tying this father to John Calhoon 1764–1821. Pedigree collapse duplicates. Do not climb."
+  },
+  {
+    "parent_id": "GN8R-T8F",
+    "child_id": "LQRS-ND5",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search polluted (MA/VA/NC Walkers). No snippet naming Martha Walker 1776–1825 as daughter of William Walker 1750–1797 of Cumberland PA. src=2. Pedigree collapse duplicates. Do not climb."
+  },
+  {
+    "parent_id": "GN8R-GJB",
+    "child_id": "LQRS-ND5",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D: mother age 14 at Martha Walker 1776 (Prudence Howard 1762–1847). Northern Ireland bp vs Cumberland PA father. Search polluted. Pedigree collapse duplicates."
+  },
+  {
+    "parent_id": "GNYV-95B",
+    "child_id": "LT4H-BSW",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS GNYV-95B same-id m. Mary Ann Sorrell 1738; children include William F. Morris 1763–1826. Chart 1714–1822 (age 108) is compiled longevity; Geni deaths 1789/1790 Montgomery NC are the workable dates. Father age 49 at William. src=6."
+  },
+  {
+    "parent_id": "G54L-5LD",
+    "child_id": "LT4H-BSW",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "FS LT4H-BSW names Mary Ann Sorrell mother of William F. Morris 1763. WikiTree Sorrell-596 lists a different William (1755–1830) among six children and does not name William F. 1763."
+  },
+  {
+    "parent_id": "LT4H-1Z7",
+    "child_id": "LT4H-BGY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LT4H-1Z7 lists Charlotte Warner 1775. WikiTree Warner-4146 family notes: daughter Charlotte b. 10 Apr 1775 married Billy Morris and settled on the Pearl River."
+  },
+  {
+    "parent_id": "LT4C-QLS",
+    "child_id": "LT4H-BGY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Warner-4146 notes and FS LT4C-QLS: Elizabeth Sarah Cargill m. Wettenhall Warner 29 Jul 1766; Charlotte 1775 is their daughter."
+  },
+  {
+    "parent_id": "LD7C-STQ",
+    "child_id": "GWSD-JWH",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS timeline on the George Thomas / Jane Johnston cluster lists James Thomas 1770–1850 among their children. No will or second compilation naming him was in the snippets."
+  },
+  {
+    "parent_id": "LQRS-76L",
+    "child_id": "GWSD-JWH",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FS cluster lists Jane Johnston 1725–1770 as mother of James Thomas 1770. Death year matches the birth; not independently proven."
+  },
+  {
+    "parent_id": "L7F1-ZQ3",
+    "child_id": "KZ61-TGS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Lee-3805, citing the Sirmon descendant book: Bridget Lee b. 1785, daughter of Solomon Lee and Temperance Spearman, married James Thomas and settled in St. Tammany Parish."
+  },
+  {
+    "parent_id": "GQFK-8KR",
+    "child_id": "KZ61-TGS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Lee-3805 / Lee-3807 list names Temperance Spearman as mother of Bridget who married James Thomas."
+  },
+  {
+    "parent_id": "G828-K46",
+    "child_id": "LH8V-17S",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Arensbourg-1: Claude Adrien de LaGroue m. Françoise Louise d'Arensbourg 9 Aug 1751 at St. Louis Cathedral. The visible child list did not name Charles Adrien Lagroue de La Tourelle; chart src=0."
+  },
+  {
+    "parent_id": "G828-K41",
+    "child_id": "LH8V-17S",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "She is the documented 1751 wife of Claude de LaGroue (WT Arensbourg-1). Snippets did not name Charles Adrien Lagroue as their son."
+  },
+  {
+    "parent_id": "LCX9-55H",
+    "child_id": "M83V-4SP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree D’Arensbourg-1 and Geneanet (jelumac) list Charlotte Rose de La Chaise 1754 among the children of Jacques de la Chaise and Marguerite d'Arensbourg."
+  },
+  {
+    "parent_id": "LH8L-PYL",
+    "child_id": "M83V-4SP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same lists name Marguerite Marie/Louise d'Arensbourg as mother of Charlotte Rose de La Chaise 1754."
+  },
+  {
+    "parent_id": "LH6F-HHH",
+    "child_id": "M369-16M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LH6F-HHH and Geni list Charles Frederick d'Arensbourg 1737 as son of Karl Friedrich d'Arensbourg and Marguerite Metzer. WeRelate cites Grace King, Creole Families of New Orleans."
+  },
+  {
+    "parent_id": "L5DM-SWC",
+    "child_id": "M369-16M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FS/Geni/WeRelate cluster: Marguerite Metzer is mother of Charles Frederick d'Arensbourg II, b. 1737 on the German Coast."
+  },
+  {
+    "parent_id": "LZ8K-7SV",
+    "child_id": "MXPQ-L5G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Find a Grave 193273321 transcribes the New Orleans baptism: Marie Françoise de la Vergne b. 7 Dec 1748, daughter of Charles de la Vergne and Marie Josephe Carriere. Chart 'Francoise Marie' is that child."
+  },
+  {
+    "parent_id": "LZ8K-WRH",
+    "child_id": "MXPQ-L5G",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same baptism and the 6 Jun 1739 Garic marriage contract (Geni): Marie Josephe Carriere, daughter of André Carriere, wife of Charles de la Vergne, mother of Marie Françoise b. 1748."
+  },
+  {
+    "parent_id": "LHZD-QVP",
+    "child_id": "LHZD-3WY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Chisolm Genealogy: Alexander Chisolm will 11 Sep 1810 (proved 4 Jan 1811) leaves one-fifth to son George Chisolm, b. 19 Feb 1772. WikiTree Chisolm-225 names Alexander and Christina as his parents."
+  },
+  {
+    "parent_id": "LHDF-MJS",
+    "child_id": "LHZD-3WY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will and Chisolm Genealogy: George was a son of Alexander's first wife Christina Chisolm (m. 5 Oct 1766; d. between 1778 and 1786)."
+  },
+  {
+    "parent_id": "KZCQ-F1D",
+    "child_id": "KN3Y-YGR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DAR A209834 Hext Prioleau, SC lieutenant: associated child Providence Hext, spouse Margaret Williams. Married 9 Apr 1775; Providence b. 28 Jul 1776."
+  },
+  {
+    "parent_id": "L71L-DVC",
+    "child_id": "KN3Y-YGR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same DAR lineage names Margaret Williams as Hext Prioleau's wife and mother of Providence Hext Prioleau (1776–1860), who married George Chisolm."
+  },
+  {
+    "parent_id": "LZ3L-KXN",
+    "child_id": "K4BF-TF1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Johann Jacob Fickeisen (dates only 'Deceased') as father of Friedrich Jacob Fickeisen 1776. High source count is not a named child list."
+  },
+  {
+    "parent_id": "LZ3L-23T",
+    "child_id": "K4BF-TF1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Anna Martha Brauchler as mother of Friedrich Jacob Fickeisen 1776."
+  },
+  {
+    "parent_id": "G67F-8JH",
+    "child_id": "M11B-CJ3",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. FamilySearch shows both a dual parent-set and a different person in the preferred pedigree. Snippets did not identify Julianne Henrietta Grimm 1784 as his daughter."
+  },
+  {
+    "parent_id": "M1B6-ZZD",
+    "child_id": "M11B-CJ3",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Juliana Culmann as mother of Julianne Henrietta Grimm 1784. Father slot stays disputed."
+  },
+  {
+    "parent_id": "LBYX-9DQ",
+    "child_id": "M66Z-Q9V",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Given name only (Hannah, life 'Deceased', no surname). Nothing names her mother of William Thomas 1790."
+  },
+  {
+    "parent_id": "L89J-BMQ",
+    "child_id": "LHFD-81X",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Fogleman/Sannwald parish study (Westheim): Georg Michael emigrated with siblings as a son of Hans Georg Vogelmann and Anna Margaretha Sannwald. Not the NC Johann Georg baptized 1 Sep 1732."
+  },
+  {
+    "parent_id": "L89J-B94",
+    "child_id": "LHFD-81X",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same study: Anna Margaretha Sannwald/Sanwald is mother of the emigrating sons including Georg Michael. WikiTree Sannwald-9."
+  },
+  {
+    "parent_id": "KGM6-K5V",
+    "child_id": "9JWV-FMK",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Aymond-18 and Geni: Jean Baptiste Aymond b. abt 1750, son of Michel Aymond and Catherine Aron, came to Louisiana with them before 1771 (Bordelon, My Aymond Family). 'Mortsi' is not a real Alsatian place."
+  },
+  {
+    "parent_id": "LCC1-2GN",
+    "child_id": "9JWV-FMK",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Aymond-18 / Geni: Catherine Aron is mother of Jean Baptiste Pierre Aymond. Sister Marie m. Noel Etienne Arvieux 6 Aug 1771, St. James."
+  },
+  {
+    "parent_id": "L4J2-NM8",
+    "child_id": "218N-WC8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Ozanne_dit_Dozat-1, DOBR Pointe Coupee 1b p.62: Antoine Francois Doza b. 4 Sep 1755, son of Antoine Doza. Father buried 30 Jul 1755 — posthumous, same year, not a broken link."
+  },
+  {
+    "parent_id": "L5ZF-6DJ",
+    "child_id": "218N-WC8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same baptism (PCP-1,154): mother Marie Catherine Frederic, m. Antoine Doza 12 Aug 1749. FS dual-parent flag is not a second couple in the parish register. SAR patriot sketch repeats this parentage."
+  },
+  {
+    "parent_id": "L67Y-1PD",
+    "child_id": "L5PL-XFT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DOBR Pointe Coupee: Angelique Dezotel bn. 16 Feb 1763, daughter of Jacques Dezotel dit La Pointe and Anne Stephen (PCP-1, 244). WikiTree Desautels-25."
+  },
+  {
+    "parent_id": "KZFQ-JKD",
+    "child_id": "L5PL-XFT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same baptism and 30 May 1778 marriage (PCP-2, 197): Angelique Desautels, daughter of Jacques and Anne Stephan, married Antoine Doza."
+  },
+  {
+    "parent_id": "GG66-4SZ",
+    "child_id": "KJZF-LM2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geneanet (manonrecouly): Pierre Recouly of Montpellier (1737–1812), tonnelier, married Elizabeth Conquet of Sète; children include Claude Recouly."
+  },
+  {
+    "parent_id": "GG66-S2T",
+    "child_id": "KJZF-LM2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Geneanet tree names Elizabeth Conquet 1741–1802 as mother of Claude Recouly. Marriage dated 22 Aug 1761 at Sète."
+  },
+  {
+    "parent_id": "218N-WC8",
+    "child_id": "27YG-WP4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geni and the Runnels compilation list Heloise/Eloise Dauzat b. 1783 as a daughter of Antoine Francois Dauzat and Angelique Desautels."
+  },
+  {
+    "parent_id": "L5PL-XFT",
+    "child_id": "27YG-WP4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same lists: Eloise Dauzat 1783 is a child of Angelique Deshautels and Antoine Francois Dauzat (m. 30 May 1778, Pointe Coupee)."
+  },
+  {
+    "parent_id": "G9K3-JMM",
+    "child_id": "L6V6-Q6J",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The Beauvais Fouquier (pagedhistoire) and Charlotte Sutaine had Charles 1779, Louis b. 26 Oct 1780 at Elbeuf, and Louise 1789 — not chart Charles Pierre 1780 who married Helen Aymond in Avoyelles. Likely a French graft."
+  },
+  {
+    "parent_id": "G9K3-FYG",
+    "child_id": "L6V6-Q6J",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same mismatch: Charlotte Sophie Sutaine is the Beauvais wife, not shown as mother of the Avoyelles Charles Pierre Fouquier."
+  },
+  {
+    "parent_id": "9JWV-FMK",
+    "child_id": "L78P-QB4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geni timeline: Hélène 'Ellen' Fouquier (Aymond) b. 22 Mar 1790, daughter of Jean-Baptiste Pierre Aymond. Chart Helen Aymond 1790."
+  },
+  {
+    "parent_id": "GBG7-FKJ",
+    "child_id": "GBG7-7GM",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Snippets did not name Francois Oge/Oger of Fyé, Sarthe (1759–1795) as father of Francois Oge 1786. Nearby hits are a Quebec Auger and unrelated Maine Ogers. src=0."
+  },
+  {
+    "parent_id": "GBGQ-6H8",
+    "child_id": "GBG7-7GM",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Juliette Coutelle of Assé-le-Bérenger as mother of Francois Oge 1786. src=0."
+  },
+  {
+    "parent_id": "LZGS-8HV",
+    "child_id": "L7CX-F3L",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Acadians in Gray and WikiTree Castille-99: Jean-Baptiste Castille b. c1770/71, son of Joseph Castille and Rose Osite Landry. Attakapas 1777 census lists son Jean-Baptiste age 8. She witnessed his 11 Jul 1797 Opelousas marriage contract."
+  },
+  {
+    "parent_id": "LY31-3P2",
+    "child_id": "L7CX-F3L",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Landry-1079 lists Jean Baptiste Castille (~1770) among the children of Rose Osithe Landry and Joseph Castille. 1797 marriage-contract witness."
+  },
+  {
+    "parent_id": "9QNK-TXF",
+    "child_id": "L7C3-X94",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hébert SWLR: STELLY, Julie (Francois & Marie Therese BERTHELOT) bt. 24 Jun 1779, Opelousas (v.1-A, p.17). WikiTree Stelly-475. Marriage contract 23 May 1774, St. John the Baptist."
+  },
+  {
+    "parent_id": "9V46-5K8",
+    "child_id": "L7C3-X94",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Opelousas baptism names Marie Therese Berthelot. FS dual-parent flag is her later marriage to Dr. Francois Simon Robin (19 Mar 1810), who had no children with her (WT Berthelot-245)."
+  },
+  {
+    "parent_id": "LDP6-HWG",
+    "child_id": "L7GK-4T6",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Pittsylvania Deed Book 13 (1803): heirs of William Shelton, including William Shelton Jr, deed their shares to brother Josiah. FS L7GK-4T6 names this William as the son born 4 Jan 1763."
+  },
+  {
+    "parent_id": "LZN7-D3M",
+    "child_id": "L7GK-4T6",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Hannah Yates, widow and administratrix of William Shelton (Pittsylvania OB 7, p.313, Feb 1794). The 1803 heir deed is the child list; William Jr is one of them. WT Yates-935."
+  },
+  {
+    "parent_id": "L17H-YKV",
+    "child_id": "L2LZ-WNF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Caswell will of Gideon Hogg, 7 Nov 1790, names daughter Rebeccah Shelton. WikiTree Hogg-331. DAR A132655."
+  },
+  {
+    "parent_id": "9KZV-NND",
+    "child_id": "L2LZ-WNF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Judith and daughter Rebeccah Shelton. The dual-parent flag is a second Gideon profile, not a second mother of this Rebecca."
+  },
+  {
+    "parent_id": "GSH1-VVW",
+    "child_id": "9WD5-LBY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Bedford Joseph/Josiah Chaffin's 1815 will names Stephen, Joshua, John, Joseph, Rebecca, Rhoda, and Polly — not Elias. The 1999 Chaffin Genealogy attaches Elias to a different Joseph and Mary Moor who went to Burke NC. Do not climb the Bedford man."
+  },
+  {
+    "parent_id": "LHV4-LBW",
+    "child_id": "LHTR-4M7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Cannon-1719: Minos Cannon's 19 Jan 1828 Williamson Co. TN will names daughter Euphamia ('Famey') Cannon b. 1788, who married Samuel Gentry. Chart Frances Euphemia Cannon 1788."
+  },
+  {
+    "parent_id": "LHLP-Y7L",
+    "child_id": "LHTR-4M7",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Thompson-17942: Letitia's 21 Nov 1831 will and Minos's will both name Famey. FS dual-parent flag is not a second mother in those wills."
+  },
+  {
+    "parent_id": "G4RC-Z4F",
+    "child_id": "9WD5-LBY",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Mother born 1749, Elias 1763 (age 14). FS itself says she was 14. Also the Burke NC Mary Moor attachment is a different couple from the Bedford Chaffin will."
+  },
+  {
+    "parent_id": "L67S-BD6",
+    "child_id": "L416-BTY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Gibson-3966: Nicholas Gentry (d. by 1783, Davidson Co.) and wife Elizabeth had a son Samuel Reuben Gentry. Nicholas Jr was born Sep 1782, so a 1778 Samuel fits."
+  },
+  {
+    "parent_id": "L67S-B5D",
+    "child_id": "L416-BTY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The sourced widow is Elizabeth Gibson, who remarried Isaac Mayfield (Gentry Journal). Chart calls her Elizabeth Perkins. Surname does not match; do not climb."
+  },
+  {
+    "parent_id": "GCSP-JX7",
+    "child_id": "L5RF-PH4",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "YourRoots: Henry Bailey b. 1784, son of Philip Bailey and first wife Amey Whitehorn. FS GCSP-JX7 also lists Henry 1785. Philip married Elizabeth McGlamre only on 2 Jan 1794."
+  },
+  {
+    "parent_id": "LWDF-QWH",
+    "child_id": "L5RF-PH4",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Elizabeth McGlamre married Philip Bailey 2 Jan 1794 (WeRelate / FS). Henry was born 1784/85, nine years earlier, and is placed with first wife Amey Whitehorn. She is not his mother."
+  },
+  {
+    "parent_id": "LCLN-CNX",
+    "child_id": "284H-ZWP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DAR A033850 proven child Frances P. Mecklenburg will of William Drumright, proved 20 Oct 1828, item 3: Frances Arnold, wife of Joseph Arnold. FS 284H-ZWP."
+  },
+  {
+    "parent_id": "G4L5-WVT",
+    "child_id": "284H-ZWP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DAR spouse #2 Stacy Andrews; FAG 72692095 lists Frances Drumright 1784 among Stacy and William's children. Second marriage about 1782."
+  },
+  {
+    "parent_id": "KV2Y-753",
+    "child_id": "27SD-671",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Amis-73 and Ogilvie-433: Nancy Ogilvie 1787 (FS 27SD-671) is a child of William James Harris Ogilvie and Elizabeth Amis, m. 26 Oct 1781 Granville NC."
+  },
+  {
+    "parent_id": "KP9B-SSZ",
+    "child_id": "27SD-671",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same lists. DAR A085795 child Harris, spouse Elizabeth Amis, is this couple's generation, not Nancy's; Nancy herself is named on the WikiTree child list."
+  },
+  {
+    "parent_id": "GXM5-P6H",
+    "child_id": "GFP8-P1M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DAR A207943 John Arnold, spouse Susanna Johnson, child Joseph A. who married Frances P. Drumright. Isaac Johnson's 21 Jan 1815 Mecklenburg will names grandson Joseph Arnold."
+  },
+  {
+    "parent_id": "GXM5-RSS",
+    "child_id": "GFP8-P1M",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same DAR spouse and the Johnson will. The daughter's given name is filled in as Susanna by the DAR application; the will names the grandsons without her first name."
+  },
+  {
+    "parent_id": "L4S2-3GG",
+    "child_id": "LH8C-63S",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Francis Jackson's own sketch in History of Versailles: married Elizabeth Woosman Childress 5 Feb 1789; 'her first son was born 15 Dec 1789 and named Thomas.' FAG 51108010."
+  },
+  {
+    "parent_id": "278K-21D",
+    "child_id": "LH8C-63S",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same sketch and FAG 43094653 list Thomas b. 15 Dec 1789 as her son. FS dual-parent flag is not a second mother in that account. WikiTree Jackson-36386."
+  },
+  {
+    "parent_id": "G6YJ-6Q3",
+    "child_id": "LC5V-V9P",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Snippets did not name Thomas Hendrix of Shrewsbury as father of Ruth Hendrix 1787 who married Thomas Jackson. A different Ruth Hendrix (1794–1815) is Adam Hendrix's daughter."
+  },
+  {
+    "parent_id": "LKGG-88D",
+    "child_id": "LC5V-V9P",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Mary Franklin as mother of Ruth Hendrix 1787."
+  },
+  {
+    "parent_id": "L29V-WHF",
+    "child_id": "KCB8-87K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Lamb-265, Bush River Monthly Meeting: William Lamb b. 16 Nov 1769, son of Thomas Lamb and Sarah. Thomas's 1816 will also names the children."
+  },
+  {
+    "parent_id": "LRFH-H2T",
+    "child_id": "KCB8-87K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Quaker list: mother Sarah, maiden name unknown, d. 15 Apr 1791. Chart 'Sarah' with no surname is that wife."
+  },
+  {
+    "parent_id": "LH7P-QMB",
+    "child_id": "L1WC-GML",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Spartanburg will of Enoch Floyd, 10 Feb 1793 (WT Floyd-1938): daughter Margaret Floyd shares the personal estate. WikiTree Floyd-2080."
+  },
+  {
+    "parent_id": "L1WW-CFX",
+    "child_id": "L1WC-GML",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will leaves a widow's life estate to wife Margaret and names daughter Margaret. FS dual-parent flag is not a second mother in the will. Chart death 1793 fits the will better than a 1774 death."
+  },
+  {
+    "parent_id": "LTFB-4D7",
+    "child_id": "LC8K-RP5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LTFB-4D7 timeline and WikiTree Vance-324 list Mary Ann Ray among the children of John Ray and Susan Vance."
+  },
+  {
+    "parent_id": "LR92-RLW",
+    "child_id": "LC8K-RP5",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Vance-324 child list names Mary Ann Ray. No will was in the snippets; the compiled list and FS agree."
+  },
+  {
+    "parent_id": "L4VJ-WGV",
+    "child_id": "2Z4D-41F",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Snippets did not name Larkin Anderson Covington 1796 as a son of John Henry Covington and Jane Hankins. A later Larkin A. Covington of Falls County TX is a different man."
+  },
+  {
+    "parent_id": "L4JG-K4V",
+    "child_id": "2Z4D-41F",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Jane Davis Hankins as mother of Larkin Anderson Covington 1796."
+  },
+  {
+    "parent_id": "LHJD-WBB",
+    "child_id": "LHJD-WTR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LHJD-WTR and MyHeritage: Ann S. Menefee b. 1799, daughter of Nimrod Menefee and Jemima Ingram, m. Larkin Covington 1817. Marriage bond 12 Oct 1788, Montgomery VA (Worrell)."
+  },
+  {
+    "parent_id": "LVJ7-DTH",
+    "child_id": "LHJD-WTR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same sources. Jemima was about 27 in 1799. Bond: Jemima Ingram, daughter of Samuel Ingram, surety Aaron Ingram."
+  },
+  {
+    "parent_id": "LTW3-3G4",
+    "child_id": "LZ4J-64X",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS LTW3-3G4 and WeRelate list David Wicker 1775–1821 as a son of Thomas Wicker and wife Elizabeth. He died before Thomas's 3 Jan 1824 Chatham will, which names the surviving children."
+  },
+  {
+    "parent_id": "PMYF-CML",
+    "child_id": "LZ4J-64X",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The wife is called Elizabeth with no surname in WeRelate. Chart surname Nott is not in the will snippet. Do not climb the Nott identity."
+  },
+  {
+    "parent_id": "MQ2H-JVW",
+    "child_id": "LCQ4-M96",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Richmond Co. will of Mansfield Jenkins, 1 Nov 1754, proved 7 Apr 1755, names son Jesse Jenkins. Quoted on the Farmer genealogy page from the Mason Hall account."
+  },
+  {
+    "parent_id": "G6HF-32V",
+    "child_id": "LCQ4-M96",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Patience, and her own Warren Co. will lists Jesse. Northern Neck marriages call her Patience Ford, not Hood; the wife in the will is the mother."
+  },
+  {
+    "parent_id": "LBRP-FL6",
+    "child_id": "MRYL-K1Y",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geni lists Martha House 1750 as daughter of William House and Elizabeth. No will was in the snippets. Dates fit."
+  },
+  {
+    "parent_id": "LBRP-ZBP",
+    "child_id": "MRYL-K1Y",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same Geni profile names Elizabeth as Martha's mother. src=0; not independently proved."
+  },
+  {
+    "parent_id": "PSGL-TTK",
+    "child_id": "LTRG-1T9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Laurence-901, citing Chappell's Ross Family, lists Henry Lawrence among the children of Richard Lawrence and second wife Isabella Ross. FS timeline includes Henry 1777."
+  },
+  {
+    "parent_id": "LJK4-L68",
+    "child_id": "LTRG-1T9",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list. Isabella was about 31 in 1777. Richard's older children by Susanna Claiborne are a different set."
+  },
+  {
+    "parent_id": "LVYC-5SX",
+    "child_id": "L8QX-7YC",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Dual parent-set. FS L8QX-7YC now prefers Joseph Landrum Jr (age about 1 in 1729). Compiled Landrum file and WikiTree Landrum-370 attach Reuben b. 1729 to John (b. ca 1700) and Mary. The 1707 Essex will names Thomas, Elizabeth, John, and Martha — that testator died before Reuben was born. No will of the 1696 man names Reuben."
+  },
+  {
+    "parent_id": "GKBP-VGK",
+    "child_id": "L8QX-7YC",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Geni and FS call Reuben's mother Mary, sometimes Buckner, sometimes Chew. Geni says evidence is needed that she was a Buckner. Do not climb the Buckner identity."
+  },
+  {
+    "parent_id": "L8BP-998",
+    "child_id": "LCCZ-5ZN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Wells-4139 is Philip Wells of Laurens SC and Green Co KY. Snippets do not name a daughter Rebecca Wells b. 1790."
+  },
+  {
+    "parent_id": "LZT2-PNQ",
+    "child_id": "LCCZ-5ZN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same Wells sketch. Elizabeth Cook as Philip's wife is marked citation-needed, and Rebecca is not in the child list."
+  },
+  {
+    "parent_id": "MB3C-96D",
+    "child_id": "93RC-7HF",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "FS alone names John Bean as father of Alexander Bean b. 1751 Aberdeen, later of Edgefield. WikiTree Bean-3932 calls the immigrant Alexander MacBean and does not name John Bean. No parish snippet."
+  },
+  {
+    "parent_id": "K8SP-75L",
+    "child_id": "93RC-7HF",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Margaret Scroggs appears only on the FS life sketch. The Clan MacBean note does not name her. Do not climb."
+  },
+  {
+    "parent_id": "MPPD-R34",
+    "child_id": "LDYP-KYB",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Thomas Youngblood's Edgefield will, 28 Mar 1816, names son Jacob among five sons and makes him an executor. WikiTree Youngblood-291."
+  },
+  {
+    "parent_id": "K4VQ-2LG",
+    "child_id": "LDYP-KYB",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will leaves the personal estate to an unnamed wife. WikiTree Youngblood-291 identifies her as Amy Hopkins and lists Jacob (m. Sarah Still) as their son. Geni agrees."
+  },
+  {
+    "parent_id": "LTQK-9TM",
+    "child_id": "GPBM-6CM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "John Still's Edgefield will, 26 Sep 1797, Box 45 pkg 1932, names daughter Sarah Youngblood. WikiTree Still-223. Not Joseph Still of the Bean line."
+  },
+  {
+    "parent_id": "MZWT-N8J",
+    "child_id": "GPBM-6CM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Jane. WikiTree treats Jane Jolly, daughter of Joseph Jolly Sr, as Sarah's mother. Geni's Jane Cockcroft is a competing surname; the will's wife is the mother."
+  },
+  {
+    "parent_id": "L6GZ-KHD",
+    "child_id": "KLFD-X85",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Garrett daybook copied from the family Bible lists Nicholas Ware Garrett, b. 11 Mar 1765, as a son of Edward Garrett and Ann West Owsley. Transcribed on the Bramlett site and genealogy.com."
+  },
+  {
+    "parent_id": "KN6H-19Y",
+    "child_id": "KLFD-X85",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same daybook. Ann West Owsley married Edward Garrett 2 Jun 1759. Nicholas is the fourth child. FS KN6H-19Y lists him among her children."
+  },
+  {
+    "parent_id": "LD1B-53P",
+    "child_id": "L6NB-GF2",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS and Geni list Sarah Bramlett b. 8 Apr 1769, wife of Nicholas Ware Garrett, as a daughter of Henry Bramlett and Margaret Ballard. No will snippet names her. Dates fit. src=0 on the father."
+  },
+  {
+    "parent_id": "LZXF-1MV",
+    "child_id": "L6NB-GF2",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled child list. WikiTree Ballard-5686 does not name Sarah. Not proved by a will."
+  },
+  {
+    "parent_id": "LTYX-PTC",
+    "child_id": "KZC8-88Q",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Find a Grave 100345651 and WikiTree Singletary-253 list William Randolph Singletary as a son of Joseph Singletary and Mary FitzRandolph. Joseph's 4 Jul 1772 Bladen will (WB 2 p.505) names wife Mary and minor children; it does not print the sons' names."
+  },
+  {
+    "parent_id": "LC84-3Q7",
+    "child_id": "KZC8-88Q",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list. Mary's own memorial (FAG 100344415) names William. The will names wife Mary."
+  },
+  {
+    "parent_id": "LTYX-PTC",
+    "child_id": "LXW3-J9D",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same FAG child list names Josiah Singletary b. 24 Oct 1763. WikiTree Singletary-255 calls him the son of Joseph and Mary FitzRandolph. The 1772 will covers the minor children without naming them."
+  },
+  {
+    "parent_id": "LC84-3Q7",
+    "child_id": "LXW3-J9D",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Mary's memorial lists Josiah among her children. Wife named in the 1772 will."
+  },
+  {
+    "parent_id": "L4WW-T9X",
+    "child_id": "K8X3-F9K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Nuncupative will of John Harrison of Bladen, 5 Jan 1785, names daughters Susan and M. Ann and makes 'my loving son William Singletary' executor. Susan is Susannah, wife of William Randolph Singletary."
+  },
+  {
+    "parent_id": "MVLG-NW2",
+    "child_id": "K8X3-F9K",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Margaret Harrison. WikiTree Harrison-8482 and WeRelate call her Margaret Isham; Isham is not in the will. The wife in the will is the mother."
+  },
+  {
+    "parent_id": "L4WW-T9X",
+    "child_id": "LMWR-9GF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same 1785 will names daughter M. Ann, matching Sarah Ann Harrison who married Josiah Singletary."
+  },
+  {
+    "parent_id": "MVLG-NW2",
+    "child_id": "LMWR-9GF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will's wife Margaret. WeRelate lists Sarah Ann Harrison 1759 as a daughter of John Harrison and Margaret Isham."
+  },
+  {
+    "parent_id": "LBD8-WJR",
+    "child_id": "L5B4-5KS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Peter Bagley's will, 1 Mar 1756, Sussex VA, gives ten shillings to 'my Son Henry Bagley.' WikiTree Begley-86."
+  },
+  {
+    "parent_id": "LTPK-T2Z",
+    "child_id": "L5B4-5KS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Begley-68 calls Henry the son of Peter Bagley and Elizabeth Perry. She died 19 Jan 1756, before the March will, so she is not named in it. The Staffordshire birth and burial on FS look like a bad merge; the Sussex wife is the mother."
+  },
+  {
+    "parent_id": "LKTJ-4G4",
+    "child_id": "L2KN-8S8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John Cook's 1799 Duplin will names a daughter Elizabeth Newton, deceased, among 13 children. That married name does not match Elizabeth Cook, wife of Henry Bagley. No snippet names this Elizabeth as his daughter."
+  },
+  {
+    "parent_id": "KP3T-BXM",
+    "child_id": "GMP8-K48",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Quaker family history (Whinnery-Sprague) says Patrick Whinnery left Ireland in 1738 with sons Patrick Jr and Robert. WikiTree Whinery-24. No will."
+  },
+  {
+    "parent_id": "P3MW-5CR",
+    "child_id": "GMP8-K48",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The Isabella Smith in the snippets is Robert Whinery's wife, born about 1729, not Patrick Sr's wife. The history leaves Patrick Sr's wife unnamed in Ireland. Do not climb this Isabella."
+  },
+  {
+    "parent_id": "MTY8-DTV",
+    "child_id": "2CNY-X6R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Noblit descendant list (jlwhite) and WikiTree Noblett-35 name Sarah Noblit b. 1741 as a daughter of John Noblet and Ann Brereton. No will text was in the snippets."
+  },
+  {
+    "parent_id": "LZKB-XXT",
+    "child_id": "2CNY-X6R",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list. Ann Brereton married John 18 Jan 1737; Sarah in 1741 fits. WikiTree marks the marriage citation-needed."
+  },
+  {
+    "parent_id": "L71V-GGL",
+    "child_id": "GM2L-SQT",
+    "grade": "D",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keep D. Dual parent-set, and no snippet names John Campbell of Kirkoswald and Jean Reid as parents of the Muirkirk/Orange John Campbell Jr. Search hit other Ayrshire Campbells."
+  },
+  {
+    "parent_id": "GHRQ-77B",
+    "child_id": "GM2L-SQT",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Jean Reid is not named in any snippet as this John's mother. Do not climb."
+  },
+  {
+    "parent_id": "LXQS-Z3Q",
+    "child_id": "LDM1-CM1",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Joseph Phipps's will, 7 Feb 1771, Botetourt VA (also filed in Chester), leaves the Uwchlan mill on Little Brandywine to 'my son Joshua Phipps of Botetourt.' WikiTree Phipps-558. A bad abstract had said Joseph."
+  },
+  {
+    "parent_id": "L786-SDD",
+    "child_id": "LDM1-CM1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The will does not name Joshua's mother. Joseph was disowned in 1725 for a non-Quaker marriage, wife's name omitted. Elizabeth Webb in the 1729 deed is Richard Webb's executrix, a land source, and one compiled tree calls the wife Mary Helsby. Do not climb Webb."
+  },
+  {
+    "parent_id": "PSR2-4MY",
+    "child_id": "L5DP-4G3",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WeRelate lists Hester Astin b. 1747 as a daughter of Capt. George Aston and Esther Thomas. Futhey and Cope name only son Owen and do not mention Hester. No will. Dates fit. Not B."
+  },
+  {
+    "parent_id": "G7CJ-5H4",
+    "child_id": "L5DP-4G3",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled list. Deeds call Esther, formerly Esther Thomas, George's wife. They do not name daughter Hester."
+  },
+  {
+    "parent_id": "L4T4-7VR",
+    "child_id": "KH2Y-ZLW",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS lists Joseph Little b. 1780 among the children of George Little and Mary Wallace. A grandson's memorial calls the grandfather Capt. George W. Little. No will names the son. Chart 'William Joseph Josiah' is that Joseph, not the 1799 grandson Josiah."
+  },
+  {
+    "parent_id": "PHC5-3WT",
+    "child_id": "KH2Y-ZLW",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The same memorial calls George's wife Mary Handley Douglas, not Mary Susannah Wallace. Wallace is FS-only. Do not climb the Wallace identity. Hoddom baptisms of 1746–49 are a different George Little."
+  },
+  {
+    "parent_id": "LTL9-J96",
+    "child_id": "KL1J-VFT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "DAR A087074 and WikiTree Davidson-13993 / Parks-1477 list Elizabeth Parks b. 1779 as a daughter of George Parks and Millicent Davidson. Chart Sarah Elizabeth Parks 1780 is that daughter. FAG 41638642 lists Elizabeth among eight children of the first marriage."
+  },
+  {
+    "parent_id": "2HMN-5G1",
+    "child_id": "KL1J-VFT",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same DAR child list. Millicent died 1793; Elizabeth is a child of the first marriage, not of Catherine Reed."
+  }
+]

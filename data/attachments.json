@@ -1,0 +1,39 @@
+{
+  "LYR4-4KR": {
+    "atts": [
+      {
+        "src": "media/william-a-thomas-times-picayune-1922.png",
+        "pdf": "media/Times-Picayune_1922-02-19_32.pdf",
+        "title": "Times-Picayune, 19 February 1922",
+        "cap": "“Sole Survivor of His Company Joins Comrades” / “Civil War Veteran Buried in Metairie.” Portrait and obituary of William A. Thomas: dock and levee builder, superintendent of construction for the Dock Board, Company F of the Orleans Southerners (Hay’s Brigade), reported sole survivor of his company at Gettysburg. Died 18 Feb 1922 at 1520 St. Mary’s Street; military funeral; family tomb at Metairie Cemetery.",
+        "href": "https://www.familysearch.org/en/memories/memory/187115048"
+      }
+    ],
+    "story": "William A. Thomas was born in England about 1841 and came to New Orleans as a boy with his father, an English architect commissioned to adjust the acoustics of the old St. Charles Theater. When the Civil War broke out he joined Company F of the Orleans Southerners under Colonel Hunt, serving in Hay's Brigade; the Times-Picayune later wrote that at Gettysburg he was the sole survivor of his company. After the war he became one of the city's well-known dock and levee builders, an expert on the Mississippi levees and, until about 1914, superintendent of construction for the Dock Board. He died 18 February 1922, aged 80, at the family home at 1520 St. Mary's Street. Veterans of '61 gave him a military funeral, and he was buried in the family tomb at Metairie Cemetery with Taps sounded by a World War bugler.",
+    "dp": "New Orleans, Orleans, Louisiana, United States",
+    "mem": 1,
+    "events": [
+      {
+        "t": "MILITARY_SERVICE",
+        "ti": "Company F, Orleans Southerners (Hay's Brigade)",
+        "d": "1861–1865",
+        "pl": "Louisiana; Gettysburg, Pennsylvania",
+        "desc": "Times-Picayune, 19 Feb 1922: enlisted under Colonel Hunt when the war broke out; engaged in major battles of both armies; reported sole survivor of his company at Gettysburg."
+      },
+      {
+        "t": "OCCUPATION",
+        "ti": "Superintendent of construction, Dock Board",
+        "d": "until about 1914",
+        "pl": "New Orleans, Orleans, Louisiana, United States",
+        "desc": "Pioneer Orleanian identified with dock and levee construction; city expert on the Mississippi levees in this section."
+      },
+      {
+        "t": "OTHER_EVENT",
+        "ti": "Death and military funeral",
+        "d": "18 February 1922",
+        "pl": "1520 St. Mary's Street; Metairie Cemetery, New Orleans",
+        "desc": "Died Saturday at the family residence, aged 80. Veterans of '61 attended from the home; burial in the family tomb at Metairie with Taps by a World War bugler. Widow Jane Henderson Thomas; son John J. Thomas; daughters Mrs. Mary S. Yount, Mrs. Reuben Chisolm, Mrs. R. T. Clagett, and Mrs. Juan Argete."
+      }
+    ]
+  }
+}

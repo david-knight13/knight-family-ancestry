@@ -17,9 +17,10 @@ America's 250th anniversary (1776–2026).
     whole chart on that person.
   - Dashed grey wedges mark branches whose ancestry is still undocumented.
 - **Summary Report tab** — cumulative pie charts of ancestral origins per
-  generation, toggleable between states and countries.
+  generation, toggleable between states and countries. Broken parent-links
+  and everyone beyond them are excluded.
 - **Notable American Ancestors** sidebar — ranked list of documented,
-  historically notable ancestors with short life stories.
+  historically notable ancestors with short life stories (surviving lines only).
 
 ## Repository layout
 
