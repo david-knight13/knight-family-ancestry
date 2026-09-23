@@ -3,14 +3,14 @@
   "generated": "2026-09-22",
   "counts": {
    "A": 37,
-   "F": 403,
-   "C": 3522,
-   "D": 121,
-   "U": 138,
-   "B": 375
+   "F": 404,
+   "C": 3443,
+   "D": 120,
+   "U": 142,
+   "B": 450
   },
   "nodes": 4596,
-  "storedEdges": 1072
+  "storedEdges": 1151
  },
  "edges": [
   {
@@ -662,6 +662,20 @@
    "note": "WikiTree Vaughan-81: Elizabeth Vaughan 1775 will names Margaret Geter. FS lists William Joseph Jeter 1753–1811 as her son. Same Edgefield Jeter couple."
   },
   {
+   "gen": 10,
+   "pos": 50,
+   "child_id": "K8HQ-6RR",
+   "child_name": "Margaret Vaughan",
+   "parent_id": "MQ8P-J73",
+   "parent_name": "Cornelius Vaughan",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Cornelius Vaughan, 6 Nov 1735, King and Queen County, names daughter Margaret among the four youngest children. WikiTree Vaughan-80. His widow Elizabeth's 1775 will calls her Margaret Geter."
+  },
+  {
    "gen": 8,
    "pos": 13,
    "child_id": "KHM7-YW3",
@@ -674,6 +688,20 @@
    "climb": true,
    "flags": [],
    "note": "Missing birth year caused a false F. With ~1754 (WikiTree Edmunds-1795) she is ~26 at Starling’s 1780 birth. Compiled as Joseph Jeter’s wife; no marriage bond opened."
+  },
+  {
+   "gen": 10,
+   "pos": 52,
+   "child_id": "LK36-BW3",
+   "child_name": "Sterling Edmunds",
+   "parent_id": "GL9P-3GL",
+   "parent_name": "Nicholas Edmunds",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Nicholas Edmunds, Brunswick Co. WB 5 pp. 296-299, written 26 Jul 1787, proved 25 May 1789, leaves land to 'my son Sterling Edmunds.' WikiTree Edmunds-496."
   },
   {
    "gen": 12,
@@ -720,6 +748,34 @@
     "parent_under_12"
    ],
    "note": "Ermine Simmons b.1753 vs Mary Edmunds ~1754 — mother age ~1. WikiTree Edmunds-1795 has no mother. Do not invent one."
+  },
+  {
+   "gen": 10,
+   "pos": 56,
+   "child_id": "LRZ9-MQY",
+   "child_name": "Lafayette Adam Free Sr",
+   "parent_id": "G1P6-S89",
+   "parent_name": "Joh Lawrence Fruh \"Free\"",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "1763 Craven County indenture between Lawrence Free and Adam Free names Adam as son of Lawrence and Mary Free. WikiTree Free-244. Chart 'Lafayette Adam Free' is that Adam, b. about 1737."
+  },
+  {
+   "gen": 10,
+   "pos": 57,
+   "child_id": "LRZ9-MQY",
+   "child_name": "Lafayette Adam Free Sr",
+   "parent_id": "PZ5B-Z3X",
+   "parent_name": "Free",
+   "role": "mother",
+   "grade": "U",
+   "verdict": "UNRESOLVED",
+   "climb": false,
+   "flags": [],
+   "note": "Chart mother is given-name-only 'Free.' The 1763 indenture names the wife Mary. Do not climb this placeholder."
   },
   {
    "gen": 8,
@@ -862,6 +918,20 @@
    "climb": true,
    "flags": [],
    "note": "FS GHN6-9YP same-id: Dempsey Odom ~1731–1770/84 Beaufort SC, sons Isaac 1760–1795 and Shadrack with Mary Purvis. WikiTree Odom-2154 cites Elizabeth Shown Mills Millie-Breland paper for this Beaufort Dempsey (not the Gates NC Dempsey d.1807). src=10. Pedigree collapse duplicates this couple."
+  },
+  {
+   "gen": 10,
+   "pos": 128,
+   "child_id": "GHN6-9YP",
+   "child_name": "Dempsey Odom",
+   "parent_id": "L6Y9-CQ6",
+   "parent_name": "Abraham Odom Sr",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Abraham Odom's will, 30 Jan 1771, Granville, South Carolina, gives son Dempsey half the land on Pipe Creek and names him an executor. WikiTree Odom-10."
   },
   {
    "gen": 11,
@@ -1190,6 +1260,34 @@
    "note": "WikiTree Strange-1949: Mitchell Strange b.11 Aug 1726 St Peters Parish New Kent, d.1788 Chester SC; children of Mitchell × Elizabeth Tucker include Littlebury Strange 1755–1832. Geni lists Littleberry Mitchell Strange son b.1758 Lunenburg. Chart 1758–1831. src=1."
   },
   {
+   "gen": 10,
+   "pos": 168,
+   "child_id": "KHVF-W3Y",
+   "child_name": "Mitchell Strange",
+   "parent_id": "PHVX-8QL",
+   "parent_name": "Henry Strange Sr",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "John R. Mayer, Extraneus Book XII, lists Mitchell Strange, b. 11 Aug 1726 in St. Peter's Parish, New Kent, as a son of Henry Strange and Mary Liptrot. WikiTree Strange-1949."
+  },
+  {
+   "gen": 10,
+   "pos": 169,
+   "child_id": "KHVF-W3Y",
+   "child_name": "Mitchell Strange",
+   "parent_id": "PMFX-JZG",
+   "parent_name": "Mary Augusta Liptrot",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same child list. Mary's father Edmond Liptrot's 1734 will leaves her a heifer. The published list names her as Mitchell's mother."
+  },
+  {
    "gen": 9,
    "pos": 85,
    "child_id": "L4XX-ZKJ",
@@ -1232,6 +1330,34 @@
    "note": "WikiTree Hammack-454: Benjamin Hammack abt 1766–1801 Richmond VA, son of Benedict Hammack × Sarah; Hammack Cousins p.477/499. Benedict will 20 Aug 1805 (WB 9:463, proved 2 Jan 1815) names wife Sarah and sons John, Lewis, William — omits Benjamin who had already died 1801. src=4."
   },
   {
+   "gen": 10,
+   "pos": 176,
+   "child_id": "LHPP-DLF",
+   "child_name": "Benedict Hammack",
+   "parent_id": "LVDT-YR8",
+   "parent_name": "Robert Simeon Hammock Sr.",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "North Farnham Parish christening, 4 Apr 1740, Benedict son of Robert Hammock and Ann. Robert's will, 1 Oct 1785, names son Benedict. WikiTree Hammack-58."
+  },
+  {
+   "gen": 10,
+   "pos": 177,
+   "child_id": "LHPP-DLF",
+   "child_name": "Benedict Hammack",
+   "parent_id": "L6KX-P9D",
+   "parent_name": "Anne Elinor Lambert",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same christening names the mother Ann, and the will names wife Ann. The Hammack accounts identify her as Ann Lambert, daughter of Hugh Lambert."
+  },
+  {
    "gen": 9,
    "pos": 89,
    "child_id": "GHW9-YZN",
@@ -1244,6 +1370,48 @@
    "climb": true,
    "flags": [],
    "note": "WikiTree Hammack-176: Benedict m. Sarah Mary Combs 1765 Richmond VA. Same 1805 will names loving wife Sarah Hammack. Mother of Benjamin 1766 (age 21). Overwharton Parish Stafford bp. src=5."
+  },
+  {
+   "gen": 10,
+   "pos": 178,
+   "child_id": "LVG2-JRY",
+   "child_name": "Sarah Combs",
+   "parent_id": "LB24-516",
+   "parent_name": "Mason Combs",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Overwharton Parish register, Stafford: Sarah, daughter of Mason and Sarah Combs, born 25 Feb 1745. Combs-families.org and WikiTree Combs-435."
+  },
+  {
+   "gen": 10,
+   "pos": 184,
+   "child_id": "K143-MG2",
+   "child_name": "John Clark",
+   "parent_id": "K143-MYW",
+   "parent_name": "John Clark",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Richmond County will of John Clark, 4 Apr 1754, proved 7 Apr 1755, leaves land to son John and names wife Elizabeth as executor with him. WikiTree Clark-49064."
+  },
+  {
+   "gen": 10,
+   "pos": 185,
+   "child_id": "K143-MG2",
+   "child_name": "John Clark",
+   "parent_id": "2Z3V-BM9",
+   "parent_name": "Elizabeth",
+   "role": "mother",
+   "grade": "U",
+   "verdict": "UNRESOLVED",
+   "climb": false,
+   "flags": [],
+   "note": "Chart mother is given-name-only Elizabeth. Do not climb."
   },
   {
    "gen": 4,
@@ -1316,6 +1484,20 @@
    "note": "FAG 25220804 / St Paul Edenton: Col Thomas Walker Nash will proved Chowan 1769 names four children by second wife Mary Holdcroft: Elizabeth, John, Mary, Henry. Chart John Abner Nash 1760 is that John. Brother of Gov. Abner Nash. src=6."
   },
   {
+   "gen": 10,
+   "pos": 193,
+   "child_id": "LX7L-CYH",
+   "child_name": "Thomas Walker Nash",
+   "parent_id": "L4FV-177",
+   "parent_name": "Ann Owen",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "St. Paul's parish record and the Edenton marker call Thomas Walker Nash the son of John Nash and Ann Owen of Prince Edward. His uncle Thomas Nash's 1732 Henrico will names nephew Thomas, child of John. Ann witnessed that will."
+  },
+  {
    "gen": 9,
    "pos": 97,
    "child_id": "LC65-L95",
@@ -1328,6 +1510,20 @@
    "climb": true,
    "flags": [],
    "note": "Same 1769 will: four children by second wife Mary Holdcroft include John. FS LC65-L95 lists Mary Acton Holdcroft as mother of John Abner Nash 1760 (age 20). Chart death 1765 vs will implying she predeceased 1769. src=1."
+  },
+  {
+   "gen": 10,
+   "pos": 194,
+   "child_id": "GKQF-ZG1",
+   "child_name": "Mary Acton Holdcroft",
+   "parent_id": "GTPH-44L",
+   "parent_name": "Henry Holdcroft",
+   "role": "father",
+   "grade": "F",
+   "verdict": "PRUNE",
+   "climb": false,
+   "flags": [],
+   "note": "Henry Holdcroft of New Kent died about 1728. Blisland vestry and the 1712 Wharton will know a daughter Mary already living then. He cannot be the father of Mary Acton Holdcroft b. 1740."
   },
   {
    "gen": 8,
@@ -1358,6 +1554,34 @@
    "note": "NCpedia / Wikipedia: John Nisbet 1738–1817, Rowan/Iredell patriot, m. Mary Osborne; eight children James, Nancy, Sarah, Elizabeth, Alexander, John, Milus, Jane. Chart Nancy Jane Nesbitt 1764–1786 is that Nancy (WT dates drift to 1773). src=7. Mary Lloyd Osborne not in this pack."
   },
   {
+   "gen": 10,
+   "pos": 196,
+   "child_id": "LCMH-5KM",
+   "child_name": "John N. Nisbet II",
+   "parent_id": "LY1Y-YT5",
+   "parent_name": "John Nisbet",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of John Nisbet, Rowan County, proved 21 Nov 1756, names sons William, David, James, John, and Thomas, and wife Sarah. The son John is the 1738 man who died at Statesville in 1817. WikiTree Nisbet-5397."
+  },
+  {
+   "gen": 10,
+   "pos": 197,
+   "child_id": "LCMH-5KM",
+   "child_name": "John N. Nisbet II",
+   "parent_id": "K2MX-K3N",
+   "parent_name": "Sarah Brevard",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same will names wife Sarah. She was guardian of the minor sons. NCpedia calls the patriot one of six children of John and Sarah Nisbet."
+  },
+  {
    "gen": 9,
    "pos": 99,
    "child_id": "G9CR-7RW",
@@ -1370,6 +1594,34 @@
    "climb": true,
    "flags": [],
    "note": "Geni: Mary Lloyd Nisbet (Osborne) 1746–1788, wife of John N. Nisbet Jr., mother of Nancy Jane Nash b.1764. NCpedia/Wikipedia already listed Nancy among eight children of John × Mary Osborne. src=3. Husband already B."
+  },
+  {
+   "gen": 10,
+   "pos": 198,
+   "child_id": "LCMH-52N",
+   "child_name": "Mary Lloyd Osborne",
+   "parent_id": "LHBB-ZCS",
+   "parent_name": "Alexander Osborn",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Alexander Osborn, Rowan, 9 Jul 1776, names daughter Mary, and the codicil calls her Mary Nesbit. NCpedia lists daughter Mary among six children. She married John Nisbet."
+  },
+  {
+   "gen": 10,
+   "pos": 199,
+   "child_id": "LCMH-52N",
+   "child_name": "Mary Lloyd Osborne",
+   "parent_id": "LTLZ-KMC",
+   "parent_name": "Agnes McWhorter",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same will names wife Agness. She died two days before him. NCpedia identifies her as Agnes MacWhorter, and Mary as their daughter."
   },
   {
    "gen": 7,
@@ -1456,6 +1708,20 @@
    "note": "FS LY7V-XZN same-id m. Mary Cox 5 May 1753; children include Mary Ruth Lindley 1764–1852 (chart child id). WikiTree Lindley-45 lists Mary Ruth L51P-V7M. NCpedia: Loyalist Capt. James Lindley hanged Ninety-Six Apr 1779. src=23."
   },
   {
+   "gen": 10,
+   "pos": 204,
+   "child_id": "LY7V-XZN",
+   "child_name": "James Lindley",
+   "parent_id": "L69G-WSL",
+   "parent_name": "Thomas Lindley Sr.",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Simon Hadley's will leaves bequests to grandchildren of daughter Ruth Lindley, wife of Thomas Lindley, including James Lindley. Cane Creek Quaker records list James b. 22 9th month 1735. Thomas's 1780 will mentions James as deceased."
+  },
+  {
    "gen": 13,
    "pos": 1636,
    "child_id": "PS9B-Q7R",
@@ -1488,6 +1754,20 @@
    "note": "Impossible chronology: parent under 12."
   },
   {
+   "gen": 10,
+   "pos": 205,
+   "child_id": "LY7V-XZN",
+   "child_name": "James Lindley",
+   "parent_id": "KNH8-47K",
+   "parent_name": "Ruth Hadley",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same will and the New Garden marriage of 21 10th month 1731. Ruth is named as James's mother in the Quaker child list."
+  },
+  {
    "gen": 9,
    "pos": 103,
    "child_id": "L51P-V7M",
@@ -1500,6 +1780,20 @@
    "climb": true,
    "flags": [],
    "note": "FS MMQX-514 same-id: Mary Cox b.22 Sep 1735 Hockessin, children include Mary Ruth Lindley 1764–1852. WikiTree Cox-1960 same list. NCpedia: widow Mary living Orange NC 1790. src=20."
+  },
+  {
+   "gen": 10,
+   "pos": 206,
+   "child_id": "MMQX-514",
+   "child_name": "Mary Cox",
+   "parent_id": "LBDZ-JK4",
+   "parent_name": "William Richardson Cox II",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Quaker collection for James Lindley names his wife Mary Cox, b. about 1733 at Hockessin, as daughter of William Cox and Catherine Kinkey."
   },
   {
    "gen": 12,
@@ -1532,6 +1826,20 @@
     "parent_under_15"
    ],
    "note": "Suspicious chronology: parent under 15."
+  },
+  {
+   "gen": 10,
+   "pos": 207,
+   "child_id": "MMQX-514",
+   "child_name": "Mary Cox",
+   "parent_id": "KNCG-H79",
+   "parent_name": "Catherine Kinkey",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same entry names Catherine Kinkey as Mary's mother."
   },
   {
    "gen": 12,
@@ -1760,6 +2068,20 @@
    "note": "Same FS timeline: Catherine Littleton mother of Elizabeth Jones 1770 (age 24). WikiTree Littleton-621 is a stub with date drift 1751–1790 vs chart 1746–1792. src=3."
   },
   {
+   "gen": 5,
+   "pos": 7,
+   "child_id": "2CTY-PFK",
+   "child_name": "Kathryn \"Katie\" Belle Nash",
+   "parent_id": "2CTY-PY7",
+   "parent_name": "Lucinda G Calhoun",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "1900 U.S. census image, FamilySearch ark:/61903/3:1:S3HT-6829-MRX (NARA T623, collection 1325221), shows Lucinda Nash and Katherine (Katy) Nash together. William died in 1894, so this is the widow's household. It names the mother and daughter."
+  },
+  {
    "gen": 6,
    "pos": 14,
    "child_id": "2CTY-PY7",
@@ -1963,6 +2285,20 @@
    "climb": true,
    "flags": [],
    "note": "WikiTree Thomas-9836: children of James Thomas and Bridget Lee include Patsey Thomas b. 1810. Warner-4514: Chessley B. Morris m. Martha 'Patsy' Thomas, daughter of James and Bridget Lee Thomas. Chart dates 1770–1850 / 1812–1864 fit the St. Tammany–Washington Parish cluster."
+  },
+  {
+   "gen": 10,
+   "pos": 248,
+   "child_id": "LD7C-STQ",
+   "child_name": "George Thomas",
+   "parent_id": "L1CB-2QP",
+   "parent_name": "Francis Thomas, Jr",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Bladen County will of Francis Thomas, 8 Jun 1756, proved Oct 1756, names son George. Wife and executrix is Joan. WikiTree Thomas-25105. Matches the chart's Francis of Bladen, d. 1756."
   },
   {
    "gen": 8,
@@ -2233,6 +2569,20 @@
    "note": "Same baptism and the 6 Jun 1739 Garic marriage contract (Geni): Marie Josephe Carriere, daughter of André Carriere, wife of Charles de la Vergne, mother of Marie Françoise b. 1748."
   },
   {
+   "gen": 10,
+   "pos": 270,
+   "child_id": "LZ8K-WRH",
+   "child_name": "Marie Josephe Carriere",
+   "parent_id": "LCF9-2P4",
+   "parent_name": "Andre Carrière",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Charles's 16 Jun 1739 marriage contract names his wife Marie Josephe Carriere as the daughter of Andre Carriere and Marguerite Harlut. Archdiocese of New Orleans sacramental records, vol. 1."
+  },
+  {
    "gen": 12,
    "pos": 1082,
    "child_id": "LZPW-P8X",
@@ -2403,6 +2753,20 @@
    "note": "Same will and Chisolm Genealogy: George was a son of Alexander's first wife Christina Chisolm (m. 5 Oct 1766; d. between 1778 and 1786)."
   },
   {
+   "gen": 10,
+   "pos": 322,
+   "child_id": "LHDF-MJS",
+   "child_name": "Christina Chisolm",
+   "parent_id": "LHZD-WLS",
+   "parent_name": "Alexander Chisholm Jr.",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Alexander Chisolm of Charles Town, 7 Apr 1760, proved 1772, divides the estate between daughters Ann Wilson and Christina Chisolme. Matches the chart father who died in 1772."
+  },
+  {
    "gen": 8,
    "pos": 81,
    "child_id": "LTTV-MH2",
@@ -2429,6 +2793,20 @@
    "climb": true,
    "flags": [],
    "note": "DAR A209834 Hext Prioleau, SC lieutenant: associated child Providence Hext, spouse Margaret Williams. Married 9 Apr 1775; Providence b. 28 Jul 1776."
+  },
+  {
+   "gen": 10,
+   "pos": 324,
+   "child_id": "KZCQ-F1D",
+   "child_name": "Hext Prioleau",
+   "parent_id": "L45Q-WQ2",
+   "parent_name": "Colonel Samuel Prioleau",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Samuel Prioleau of Charleston, 2 Feb 1779, proved 11 Jan 1792, names sons Samuel, Philip, and Hext Prioleau. Hext was born 31 Oct 1753."
   },
   {
    "gen": 9,
@@ -2931,6 +3309,34 @@
    "note": "Same baptism (PCP-1,154): mother Marie Catherine Frederic, m. Antoine Doza 12 Aug 1749. FS dual-parent flag is not a second couple in the parish register. SAR patriot sketch repeats this parentage."
   },
   {
+   "gen": 10,
+   "pos": 426,
+   "child_id": "L5ZF-6DJ",
+   "child_name": "Marie Catherine Frederic",
+   "parent_id": "GZJ3-9XV",
+   "parent_name": "Jean Johann Baptiste Frederic Frederick Leonard",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Pointe Coupee marriage 12 Aug 1749 of Antoine Dozat to Marie Catherine Frederic calls her the daughter of Jean Frederic and Marie Catherine de Boulair. The chart adds Leonard to the father's name. The record names Jean Frederic."
+  },
+  {
+   "gen": 10,
+   "pos": 427,
+   "child_id": "L5ZF-6DJ",
+   "child_name": "Marie Catherine Frederic",
+   "parent_id": "GZJ3-M11",
+   "parent_name": "Marie Catherine De Boulair Poulier",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same marriage calls Marie Catherine de Boulair the mother. The chart adds Poulier. The record names de Boulair."
+  },
+  {
    "gen": 8,
    "pos": 107,
    "child_id": "KVX6-R3K",
@@ -2959,6 +3365,34 @@
    "note": "DOBR Pointe Coupee: Angelique Dezotel bn. 16 Feb 1763, daughter of Jacques Dezotel dit La Pointe and Anne Stephen (PCP-1, 244). WikiTree Desautels-25."
   },
   {
+   "gen": 10,
+   "pos": 428,
+   "child_id": "L67Y-1PD",
+   "child_name": "Jacques Antoine Deshotel Desautels dit Lapointe dit Lapointe",
+   "parent_id": "L67B-41V",
+   "parent_name": "Pierre Desautels Lapointe",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Genealogie Quebec lists Jacques Desautels, born 1720, among the children of Pierre Desautels dit Lapointe and Angelique Thuillier. A 1720 baptism is indexed for Jacques Desautels-Lapointe. Pierre was buried 11 Aug 1753 at Longue-Pointe."
+  },
+  {
+   "gen": 10,
+   "pos": 429,
+   "child_id": "L67Y-1PD",
+   "child_name": "Jacques Antoine Deshotel Desautels dit Lapointe dit Lapointe",
+   "parent_id": "MWC4-716",
+   "parent_name": "Therese Angelique Thuillier dit Desvignets",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same child list says Jacques was born of Angelique Thuillier. She was baptized 17 Oct 1683 at Montreal as Therese Angelique, married Pierre 12 Jan 1699, and was buried 19 Jan 1765 as his widow."
+  },
+  {
    "gen": 9,
    "pos": 215,
    "child_id": "L5PL-XFT",
@@ -2971,6 +3405,34 @@
    "climb": true,
    "flags": [],
    "note": "Same baptism and 30 May 1778 marriage (PCP-2, 197): Angelique Desautels, daughter of Jacques and Anne Stephan, married Antoine Doza."
+  },
+  {
+   "gen": 10,
+   "pos": 430,
+   "child_id": "KZFQ-JKD",
+   "child_name": "Anne Stephan",
+   "parent_id": "L67B-M9W",
+   "parent_name": "Jean Stephan dit Roquancourt",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Pointe Coupee baptism 1 Nov 1738: Anne dit Rocancourt Stephan, born 1 Oct 1738, daughter of Jean Stephan and Anne Rolan. Diocese of Baton Rouge Catholic Church Records, vol. 1b. The 1745 census lists Anne and Perine as their daughters."
+  },
+  {
+   "gen": 10,
+   "pos": 431,
+   "child_id": "KZFQ-JKD",
+   "child_name": "Anne Stephan",
+   "parent_id": "LZ68-L3R",
+   "parent_name": "Anne Françoise Roland",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism names Anne Francoise Roland as the mother. She married Jean Stephan dit Roquancourt on 22 Feb 1737. Her own parents in the contract are Jean Baptiste Rolland and Jeanne Bonnet, not this link."
   },
   {
    "gen": 6,
@@ -3043,6 +3505,34 @@
    "note": "Same baptism (PCP-1,154): mother Marie Catherine Frederic, m. Antoine Doza 12 Aug 1749. FS dual-parent flag is not a second couple in the parish register. SAR patriot sketch repeats this parentage."
   },
   {
+   "gen": 11,
+   "pos": 874,
+   "child_id": "L5ZF-6DJ",
+   "child_name": "Marie Catherine Frederic",
+   "parent_id": "GZJ3-9XV",
+   "parent_name": "Jean Johann Baptiste Frederic Frederick Leonard",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Pointe Coupee marriage 12 Aug 1749 of Antoine Dozat to Marie Catherine Frederic calls her the daughter of Jean Frederic and Marie Catherine de Boulair. The chart adds Leonard to the father's name. The record names Jean Frederic."
+  },
+  {
+   "gen": 11,
+   "pos": 875,
+   "child_id": "L5ZF-6DJ",
+   "child_name": "Marie Catherine Frederic",
+   "parent_id": "GZJ3-M11",
+   "parent_name": "Marie Catherine De Boulair Poulier",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same marriage calls Marie Catherine de Boulair the mother. The chart adds Poulier. The record names de Boulair."
+  },
+  {
    "gen": 9,
    "pos": 219,
    "child_id": "27YG-WP4",
@@ -3071,6 +3561,34 @@
    "note": "DOBR Pointe Coupee: Angelique Dezotel bn. 16 Feb 1763, daughter of Jacques Dezotel dit La Pointe and Anne Stephen (PCP-1, 244). WikiTree Desautels-25."
   },
   {
+   "gen": 11,
+   "pos": 876,
+   "child_id": "L67Y-1PD",
+   "child_name": "Jacques Antoine Deshotel Desautels dit Lapointe dit Lapointe",
+   "parent_id": "L67B-41V",
+   "parent_name": "Pierre Desautels Lapointe",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Genealogie Quebec lists Jacques Desautels, born 1720, among the children of Pierre Desautels dit Lapointe and Angelique Thuillier. A 1720 baptism is indexed for Jacques Desautels-Lapointe. Pierre was buried 11 Aug 1753 at Longue-Pointe."
+  },
+  {
+   "gen": 11,
+   "pos": 877,
+   "child_id": "L67Y-1PD",
+   "child_name": "Jacques Antoine Deshotel Desautels dit Lapointe dit Lapointe",
+   "parent_id": "MWC4-716",
+   "parent_name": "Therese Angelique Thuillier dit Desvignets",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same child list says Jacques was born of Angelique Thuillier. She was baptized 17 Oct 1683 at Montreal as Therese Angelique, married Pierre 12 Jan 1699, and was buried 19 Jan 1765 as his widow."
+  },
+  {
    "gen": 10,
    "pos": 439,
    "child_id": "L5PL-XFT",
@@ -3083,6 +3601,34 @@
    "climb": true,
    "flags": [],
    "note": "Same baptism and 30 May 1778 marriage (PCP-2, 197): Angelique Desautels, daughter of Jacques and Anne Stephan, married Antoine Doza."
+  },
+  {
+   "gen": 11,
+   "pos": 878,
+   "child_id": "KZFQ-JKD",
+   "child_name": "Anne Stephan",
+   "parent_id": "L67B-M9W",
+   "parent_name": "Jean Stephan dit Roquancourt",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Pointe Coupee baptism 1 Nov 1738: Anne dit Rocancourt Stephan, born 1 Oct 1738, daughter of Jean Stephan and Anne Rolan. Diocese of Baton Rouge Catholic Church Records, vol. 1b. The 1745 census lists Anne and Perine as their daughters."
+  },
+  {
+   "gen": 11,
+   "pos": 879,
+   "child_id": "KZFQ-JKD",
+   "child_name": "Anne Stephan",
+   "parent_id": "LZ68-L3R",
+   "parent_name": "Anne Françoise Roland",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism names Anne Francoise Roland as the mother. She married Jean Stephan dit Roquancourt on 22 Feb 1737. Her own parents in the contract are Jean Baptiste Rolland and Jeanne Bonnet, not this link."
   },
   {
    "gen": 7,
@@ -3421,6 +3967,34 @@
    "note": "Hébert SWLR: STELLY, Julie (Francois & Marie Therese BERTHELOT) bt. 24 Jun 1779, Opelousas (v.1-A, p.17). WikiTree Stelly-475. Marriage contract 23 May 1774, St. John the Baptist."
   },
   {
+   "gen": 10,
+   "pos": 508,
+   "child_id": "9QNK-TXF",
+   "child_name": "Francois Pierre Stelly",
+   "parent_id": "G551-NM3",
+   "parent_name": "Johann Georg Stähle",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Marriage contract 23 May 1774: Francois Echstelly of St. Charles, son of George Echstelly and Christine Elmaire, promises to marry Marie Therese Berthelot. George is Johann Georg Stahle."
+  },
+  {
+   "gen": 10,
+   "pos": 509,
+   "child_id": "9QNK-TXF",
+   "child_name": "Francois Pierre Stelly",
+   "parent_id": "K48J-BW7",
+   "parent_name": "Christina Marie Edelmeier",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same contract names Christine Elmaire (Edelmeier) as the mother. They married 9 Jul 1743 at St. John the Baptist."
+  },
+  {
    "gen": 9,
    "pos": 255,
    "child_id": "L7C3-X94",
@@ -3433,6 +4007,34 @@
    "climb": true,
    "flags": [],
    "note": "Same Opelousas baptism names Marie Therese Berthelot. FS dual-parent flag is her later marriage to Dr. Francois Simon Robin (19 Mar 1810), who had no children with her (WT Berthelot-245)."
+  },
+  {
+   "gen": 10,
+   "pos": 510,
+   "child_id": "9V46-5K8",
+   "child_name": "Marie Therese Berthelot",
+   "parent_id": "G551-B3Q",
+   "parent_name": "Louis-Urbain Berthelot",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "The same contract calls Marie Therese the daughter of the late Louis Berthelote and Louise Fontenau, native of Poste des Alibamons. The chart adds Urbain to Louis. The record names Louis."
+  },
+  {
+   "gen": 10,
+   "pos": 511,
+   "child_id": "9V46-5K8",
+   "child_name": "Marie Therese Berthelot",
+   "parent_id": "G5RM-Q2L",
+   "parent_name": "Louise Fontenot (Fonteneau)",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same contract names Louise Fontenau as the mother. Chart spelling Fontenot (Fonteneau) is that name."
   },
   {
    "gen": 1,
@@ -3925,6 +4527,20 @@
    "note": "WikiTree Cannon-1719: Minos Cannon's 19 Jan 1828 Williamson Co. TN will names daughter Euphamia ('Famey') Cannon b. 1788, who married Samuel Gentry. Chart Frances Euphemia Cannon 1788."
   },
   {
+   "gen": 10,
+   "pos": 581,
+   "child_id": "LHV4-LBW",
+   "child_name": "Minos Cannon Sr",
+   "parent_id": "9VTY-7X9",
+   "parent_name": "Rebecca",
+   "role": "mother",
+   "grade": "U",
+   "verdict": "UNRESOLVED",
+   "climb": false,
+   "flags": [],
+   "note": "The chart mother is recorded only as Rebecca, with no surname. Given name only."
+  },
+  {
    "gen": 9,
    "pos": 291,
    "child_id": "LHTR-4M7",
@@ -4254,11 +4870,11 @@
    "parent_id": "GQVF-3TR",
    "parent_name": "Nancy Jackson",
    "role": "mother",
-   "grade": "U",
+   "grade": "D",
    "verdict": "UNRESOLVED",
    "climb": false,
    "flags": [],
-   "note": "Dual-parent flag is two wives of James Arnold: chart Nancy Jackson (GQVF-3TR) vs Elizabeth (Ann Warren) McGowan. No 1850 household or death-certificate parent line retrieved. Do not invent a mother; do not climb."
+   "note": "Unresolved dual-parent. Chart mother is Nancy Jackson. Compiled accounts (YourRoots) name Elizabeth (Ann Warren) McGowan, born about 1820 in Bedford, Tennessee, as Lumiza Frances Arnold's mother. No census or death certificate names either woman. Do not climb."
   },
   {
    "gen": 9,
@@ -6733,6 +7349,20 @@
    "note": "Priscilla Browne (wife of Thomas Blunt) was daughter of William Browne of Surry; Richard Blunt fathered her husband Thomas. LEAF."
   },
   {
+   "gen": 10,
+   "pos": 59,
+   "child_id": "G24F-GQR",
+   "child_name": "Margaret Wheeler",
+   "parent_id": "PZ5B-Z3X",
+   "parent_name": "Free",
+   "role": "mother",
+   "grade": "U",
+   "verdict": "UNRESOLVED",
+   "climb": false,
+   "flags": [],
+   "note": "Same placeholder. No given name, and Margaret Wheeler is not in the Free child list."
+  },
+  {
    "gen": 9,
    "pos": 30,
    "child_id": "GTJC-V5H",
@@ -6759,6 +7389,34 @@
    "climb": false,
    "flags": [],
    "note": "Spouse-copy: Lafayette Adam Free Sr attached as parent of both Jacob Edmond Free and Margaret Welt. Surname matches Jacob Edmond Free."
+  },
+  {
+   "gen": 10,
+   "pos": 60,
+   "child_id": "LRZ9-MQY",
+   "child_name": "Lafayette Adam Free Sr",
+   "parent_id": "G1P6-S89",
+   "parent_name": "Joh Lawrence Fruh \"Free\"",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "1763 Craven County indenture between Lawrence Free and Adam Free names Adam as son of Lawrence and Mary Free. WikiTree Free-244. Chart 'Lafayette Adam Free' is that Adam, b. about 1737."
+  },
+  {
+   "gen": 10,
+   "pos": 61,
+   "child_id": "LRZ9-MQY",
+   "child_name": "Lafayette Adam Free Sr",
+   "parent_id": "PZ5B-Z3X",
+   "parent_name": "Free",
+   "role": "mother",
+   "grade": "U",
+   "verdict": "UNRESOLVED",
+   "climb": false,
+   "flags": [],
+   "note": "Chart mother is given-name-only 'Free.' The 1763 indenture names the wife Mary. Do not climb this placeholder."
   },
   {
    "gen": 13,
@@ -7037,6 +7695,20 @@
    "climb": true,
    "flags": [],
    "note": "WikiTree Hurley-1815: Jemimah wife of Abraham, 1811 GA passport as 'wife's mother' with William Thornhill (Lydia). FS lists Millie 1768 among her children (age 32). Chart 1812 death vs passport 1811 / Pike MS."
+  },
+  {
+   "gen": 10,
+   "pos": 144,
+   "child_id": "GHN6-9YP",
+   "child_name": "Dempsey Odom",
+   "parent_id": "L6Y9-CQ6",
+   "parent_name": "Abraham Odom Sr",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Abraham Odom's will, 30 Jan 1771, Granville, South Carolina, gives son Dempsey half the land on Pipe Creek and names him an executor. WikiTree Odom-10."
   },
   {
    "gen": 10,
@@ -7615,20 +8287,6 @@
   },
   {
    "gen": 10,
-   "pos": 214,
-   "child_id": "L6GP-JBS",
-   "child_name": "Mary Magadelena Sattler",
-   "parent_id": "L1L8-66J",
-   "parent_name": "Hans Peter Guenther",
-   "role": "father",
-   "grade": "D",
-   "verdict": "UNRESOLVED",
-   "climb": false,
-   "flags": [],
-   "note": "FamilySearch preferred pedigree now shows a different person at this slot."
-  },
-  {
-   "gen": 10,
    "pos": 215,
    "child_id": "L6GP-JBS",
    "child_name": "Mary Magadelena Sattler",
@@ -7950,6 +8608,34 @@
    "note": "Spouse-copy: Samuel Spearman attached as parent of both Andrew Spearman and Mary Farris. Surname matches Andrew Spearman."
   },
   {
+   "gen": 11,
+   "pos": 516,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 11,
+   "pos": 517,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
+  },
+  {
    "gen": 12,
    "pos": 1033,
    "child_id": "LHD1-2PK",
@@ -7998,6 +8684,34 @@
    "note": "Impossible chronology: mother over 55."
   },
   {
+   "gen": 11,
+   "pos": 524,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 11,
+   "pos": 525,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
+  },
+  {
    "gen": 12,
    "pos": 1049,
    "child_id": "LHD1-2PK",
@@ -8028,6 +8742,34 @@
     "placeholder"
    ],
    "note": "Placeholder or unnamed parent."
+  },
+  {
+   "gen": 10,
+   "pos": 264,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 10,
+   "pos": 265,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
   },
   {
    "gen": 11,
@@ -8076,6 +8818,34 @@
     "placeholder"
    ],
    "note": "Placeholder or unnamed parent."
+  },
+  {
+   "gen": 10,
+   "pos": 268,
+   "child_id": "LZ8K-7SV",
+   "child_name": "Charles De La Vergne",
+   "parent_id": "LX7N-4RH",
+   "parent_name": "Abel Pierre De La Vergne",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "The 1739 New Orleans marriage contract and a 1735 procuration call Charles the son of Pierre de la Vergne and Elizabeth Billet of St. Eustache, Paris. WikiTree uses Abel. Abel Ferdinand in the 1735 act is another son, a novice, not the father. The chart's Abel Pierre is that Pierre."
+  },
+  {
+   "gen": 10,
+   "pos": 269,
+   "child_id": "LZ8K-7SV",
+   "child_name": "Charles De La Vergne",
+   "parent_id": "L5LG-CGN",
+   "parent_name": "Elizabeth Billet",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "The same contract names Elizabeth Billet of St. Eustache as Charles's mother. WikiTree agrees. Baptized 5 Aug 1700."
   },
   {
    "gen": 11,
@@ -8357,6 +9127,34 @@
   },
   {
    "gen": 10,
+   "pos": 280,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 10,
+   "pos": 281,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
+  },
+  {
+   "gen": 10,
    "pos": 283,
    "child_id": "L5DM-SWC",
    "child_name": "Marguerite Metzer",
@@ -8370,6 +9168,48 @@
     "placeholder"
    ],
    "note": "Placeholder or unnamed parent."
+  },
+  {
+   "gen": 10,
+   "pos": 284,
+   "child_id": "LZ8K-7SV",
+   "child_name": "Charles De La Vergne",
+   "parent_id": "LX7N-4RH",
+   "parent_name": "Abel Pierre De La Vergne",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "The 1739 New Orleans marriage contract and a 1735 procuration call Charles the son of Pierre de la Vergne and Elizabeth Billet of St. Eustache, Paris. WikiTree uses Abel. Abel Ferdinand in the 1735 act is another son, a novice, not the father. The chart's Abel Pierre is that Pierre."
+  },
+  {
+   "gen": 10,
+   "pos": 285,
+   "child_id": "LZ8K-7SV",
+   "child_name": "Charles De La Vergne",
+   "parent_id": "L5LG-CGN",
+   "parent_name": "Elizabeth Billet",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "The same contract names Elizabeth Billet of St. Eustache as Charles's mother. WikiTree agrees. Baptized 5 Aug 1700."
+  },
+  {
+   "gen": 10,
+   "pos": 286,
+   "child_id": "LZ8K-WRH",
+   "child_name": "Marie Josephe Carriere",
+   "parent_id": "LCF9-2P4",
+   "parent_name": "Andre Carrière",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Charles's 16 Jun 1739 marriage contract names his wife Marie Josephe Carriere as the daughter of Andre Carriere and Marguerite Harlut. Archdiocese of New Orleans sacramental records, vol. 1."
   },
   {
    "gen": 10,
@@ -8389,6 +9229,34 @@
   },
   {
    "gen": 11,
+   "pos": 548,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 11,
+   "pos": 549,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
+  },
+  {
+   "gen": 11,
    "pos": 551,
    "child_id": "L5DM-SWC",
    "child_name": "Marguerite Metzer",
@@ -8402,6 +9270,34 @@
     "placeholder"
    ],
    "note": "Placeholder or unnamed parent."
+  },
+  {
+   "gen": 11,
+   "pos": 556,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-2PK",
+   "parent_name": "Johann Leonhard Arensburg",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+   "gen": 11,
+   "pos": 557,
+   "child_id": "LH6F-HHH",
+   "child_name": "Chevalier Karl Friederich D'Arensbourg",
+   "parent_id": "LHD1-LMZ",
+   "parent_name": "Elisabeth Eleonora Forstmann",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
   },
   {
    "gen": 11,
@@ -8870,6 +9766,34 @@
    "note": "Same DAR lineage names Margaret Williams as Hext Prioleau's wife and mother of Providence Hext Prioleau (1776–1860), who married George Chisolm."
   },
   {
+   "gen": 10,
+   "pos": 330,
+   "child_id": "LHDF-MJS",
+   "child_name": "Christina Chisolm",
+   "parent_id": "LHZD-WLS",
+   "parent_name": "Alexander Chisholm Jr.",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Alexander Chisolm of Charles Town, 7 Apr 1760, proved 1772, divides the estate between daughters Ann Wilson and Christina Chisolme. Matches the chart father who died in 1772."
+  },
+  {
+   "gen": 10,
+   "pos": 332,
+   "child_id": "KZCQ-F1D",
+   "child_name": "Hext Prioleau",
+   "parent_id": "L45Q-WQ2",
+   "parent_name": "Colonel Samuel Prioleau",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Samuel Prioleau of Charleston, 2 Feb 1779, proved 11 Jan 1792, names sons Samuel, Philip, and Hext Prioleau. Hext was born 31 Oct 1753."
+  },
+  {
    "gen": 11,
    "pos": 661,
    "child_id": "LHZD-WLS",
@@ -8898,6 +9822,34 @@
    "climb": false,
    "flags": [],
    "note": "Keep D. FamilySearch shows both a dual parent-set and a different person in the preferred pedigree. Snippets did not identify Julianne Henrietta Grimm 1784 as his daughter."
+  },
+  {
+   "gen": 10,
+   "pos": 342,
+   "child_id": "M1B6-ZZD",
+   "child_name": "Juliana Culmann",
+   "parent_id": "M85Z-N28",
+   "parent_name": "Philip Friedrich Cullmann",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Culmann pastoral genealogy: Johann Philipp Friedrich Culmann, born 2 May 1715 at Hornbach, died 1791 at Baumholder, and Juliana Dorothea Scholler had daughter Juliana Culmann, born 20 Mar 1749 at Altenglan."
+  },
+  {
+   "gen": 10,
+   "pos": 343,
+   "child_id": "M1B6-ZZD",
+   "child_name": "Juliana Culmann",
+   "parent_id": "KC66-Z98",
+   "parent_name": "Juliana Dorothea Scholler",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same child list. He married Juliana Dorothea Scholler, daughter of Valentin Scholler of Kusel, on 14 May 1748. She is the mother named for Juliana, born 1749."
   },
   {
    "gen": 8,
@@ -8940,6 +9892,34 @@
    "climb": false,
    "flags": [],
    "note": "Keep D. FamilySearch shows both a dual parent-set and a different person in the preferred pedigree. Snippets did not identify Julianne Henrietta Grimm 1784 as his daughter."
+  },
+  {
+   "gen": 10,
+   "pos": 350,
+   "child_id": "M1B6-ZZD",
+   "child_name": "Juliana Culmann",
+   "parent_id": "M85Z-N28",
+   "parent_name": "Philip Friedrich Cullmann",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Culmann pastoral genealogy: Johann Philipp Friedrich Culmann, born 2 May 1715 at Hornbach, died 1791 at Baumholder, and Juliana Dorothea Scholler had daughter Juliana Culmann, born 20 Mar 1749 at Altenglan."
+  },
+  {
+   "gen": 10,
+   "pos": 351,
+   "child_id": "M1B6-ZZD",
+   "child_name": "Juliana Culmann",
+   "parent_id": "KC66-Z98",
+   "parent_name": "Juliana Dorothea Scholler",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same child list. He married Juliana Dorothea Scholler, daughter of Valentin Scholler of Kusel, on 14 May 1748. She is the mother named for Juliana, born 1749."
   },
   {
    "gen": 9,
@@ -9056,6 +10036,34 @@
    "climb": true,
    "flags": [],
    "note": "Same study: Anna Margaretha Sannwald/Sanwald is mother of the emigrating sons including Georg Michael. WikiTree Sannwald-9."
+  },
+  {
+   "gen": 10,
+   "pos": 384,
+   "child_id": "L89J-BMQ",
+   "child_name": "Hanss Jerg Voglemann",
+   "parent_id": "LTVV-XCG",
+   "parent_name": "Adam Vogelmann",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Michelfeld marriage 3 Nov 1674 is Adam Vogelmann to Ursula, daughter of Leonhard Wuerttenberger. The Sanzenbach baptism index, 13 Nov 1699, is Jerg Vogelmann, mother Ursula Wuertemberger. She died in 1726 as Adam's widow."
+  },
+  {
+   "gen": 10,
+   "pos": 385,
+   "child_id": "L89J-BMQ",
+   "child_name": "Hanss Jerg Voglemann",
+   "parent_id": "MRSG-2HT",
+   "parent_name": "Ursula Wuertenberger",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Baptism index 13 Nov 1699, Sanzenbach: Jerg Vogelmann, mother Ursulae Wuertemberger. WikiTree Wuertemberger-17. Matches Hanss Jerg born 1699."
   },
   {
    "gen": 11,
@@ -9313,6 +10321,34 @@
    "note": "Nancy Bass (dau Jeremiah Bass/Hannah Whitney m.1773) born ~1776 not 1760."
   },
   {
+   "gen": 10,
+   "pos": 400,
+   "child_id": "L89J-BMQ",
+   "child_name": "Hanss Jerg Voglemann",
+   "parent_id": "LTVV-XCG",
+   "parent_name": "Adam Vogelmann",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Michelfeld marriage 3 Nov 1674 is Adam Vogelmann to Ursula, daughter of Leonhard Wuerttenberger. The Sanzenbach baptism index, 13 Nov 1699, is Jerg Vogelmann, mother Ursula Wuertemberger. She died in 1726 as Adam's widow."
+  },
+  {
+   "gen": 10,
+   "pos": 401,
+   "child_id": "L89J-BMQ",
+   "child_name": "Hanss Jerg Voglemann",
+   "parent_id": "MRSG-2HT",
+   "parent_name": "Ursula Wuertenberger",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Baptism index 13 Nov 1699, Sanzenbach: Jerg Vogelmann, mother Ursulae Wuertemberger. WikiTree Wuertemberger-17. Matches Hanss Jerg born 1699."
+  },
+  {
    "gen": 11,
    "pos": 800,
    "child_id": "LTVV-XCG",
@@ -9456,20 +10492,6 @@
     "placeholder"
    ],
    "note": "Placeholder or unnamed parent."
-  },
-  {
-   "gen": 10,
-   "pos": 419,
-   "child_id": "LCC1-2GN",
-   "child_name": "Catherine Aron",
-   "parent_id": "LZRR-8T2",
-   "parent_name": "Louise Marguerite Gibault",
-   "role": "mother",
-   "grade": "D",
-   "verdict": "UNRESOLVED",
-   "climb": false,
-   "flags": [],
-   "note": "FamilySearch preferred pedigree now shows a different person at this slot."
   },
   {
    "gen": 13,
@@ -14965,6 +15987,90 @@
     "child_after_parent_death"
    ],
    "note": "Impossible chronology: child after parent death, mother over 55."
+  },
+  {
+   "gen": 10,
+   "pos": 90,
+   "child_id": "G7TM-X11",
+   "child_name": "Mary Rankin",
+   "parent_id": "L62W-ZQY",
+   "parent_name": "William Rankin I",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Washington County, Pennsylvania will of William Rankin, Book 1 p. 206, names daughter Mary Rankin Cherry. Digging Up Dead Relatives, citing that will. WikiTree Rankin-77 lists Mary b. about 1758 among the children; one account says she married Thomas Cherry, another John Cherry."
+  },
+  {
+   "gen": 10,
+   "pos": 91,
+   "child_id": "G7TM-X11",
+   "child_name": "Mary Rankin",
+   "parent_id": "LHGB-981",
+   "parent_name": "Abigail Tassia",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Same will names wife Abigail. Frederick deeds also name the wife Abigail. WikiTree lists Mary as a child of William and Abigail Tassia."
+  },
+  {
+   "gen": 10,
+   "pos": 92,
+   "child_id": "LCR3-Y4C",
+   "child_name": "Jonathan A Pierce",
+   "parent_id": "LW5M-6WX",
+   "parent_name": "Benjamin Pierce III",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Benjamin Pierce of Scituate died intestate 1768. The division and guardianship name son Jonathan Pierce. Pierce Genealogy (1889) lists Jonathan b. 18 Feb 1748, son of Benjamin and Charity Howard."
+  },
+  {
+   "gen": 10,
+   "pos": 93,
+   "child_id": "LCR3-Y4C",
+   "child_name": "Jonathan A Pierce",
+   "parent_id": "KLB1-3SS",
+   "parent_name": "Charity Howard",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Charity died 25 Feb 1748, a week after Jonathan's birth. Her father Jonathan Howard's 1766 estate distribution names her sons Benjamin and Jonathan. WikiTree Howard-719."
+  },
+  {
+   "gen": 10,
+   "pos": 94,
+   "child_id": "LCR3-Y41",
+   "child_name": "Mary Litchfield",
+   "parent_id": "LVC6-BWC",
+   "parent_name": "Isaac Litchfield",
+   "role": "father",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Will of Isaac Litchfield of Scituate, 25 May 1798, proved 24 Dec 1800, names daughter Mary Peirce. WeRelate, citing the Litchfield genealogy and Plymouth probate."
+  },
+  {
+   "gen": 10,
+   "pos": 95,
+   "child_id": "LCR3-Y41",
+   "child_name": "Mary Litchfield",
+   "parent_id": "LCR3-THL",
+   "parent_name": "Lydia Cowing",
+   "role": "mother",
+   "grade": "B",
+   "verdict": "ACCEPT",
+   "climb": true,
+   "flags": [],
+   "note": "Lydia Cowing, first wife, died 22 Aug 1756. The Litchfield circular assigns Mary, b. about 1749, wife of Jonathan Peirce, to that first marriage. She is not named in the later will because she was already dead."
   },
   {
    "gen": 11,

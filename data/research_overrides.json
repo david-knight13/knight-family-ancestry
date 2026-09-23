@@ -97,10 +97,10 @@
   {
     "parent_id": "GQVF-3TR",
     "child_id": "KNVC-7HV",
-    "grade": "U",
+    "grade": "D",
     "verdict": "UNRESOLVED",
     "climb": false,
-    "note": "Dual-parent flag is two wives of James Arnold: chart Nancy Jackson (GQVF-3TR) vs Elizabeth (Ann Warren) McGowan. No 1850 household or death-certificate parent line retrieved. Do not invent a mother; do not climb."
+    "note": "Unresolved dual-parent. Chart mother is Nancy Jackson. Compiled accounts (YourRoots) name Elizabeth (Ann Warren) McGowan, born about 1820 in Bedford, Tennessee, as Lumiza Frances Arnold's mother. No census or death certificate names either woman. Do not climb."
   },
   {
     "parent_id": "M8KX-YTS",
@@ -594,15 +594,15 @@
     "grade": "C",
     "verdict": "ACCEPT",
     "climb": true,
-    "note": "Compiled trees put Katie (b. 28 Nov 1891 Cheneyville) as daughter of William Abercrombie Nash × Lucinda G. Calhoun; grandson James Calhoun Odom is onomastic support. No census/death cert naming him opened. No competing father."
+    "note": "Same 1900 census image names widow Lucinda and daughter Katherine, not William. He died in 1894, before that census. Compiled trees still make him the father, and nothing competes, but no record yet names him with Katie."
   },
   {
     "parent_id": "2CTY-PY7",
     "child_id": "2CTY-PFK",
-    "grade": "C",
+    "grade": "B",
     "verdict": "ACCEPT",
     "climb": true,
-    "note": "Same compiled cluster as William A. Nash; Katie’s 1971 obit does not name parents. No competing mother. A 1900 widow-Lucinda household would raise this to B."
+    "note": "1900 U.S. census image, FamilySearch ark:/61903/3:1:S3HT-6829-MRX (NARA T623, collection 1325221), shows Lucinda Nash and Katherine (Katy) Nash together. William died in 1894, so this is the widow's household. It names the mother and daughter."
   },
   {
     "parent_id": "G7FH-7SF",
@@ -4360,5 +4360,1085 @@
     "verdict": "ACCEPT",
     "climb": true,
     "note": "Same DAR child list. Millicent died 1793; Elizabeth is a child of the first marriage, not of Catherine Reed."
+  },
+  {
+    "parent_id": "G3VH-31P",
+    "child_id": "LRG8-G9G",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Carter-13582 quotes a Knight will that calls Isabell the wife and names sons John and Moses and a grandson Robert Knight, not a son Robert. Barnes treats William Knight, d. 1752 Bertie, as the father of John of Edgecombe. Do not climb Isabell as Robert Knight Sr's mother."
+  },
+  {
+    "parent_id": "MMF6-SX2",
+    "child_id": "L419-ZSZ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "James Spier's Edgecombe will, 12 Jan 1761, names sons John, James, Nathaniel, Dempsey, William, Wright, David, and Kindred, daughter Chaney, and wife Elizabeth. Theresa is not named. WikiTree Spier-73. FS lists her anyway."
+  },
+  {
+    "parent_id": "MT23-7H2",
+    "child_id": "9K9K-2VH",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Merritt-1568 says the documented Thomas Merritt was John Merritt's brother, not his son. The 1757 Edgecombe court minute shows Thomas as a witness to John's will. FAG 112021762 lists a Thomas among 'known children' without quoting a devise. Do not climb."
+  },
+  {
+    "parent_id": "LRFX-C8W",
+    "child_id": "9K9K-2VH",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John's wife is Mary, with Haywood only guessed ('Mary (Haywood?)'). The same Thomas link is disputed. Do not climb the Haywood identity. Her own FS parents are chronologically impossible."
+  },
+  {
+    "parent_id": "GNLH-NPK",
+    "child_id": "L51L-YZJ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Nottingham Morah as the father of Mary Morah of Bertie. Search hit unrelated Bertie records."
+  },
+  {
+    "parent_id": "LDMX-FQC",
+    "child_id": "L6JV-CGK",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "JeterRoots says only John Jeter Jr is proved as a son of the immigrant, and calls William a putative son. Wife's name unknown there. Compiled trees (FS, Geni, Our Kin) name William anyway. Do not climb."
+  },
+  {
+    "parent_id": "GTXS-6HG",
+    "child_id": "L6JV-CGK",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same caution. WikiTree Vaughn-1338 is unsourced. The careful Jeter account leaves the immigrant's wife unnamed. Do not climb Elizabeth Vaughan."
+  },
+  {
+    "parent_id": "MQ8P-J73",
+    "child_id": "K8HQ-6RR",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Cornelius Vaughan, 6 Nov 1735, King and Queen County, names daughter Margaret among the four youngest children. WikiTree Vaughan-80. His widow Elizabeth's 1775 will calls her Margaret Geter."
+  },
+  {
+    "parent_id": "LTZW-CBV",
+    "child_id": "K8HQ-6RR",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The 1775 Spotsylvania will of wife Elizabeth names daughter Margaret Geter, so the wife is the mother. WikiTree Unknown-502472 leaves her surname unknown; Foster is only a guess. Do not climb the Foster identity. A conflicting note calls Margaret the daughter of Martin Vaughan, granddaughter of Cornelius."
+  },
+  {
+    "parent_id": "GL9P-3GL",
+    "child_id": "LK36-BW3",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Nicholas Edmunds, Brunswick Co. WB 5 pp. 296-299, written 26 Jul 1787, proved 25 May 1789, leaves land to 'my son Sterling Edmunds.' WikiTree Edmunds-496."
+  },
+  {
+    "parent_id": "G1P6-S89",
+    "child_id": "LRZ9-MQY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "1763 Craven County indenture between Lawrence Free and Adam Free names Adam as son of Lawrence and Mary Free. WikiTree Free-244. Chart 'Lafayette Adam Free' is that Adam, b. about 1737."
+  },
+  {
+    "parent_id": "G1P6-S89",
+    "child_id": "G24F-GQR",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The indenture and the FS child list name Adam, Jacob, Thomas, and Mary. They do not name a daughter Margaret Wheeler. Do not climb that link."
+  },
+  {
+    "parent_id": "PZ5B-Z3X",
+    "child_id": "LRZ9-MQY",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Chart mother is given-name-only 'Free.' The 1763 indenture names the wife Mary. Do not climb this placeholder."
+  },
+  {
+    "parent_id": "PZ5B-Z3X",
+    "child_id": "G24F-GQR",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same placeholder. No given name, and Margaret Wheeler is not in the Free child list."
+  },
+  {
+    "parent_id": "G2DK-W6C",
+    "child_id": "JXZH-437",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Patience Howell as a daughter of Thomas Howell. The southern Howell genealogy lists a Thomas Howell of Edgecombe as a brother of John and Joseph, not as Patience's father. FS lists her. Do not climb."
+  },
+  {
+    "parent_id": "LDYZ-F51",
+    "child_id": "JXZH-437",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Elizabeth Ann McKinney is only on the FS life sketch. The McKinney hit was Patience (McKinnie) Lane, daughter of Barnaby McKinnie, a different woman. Do not climb."
+  },
+  {
+    "parent_id": "G9XK-DMJ",
+    "child_id": "M9MM-G3L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No will or child list names John Cherry I, b. 1752, as a son of Thomas Cherry and Rachel Emlen. The Bertie wills name other Thomas and John Cherrys. FS attaches a different Thomas Jr, b. 1738, to a Rachel Emlen."
+  },
+  {
+    "parent_id": "LDKV-G8Y",
+    "child_id": "M9MM-G3L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Emlen-17 has no child list. It only notes a merge with the Rachel who married a Thomas Cherry. John Cherry I is not named. Do not climb."
+  },
+  {
+    "parent_id": "L62W-ZQY",
+    "child_id": "G7TM-X11",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Washington County, Pennsylvania will of William Rankin, Book 1 p. 206, names daughter Mary Rankin Cherry. Digging Up Dead Relatives, citing that will. WikiTree Rankin-77 lists Mary b. about 1758 among the children; one account says she married Thomas Cherry, another John Cherry."
+  },
+  {
+    "parent_id": "LHGB-981",
+    "child_id": "G7TM-X11",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Abigail. Frederick deeds also name the wife Abigail. WikiTree lists Mary as a child of William and Abigail Tassia."
+  },
+  {
+    "parent_id": "LW5M-6WX",
+    "child_id": "LCR3-Y4C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Benjamin Pierce of Scituate died intestate 1768. The division and guardianship name son Jonathan Pierce. Pierce Genealogy (1889) lists Jonathan b. 18 Feb 1748, son of Benjamin and Charity Howard."
+  },
+  {
+    "parent_id": "KLB1-3SS",
+    "child_id": "LCR3-Y4C",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Charity died 25 Feb 1748, a week after Jonathan's birth. Her father Jonathan Howard's 1766 estate distribution names her sons Benjamin and Jonathan. WikiTree Howard-719."
+  },
+  {
+    "parent_id": "LVC6-BWC",
+    "child_id": "LCR3-Y41",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Isaac Litchfield of Scituate, 25 May 1798, proved 24 Dec 1800, names daughter Mary Peirce. WeRelate, citing the Litchfield genealogy and Plymouth probate."
+  },
+  {
+    "parent_id": "LCR3-THL",
+    "child_id": "LCR3-Y41",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Lydia Cowing, first wife, died 22 Aug 1756. The Litchfield circular assigns Mary, b. about 1749, wife of Jonathan Peirce, to that first marriage. She is not named in the later will because she was already dead."
+  },
+  {
+    "parent_id": "L6Y9-CQ6",
+    "child_id": "GHN6-9YP",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Abraham Odom's will, 30 Jan 1771, Granville, South Carolina, gives son Dempsey half the land on Pipe Creek and names him an executor. WikiTree Odom-10."
+  },
+  {
+    "parent_id": "L1R8-RM6",
+    "child_id": "GHN6-9YP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "1746 Edgecombe deeds name Abraham's wife Sebell. The 1771 will does not name a wife. Barnes is not in those records. Do not climb the Barnes identity."
+  },
+  {
+    "parent_id": "LHG9-DF8",
+    "child_id": "LZR8-KZ2",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Hurley-1815 says no source documents Hurley as Jemima's birth name. Some accounts say Spier or Jones. A 1750 Edgecombe will of Francis Jones names a daughter Jemima Jones. Do not climb John Kebble Hurley."
+  },
+  {
+    "parent_id": "PZXC-5QH",
+    "child_id": "PZXC-677",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Essex will of William Dunn, 17 May 1767, leaves the home land to son William. That son is the man born about 1726 (WikiTree Dunn-5849), not the chart's William Dunn Sr b. 1754. Do not climb this slot."
+  },
+  {
+    "parent_id": "PHVX-8QL",
+    "child_id": "KHVF-W3Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "John R. Mayer, Extraneus Book XII, lists Mitchell Strange, b. 11 Aug 1726 in St. Peter's Parish, New Kent, as a son of Henry Strange and Mary Liptrot. WikiTree Strange-1949."
+  },
+  {
+    "parent_id": "PMFX-JZG",
+    "child_id": "KHVF-W3Y",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list. Mary's father Edmond Liptrot's 1734 will leaves her a heifer. The published list names her as Mitchell's mother."
+  },
+  {
+    "parent_id": "KD9C-GKH",
+    "child_id": "LQ5Y-CMK",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Elizabeth Tucker as a daughter of Isham Tucker. Search hit other Tuckers and a later Isham."
+  },
+  {
+    "parent_id": "LQ5Y-CGY",
+    "child_id": "LQ5Y-CMK",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Elizabeth Seeley is not named in any snippet as this child's mother. src=0."
+  },
+  {
+    "parent_id": "2Z3V-BM9",
+    "child_id": "K143-MG2",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Chart mother is given-name-only Elizabeth. Do not climb."
+  },
+  {
+    "parent_id": "LB24-516",
+    "child_id": "LVG2-JRY",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Overwharton Parish register, Stafford: Sarah, daughter of Mason and Sarah Combs, born 25 Feb 1745. Combs-families.org and WikiTree Combs-435."
+  },
+  {
+    "parent_id": "LTLH-H3N",
+    "child_id": "LVG2-JRY",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The register names the mother Sarah and does not give a surname. Combs Research Group leaves her surname unknown. Tucker is a compiled guess. Do not climb Tucker."
+  },
+  {
+    "parent_id": "LVDT-YR8",
+    "child_id": "LHPP-DLF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "North Farnham Parish christening, 4 Apr 1740, Benedict son of Robert Hammock and Ann. Robert's will, 1 Oct 1785, names son Benedict. WikiTree Hammack-58."
+  },
+  {
+    "parent_id": "L6KX-P9D",
+    "child_id": "LHPP-DLF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same christening names the mother Ann, and the will names wife Ann. The Hammack accounts identify her as Ann Lambert, daughter of Hugh Lambert."
+  },
+  {
+    "parent_id": "M3F3-M4S",
+    "child_id": "LB7T-JWB",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Mary Dunnawick as the mother of Richard William Rawlinson. Search hit modern Pennsylvania Rawlinsons."
+  },
+  {
+    "parent_id": "L69G-WSL",
+    "child_id": "LY7V-XZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Simon Hadley's will leaves bequests to grandchildren of daughter Ruth Lindley, wife of Thomas Lindley, including James Lindley. Cane Creek Quaker records list James b. 22 9th month 1735. Thomas's 1780 will mentions James as deceased."
+  },
+  {
+    "parent_id": "KNH8-47K",
+    "child_id": "LY7V-XZN",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will and the New Garden marriage of 21 10th month 1731. Ruth is named as James's mother in the Quaker child list."
+  },
+  {
+    "parent_id": "LBDZ-JK4",
+    "child_id": "MMQX-514",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Quaker collection for James Lindley names his wife Mary Cox, b. about 1733 at Hockessin, as daughter of William Cox and Catherine Kinkey."
+  },
+  {
+    "parent_id": "KNCG-H79",
+    "child_id": "MMQX-514",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same entry names Catherine Kinkey as Mary's mother."
+  },
+  {
+    "parent_id": "LY1Y-YT5",
+    "child_id": "LCMH-5KM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of John Nisbet, Rowan County, proved 21 Nov 1756, names sons William, David, James, John, and Thomas, and wife Sarah. The son John is the 1738 man who died at Statesville in 1817. WikiTree Nisbet-5397."
+  },
+  {
+    "parent_id": "K2MX-K3N",
+    "child_id": "LCMH-5KM",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Sarah. She was guardian of the minor sons. NCpedia calls the patriot one of six children of John and Sarah Nisbet."
+  },
+  {
+    "parent_id": "LDJ1-TWT",
+    "child_id": "LT4C-QLS",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The Craven County will of John Cargill, who died by 1777, names daughters Clary Dendy and Sarah Walker, not Elizabeth. A different John Cargill of Sussex had a daughter Elizabeth born in the 1760s who married Binns Jones. Chart Elizabeth, b. 1749, wife of Wettenhall Warner, is not in either list."
+  },
+  {
+    "parent_id": "KNX4-8Y3",
+    "child_id": "9HJ1-QZP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No will snippet names Susannah Malone as a daughter of this Robert. FS lists her. Other Malone wills name different Susannahs. Do not climb."
+  },
+  {
+    "parent_id": "LJ2R-B6Y",
+    "child_id": "9HJ1-QZP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Mary Harrison is only on the FS life sketch as Susannah's mother. No record in the snippets names her."
+  },
+  {
+    "parent_id": "LHBB-ZCS",
+    "child_id": "LCMH-52N",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Alexander Osborn, Rowan, 9 Jul 1776, names daughter Mary, and the codicil calls her Mary Nesbit. NCpedia lists daughter Mary among six children. She married John Nisbet."
+  },
+  {
+    "parent_id": "LTLZ-KMC",
+    "child_id": "LCMH-52N",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same will names wife Agness. She died two days before him. NCpedia identifies her as Agnes MacWhorter, and Mary as their daughter."
+  },
+  {
+    "parent_id": "KP9B-CCY",
+    "child_id": "LT4H-1Z7",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FS and Find a Grave say Wettenhall Warner, b. 12 Dec 1736 in Dublin, was the son of John and Margaret. No will was in the snippets. Dates fit."
+  },
+  {
+    "parent_id": "G6DR-921",
+    "child_id": "LT4H-1Z7",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same compiled accounts name Margaret as the mother. Not independently proved."
+  },
+  {
+    "parent_id": "G1P8-5CT",
+    "child_id": "LM9Z-1JC",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No dates and src=0. Search hit Rhode Island Lawtons whose wills name other children, not this Thomas b. 1753 or Mary Louisa. Do not climb."
+  },
+  {
+    "parent_id": "G1P8-5CT",
+    "child_id": "LWZC-D2H",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same placeholder father. No snippet names Mary Louisa Lawton as his daughter."
+  },
+  {
+    "parent_id": "K143-MYW",
+    "child_id": "K143-MG2",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Richmond County will of John Clark, 4 Apr 1754, proved 7 Apr 1755, leaves land to son John and names wife Elizabeth as executor with him. WikiTree Clark-49064."
+  },
+  {
+    "parent_id": "L4FV-177",
+    "child_id": "LX7L-CYH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "St. Paul's parish record and the Edenton marker call Thomas Walker Nash the son of John Nash and Ann Owen of Prince Edward. His uncle Thomas Nash's 1732 Henrico will names nephew Thomas, child of John. Ann witnessed that will."
+  },
+  {
+    "parent_id": "GTPH-44L",
+    "child_id": "GKQF-ZG1",
+    "grade": "F",
+    "verdict": "PRUNE",
+    "climb": false,
+    "note": "Henry Holdcroft of New Kent died about 1728. Blisland vestry and the 1712 Wharton will know a daughter Mary already living then. He cannot be the father of Mary Acton Holdcroft b. 1740."
+  },
+  {
+    "parent_id": "GTP4-Q4N",
+    "child_id": "GKQF-ZG1",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The 1712 Wharton will is Richard Wharton, godfather to Henry's daughter Mary, not a mother named Sarah Wharton. No snippet names Sarah as mother of the 1740 Mary. Do not climb."
+  },
+  {
+    "parent_id": "L87T-XCK",
+    "child_id": "PMMH-BFF",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names John Fletcher Sr, b. 1717, as the son of Andrew Fletcher II of Devon. The 1825 Saltash will is a different John Fletcher. Do not climb."
+  },
+  {
+    "parent_id": "L87T-X81",
+    "child_id": "PMMH-BFF",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Mary Willson as mother of John Fletcher Sr. The Wilson-Fletcher hits are Deborah Wilson of Cumberland, married 1785, and Mary Bosanquet Fletcher. Do not climb."
+  },
+  {
+    "parent_id": "L1L8-66J",
+    "child_id": "LTB4-VTX",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "FamilySearch and WikiTree Guenther-1865 both call Johann Peter Kinder, baptized 14 May 1710 at Neunkirchen, the son of Hans Peter Guenther and Louisa Burckhardt Bohn. No quoted parish entry or will, so C not B. A second Peter Kinder (about 1712-1793) is a different man."
+  },
+  {
+    "parent_id": "L1L8-66J",
+    "child_id": "L6GP-JBS",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Mary Magdalena Sattler married Johann Peter Kinder on 10 May 1735. She is his wife, not a daughter of Hans Peter Guenther. The FamilySearch preferred pedigree no longer puts Hans Peter in her father slot. Do not climb."
+  },
+  {
+    "parent_id": "GZVL-ZDY",
+    "child_id": "LVVN-S7W",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Keighley John Stell, baptized 1690, married Mary Jackson in 1715. His recorded children do not include a John born 1743. No snippet names the chart's John Stell of 1707 as father of John Stell Sr b. 1743. Do not climb."
+  },
+  {
+    "parent_id": "GZVL-LRF",
+    "child_id": "LVVN-S7W",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Taylor-15929: no 1705 Keighley baptism for Alice Taylor. The parish marriage is Alice Taylor to Joseph Stell, 1 Jan 1733/4, and their son John was baptized in 1735, not 1743. Do not climb."
+  },
+  {
+    "parent_id": "9712-JBG",
+    "child_id": "KNY6-KK8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Only the FamilySearch brief life calls Sarah Newberry the mother of Thomas Franklin Jones. No will or second tree names her. Do not climb."
+  },
+  {
+    "parent_id": "9712-JBG",
+    "child_id": "GWHD-T4V",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Catherine Littleton is the wife of Thomas Franklin Jones, not a daughter of Sarah Newberry. Her surname is Littleton. Do not climb."
+  },
+  {
+    "parent_id": "G54T-W9R",
+    "child_id": "GNYV-95B",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Only the FamilySearch brief life calls Thomas Haton Morris the son of Isaac Morris of Bewdley. The published Isaac Morris family (Ruth Henton, Pennsylvania) is a different man. Do not climb."
+  },
+  {
+    "parent_id": "K6SM-88Z",
+    "child_id": "GNYV-95B",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same as the father. FamilySearch alone lists Katherine Higgins as the mother. No will or parish extract names Thomas. Do not climb."
+  },
+  {
+    "parent_id": "GH26-MGH",
+    "child_id": "G54L-5LD",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The Amherst will of John Sorrell, 25 Mar 1780, names wife Molly Coleman Sorrell, daughter Katy Howard, and granddaughter Mary Ann Snead. It does not name a daughter Mary Ann born 1714. Do not climb."
+  },
+  {
+    "parent_id": "GL7G-Q4H",
+    "child_id": "LT4C-QLS",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John Cargill's 9 Apr 1777 Craven will names wife Rachel. It does not name a daughter Elizabeth. His daughter list in that will is already graded as omitting Elizabeth Sarah. Compiled trees add her. Do not climb."
+  },
+  {
+    "parent_id": "L1CB-2QP",
+    "child_id": "LD7C-STQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Bladen County will of Francis Thomas, 8 Jun 1756, proved Oct 1756, names son George. Wife and executrix is Joan. WikiTree Thomas-25105. Matches the chart's Francis of Bladen, d. 1756."
+  },
+  {
+    "parent_id": "LJYD-HJM",
+    "child_id": "LD7C-STQ",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The 1756 will's wife is Joan, and Jenette Winning is said to have died in 1734, so she is not that widow. No snippet names Jenette as the mother of George. Do not climb."
+  },
+  {
+    "parent_id": "K4YW-WKR",
+    "child_id": "LQRS-76L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Edgecombe Johnston wills name other daughters (Celia, Elizabeth, Prudence, Mary Ann), not Jane, daughter of this Joseph. No snippet names Jane Johnston as his child. Do not climb."
+  },
+  {
+    "parent_id": "K6WB-Z9D",
+    "child_id": "LQRS-76L",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Susannah Jones as the mother of Jane Johnston. Do not climb."
+  },
+  {
+    "parent_id": "GNW3-H1B",
+    "child_id": "L7F1-ZQ3",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Lee-7405 names Solomon as a son of Bryan Lee of New Hanover, who died in 1768, and says Solomon married Temperance Spearman and died in 1818. Estate administrator was Thomas Devane. No will in the snippet, so C not B."
+  },
+  {
+    "parent_id": "GVZR-NP6",
+    "child_id": "L7F1-ZQ3",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The same page names Mary Ruth Devane as the mother of son Samuel, not of Solomon. Do not treat the father's child list as proof of her. Do not climb."
+  },
+  {
+    "parent_id": "LRYQ-78K",
+    "child_id": "GQFK-8KR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Lee-7405 calls Temperance Spearman the daughter of Andrew and Mary (Farris) Spearman, and the wife of Solomon Lee of New Hanover. The Solomon Lee genealogy is cited, not quoted. No will in the snippet, so C not B."
+  },
+  {
+    "parent_id": "LBG4-23P",
+    "child_id": "GQFK-8KR",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same account names Mary Farris as Temperance's mother. Mary born 1739 and Temperance born 1760 fit. No parish entry in the snippet, so C not B."
+  },
+  {
+    "parent_id": "LBQ3-HNX",
+    "child_id": "G828-K46",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Arensbourg-1 calls Claude Adrien de LaGroue, born 1728 in Paris, the son of Claude de LaGroue and Magdelaine Denise. No will or baptism quote. He married Francoise Louise D'Arensbourg 9 Aug 1751. Father's chart birth of 1654 makes him about 74. C not B."
+  },
+  {
+    "parent_id": "LH6F-HHH",
+    "child_id": "G828-K41",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree calls Francoise Louise the daughter of Carol Frideric Arensburg and Marguerite Metzer. The 28 May 1740 marriage of Marie Louise names the commandant of Les Allemands and Marguerite Metzerinne; that page is unsure Francoise is the same woman. C not B."
+  },
+  {
+    "parent_id": "L5DM-SWC",
+    "child_id": "G828-K41",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same accounts name Marguerite Metzer as the mother. The January 1726 German Coast census says Karl had married Marguerite and had a child. Some records put the marriage after the first children. C not B."
+  },
+  {
+    "parent_id": "LWLS-KM9",
+    "child_id": "LCX9-55H",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Geneanet and Geni call Jacques de la Chaise, died 26 Oct 1768 in New Orleans, the son of Jacques de la Chaise the commissioner and Marguerite Cailly, baptized 31 Jan 1708 at Saint-Denis, Nantes. The chart birth of 1700 is approximate. The register line is not quoted, so C not B."
+  },
+  {
+    "parent_id": "LH6F-HHH",
+    "child_id": "LH8L-PYL",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree lists Marie Marguerite D'Arensbourg, born 18 Oct 1723 on the German Coast, among the known children of Karl and Marguerite Metzer. Dates match the chart's Marguerite Louise. No baptism quote, so C not B."
+  },
+  {
+    "parent_id": "L5DM-SWC",
+    "child_id": "LH8L-PYL",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list names Marguerite Metzer as the mother of Marie Marguerite, born 1723. C not B."
+  },
+  {
+    "parent_id": "LHD1-2PK",
+    "child_id": "LH6F-HHH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "WikiTree Arensburg-1: Karl was the son of Johann Leonhard Arensburg and Elisabeth Eleonora Forstmann, baptized 25 Jan 1694 at the Schlosskirche, Stettin. Wikipedia confirms the baptism date and Stettin birth. Geni names the same parents."
+  },
+  {
+    "parent_id": "LHD1-LMZ",
+    "child_id": "LH6F-HHH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same baptism account names Elisabeth Eleonora Forstmann as the mother. She was about 16 in January 1694. The record names her, so this is not a guessed surname."
+  },
+  {
+    "parent_id": "9K6Y-M7M",
+    "child_id": "L5DM-SWC",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Geni lists Jonas (Johann) Metzer as Marguerite's father, but the WikiTree biography says she is known only from census, colonial papers, and her children's records. No baptism names Johannes. Do not climb."
+  },
+  {
+    "parent_id": "LX7N-4RH",
+    "child_id": "LZ8K-7SV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "The 1739 New Orleans marriage contract and a 1735 procuration call Charles the son of Pierre de la Vergne and Elizabeth Billet of St. Eustache, Paris. WikiTree uses Abel. Abel Ferdinand in the 1735 act is another son, a novice, not the father. The chart's Abel Pierre is that Pierre."
+  },
+  {
+    "parent_id": "L5LG-CGN",
+    "child_id": "LZ8K-7SV",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "The same contract names Elizabeth Billet of St. Eustache as Charles's mother. WikiTree agrees. Baptized 5 Aug 1700."
+  },
+  {
+    "parent_id": "LCF9-2P4",
+    "child_id": "LZ8K-WRH",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Charles's 16 Jun 1739 marriage contract names his wife Marie Josephe Carriere as the daughter of Andre Carriere and Marguerite Harlut. Archdiocese of New Orleans sacramental records, vol. 1."
+  },
+  {
+    "parent_id": "GQ26-7L7",
+    "child_id": "LHZD-QVP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Chisolm Genealogy says Alexander of Charles Town may be the Alexander, son of John Ban and Catherine Macrae, in Mackenzie's History, and then says there is no proof. Do not climb."
+  },
+  {
+    "parent_id": "KHN9-FR6",
+    "child_id": "LHZD-QVP",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same account. Catherine MacRae is only a guessed mother. The author says he has no proof. Do not climb."
+  },
+  {
+    "parent_id": "LHZD-WLS",
+    "child_id": "LHDF-MJS",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Alexander Chisolm of Charles Town, 7 Apr 1760, proved 1772, divides the estate between daughters Ann Wilson and Christina Chisolme. Matches the chart father who died in 1772."
+  },
+  {
+    "parent_id": "G8L3-3P3",
+    "child_id": "LHDF-MJS",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "St. Philip's register: Alexander Chisolm married Judith Radcliffe 26 Feb 1742. Christina was born 21 Nov 1745 and the will names her as his daughter. The will does not name Judith, so C not B. No later wife before 1745 is in the snippet."
+  },
+  {
+    "parent_id": "L45Q-WQ2",
+    "child_id": "KZCQ-F1D",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Will of Samuel Prioleau of Charleston, 2 Feb 1779, proved 11 Jan 1792, names sons Samuel, Philip, and Hext Prioleau. Hext was born 31 Oct 1753."
+  },
+  {
+    "parent_id": "L45Q-WVW",
+    "child_id": "KZCQ-F1D",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Samuel married Providence Hext on 14 Oct 1739. She died 18 Feb 1775, before the 1779 will, which names son Hext but not her. The published sketch lists Hext among the issue of that marriage. C not B."
+  },
+  {
+    "parent_id": "LZLK-RJJ",
+    "child_id": "L71L-DVC",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Salley says Elizabeth Hext married Robert Williams Jr on 1 Jan 1755 and had issue, but no snippet names a daughter Margaret. Do not climb."
+  },
+  {
+    "parent_id": "L45Q-W22",
+    "child_id": "L71L-DVC",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "St. Philip's register and the South-Carolina Gazette record the marriage and Elizabeth's death in Nov 1769. Neither names Margaret Williams. Do not climb."
+  },
+  {
+    "parent_id": "KZYK-KC6",
+    "child_id": "G67F-8JH",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Search hit the Hanau Grimm brothers, a different family. No snippet names Johann Wilhelm Grimm of Kusel, born 1747, as the son of Johann Abraham Grimm. Do not climb."
+  },
+  {
+    "parent_id": "KDQ7-Z2S",
+    "child_id": "G67F-8JH",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Maria Elisabetha Scholler as the mother of Johann Wilhelm Grimm. Do not climb."
+  },
+  {
+    "parent_id": "M85Z-N28",
+    "child_id": "M1B6-ZZD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Culmann pastoral genealogy: Johann Philipp Friedrich Culmann, born 2 May 1715 at Hornbach, died 1791 at Baumholder, and Juliana Dorothea Scholler had daughter Juliana Culmann, born 20 Mar 1749 at Altenglan."
+  },
+  {
+    "parent_id": "KC66-Z98",
+    "child_id": "M1B6-ZZD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list. He married Juliana Dorothea Scholler, daughter of Valentin Scholler of Kusel, on 14 May 1748. She is the mother named for Juliana, born 1749."
+  },
+  {
+    "parent_id": "LTVV-XCG",
+    "child_id": "L89J-BMQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Michelfeld marriage 3 Nov 1674 is Adam Vogelmann to Ursula, daughter of Leonhard Wuerttenberger. The Sanzenbach baptism index, 13 Nov 1699, is Jerg Vogelmann, mother Ursula Wuertemberger. She died in 1726 as Adam's widow."
+  },
+  {
+    "parent_id": "MRSG-2HT",
+    "child_id": "L89J-BMQ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Baptism index 13 Nov 1699, Sanzenbach: Jerg Vogelmann, mother Ursulae Wuertemberger. WikiTree Wuertemberger-17. Matches Hanss Jerg born 1699."
+  },
+  {
+    "parent_id": "M6LT-H8M",
+    "child_id": "L89J-B94",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Westheim marriage 28 Jan 1696 is Michael Sanwald to Catharina Koppenhoeffer. Their indexed son is Johannes, baptized 26 Dec 1698, not Anna Margaretha born 1702. Do not climb."
+  },
+  {
+    "parent_id": "L89J-1Q6",
+    "child_id": "L89J-B94",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The 1698 baptism names Catharina as mother of Johannes Sanwald. No snippet names Anna Margaretha Sanwald as her daughter. Do not climb."
+  },
+  {
+    "parent_id": "LZRR-8T2",
+    "child_id": "KGM6-K5V",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The known children of Louise-Marguerite Gibaut and Jean-Baptiste Aymond are Louis-Hyacinthe, Jean-Baptiste (1725), Etienne, Joseph, and Marie-Joseph. Michel Aymond is not in that list. Do not climb."
+  },
+  {
+    "parent_id": "LZRR-8T2",
+    "child_id": "LCC1-2GN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Catherine Aron is not among those children. FamilySearch no longer puts Louise-Marguerite in her mother slot. She is a later Aymond wife, not this woman's daughter. Do not climb."
+  },
+  {
+    "parent_id": "MJL5-ZCM",
+    "child_id": "LTSF-4V6",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Genealogie Quebec and FamilySearch call Pierre Joffrion, born 14 or 15 Aug 1715, the son of Jean Geoffrion and Marie-Charlotte Lefrancois. The baptism line is not quoted, so C not B."
+  },
+  {
+    "parent_id": "LTSF-SGD",
+    "child_id": "LTSF-4V6",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same accounts name Marie-Charlotte Lefrancois, married 17 Mar 1709 at Varennes, as the mother. C not B."
+  },
+  {
+    "parent_id": "PQT5-22R",
+    "child_id": "L4J2-NM8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "WikiTree Ozanne-20: the 4 Mar 1748 Kaskaskia will of Pierre Doza and Marguerite Gignard names children Noel Joseph and Marguerite, not Antoine. Quebec baptisms of this couple have no Antoine. Do not climb."
+  },
+  {
+    "parent_id": "LRH3-B2Y",
+    "child_id": "L4J2-NM8",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Same will. Marguerite Gignard is the wife, and Antoine is not among the named children. Do not climb."
+  },
+  {
+    "parent_id": "GZJ3-9XV",
+    "child_id": "L5ZF-6DJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Pointe Coupee marriage 12 Aug 1749 of Antoine Dozat to Marie Catherine Frederic calls her the daughter of Jean Frederic and Marie Catherine de Boulair. The chart adds Leonard to the father's name. The record names Jean Frederic."
+  },
+  {
+    "parent_id": "GZJ3-M11",
+    "child_id": "L5ZF-6DJ",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same marriage calls Marie Catherine de Boulair the mother. The chart adds Poulier. The record names de Boulair."
+  },
+  {
+    "parent_id": "L67B-41V",
+    "child_id": "L67Y-1PD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Genealogie Quebec lists Jacques Desautels, born 1720, among the children of Pierre Desautels dit Lapointe and Angelique Thuillier. A 1720 baptism is indexed for Jacques Desautels-Lapointe. Pierre was buried 11 Aug 1753 at Longue-Pointe."
+  },
+  {
+    "parent_id": "MWC4-716",
+    "child_id": "L67Y-1PD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same child list says Jacques was born of Angelique Thuillier. She was baptized 17 Oct 1683 at Montreal as Therese Angelique, married Pierre 12 Jan 1699, and was buried 19 Jan 1765 as his widow."
+  },
+  {
+    "parent_id": "L67B-M9W",
+    "child_id": "KZFQ-JKD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Pointe Coupee baptism 1 Nov 1738: Anne dit Rocancourt Stephan, born 1 Oct 1738, daughter of Jean Stephan and Anne Rolan. Diocese of Baton Rouge Catholic Church Records, vol. 1b. The 1745 census lists Anne and Perine as their daughters."
+  },
+  {
+    "parent_id": "LZ68-L3R",
+    "child_id": "KZFQ-JKD",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same baptism names Anne Francoise Roland as the mother. She married Jean Stephan dit Roquancourt on 22 Feb 1737. Her own parents in the contract are Jean Baptiste Rolland and Jeanne Bonnet, not this link."
+  },
+  {
+    "parent_id": "GT5G-4FC",
+    "child_id": "GG66-4SZ",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "A Geneanet tree names Pierre Recouly, cooper, born 27 Sep 1737 at Montpellier and died 21 Mar 1812, as the son of Claude Recouly (1709-1764) and Francoise Vierne. Dates match the chart. No register quote, so C not B."
+  },
+  {
+    "parent_id": "GT5G-WFS",
+    "child_id": "GG66-4SZ",
+    "grade": "C",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same tree names Francoise Vierne, 1707-1783, as the mother. C not B."
+  },
+  {
+    "parent_id": "GB18-5PD",
+    "child_id": "GG66-S2T",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Joseph Conquet as the father of Elisabeth Conquet, born 1741. The Recouly tree only names her as Pierre's wife. Do not climb."
+  },
+  {
+    "parent_id": "GJLX-NC8",
+    "child_id": "GG66-S2T",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "No snippet names Marie Poumaret as Elisabeth Conquet's mother. Do not climb."
+  },
+  {
+    "parent_id": "L8BV-HYL",
+    "child_id": "LY31-3P2",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The 5 May 1743 Grand-Pre baptism of Osithe, daughter of Jean Landry and Claire LeBlanc, is a different girl, deported to Pennsylvania as a child. WikiTree Landry-1079 says the chart's Rose Osithe, about 1735-1810, wife of Castille, has no baptism and uncertain parents. Do not climb."
+  },
+  {
+    "parent_id": "MXD8-LZW",
+    "child_id": "LY31-3P2",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Claire LeBlanc is the mother on that 1743 baptism, not of the 1735-1810 Rose Osithe. Do not climb."
+  },
+  {
+    "parent_id": "LR6K-518",
+    "child_id": "9KZV-NND",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Edgecombe will of Thomas Pitman, 4 Apr 1754, names wife Ann, son Lott, son Thomas, and other sons and two daughters without naming them. Judith is not named. Do not climb."
+  },
+  {
+    "parent_id": "LL7N-5N8",
+    "child_id": "9KZV-NND",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The will calls the wife Ann, not Coffield, and does not name Judith. Do not climb."
+  },
+  {
+    "parent_id": "LTRK-JDX",
+    "child_id": "GSH1-VVW",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Cumberland will of John Chaffin, 26 Jun 1767, proved 25 Jan 1773, names a son Joseph. Another Joseph, born about 1729, is also claimed as that heir. The chart's Joseph Amos, born 1741, is not separated from him by the will. Do not climb."
+  },
+  {
+    "parent_id": "LZ8B-K3R",
+    "child_id": "GSH1-VVW",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "John married Mary Canutt on 26 Jul 1746, after the chart birth of Joseph Amos in 1741. The will does not name her. Do not climb."
+  },
+  {
+    "parent_id": "9946-7N1",
+    "child_id": "LZ3L-KXN",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The Ulmet Fickeisen will-list is Johann Abraham Fickeysen, died 1724, and his children do not include a Johann Jacob of Valentino. No snippet names this pair. Do not climb."
+  },
+  {
+    "parent_id": "G551-NM3",
+    "child_id": "9QNK-TXF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Marriage contract 23 May 1774: Francois Echstelly of St. Charles, son of George Echstelly and Christine Elmaire, promises to marry Marie Therese Berthelot. George is Johann Georg Stahle."
+  },
+  {
+    "parent_id": "K48J-BW7",
+    "child_id": "9QNK-TXF",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same contract names Christine Elmaire (Edelmeier) as the mother. They married 9 Jul 1743 at St. John the Baptist."
+  },
+  {
+    "parent_id": "G551-B3Q",
+    "child_id": "9V46-5K8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "The same contract calls Marie Therese the daughter of the late Louis Berthelote and Louise Fontenau, native of Poste des Alibamons. The chart adds Urbain to Louis. The record names Louis."
+  },
+  {
+    "parent_id": "G5RM-Q2L",
+    "child_id": "9V46-5K8",
+    "grade": "B",
+    "verdict": "ACCEPT",
+    "climb": true,
+    "note": "Same contract names Louise Fontenau as the mother. Chart spelling Fontenot (Fonteneau) is that name."
+  },
+  {
+    "parent_id": "9VK9-J1Y",
+    "child_id": "L67S-BD6",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "David Gentry, born about 1708, married Sarah Brooks and died about 1762-64. No snippet names a son Nicholas born 1740. The Nicholas in the 1777 Albemarle will is a brother of that David, not this child. Do not climb."
+  },
+  {
+    "parent_id": "9VMY-76W",
+    "child_id": "L67S-BD6",
+    "grade": "C",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "Sarah Brooks is named as David's wife. She is not named as the mother of Nicholas Gentry born 1740. Do not climb."
+  },
+  {
+    "parent_id": "9VTY-7X9",
+    "child_id": "LHV4-LBW",
+    "grade": "U",
+    "verdict": "UNRESOLVED",
+    "climb": false,
+    "note": "The chart mother is recorded only as Rebecca, with no surname. Given name only."
   }
 ]
